@@ -1,0 +1,4 @@
+- Die Welt der Menschen wird von kosmischen Entitäten kontrolliert
+- Im Mittelpunkt dieser kosmischen Entitäten stehen die Kosmischen Strömungen
+- Die Menschen denken sie handeln aus eigenem Willen, dabei sind sie nur Marionetten
+- Evolution vom Menschen bis zur Kosmischen Strömung
