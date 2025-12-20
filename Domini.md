@@ -1,4 +1,4 @@
-Als Domini werden die Personen bezeichnet, die die zweite Evolutionsstufe, nach Izarens Kosmischer Evolutionstheorie, erreicht haben. Dabei unterscheidet man unter zwei Formen.
+Als Domini werden die Personen bezeichnet, die die zweite Evolutionsstufe, nach Kosmischer Evolutionstheorie, erreicht haben. Dabei unterscheidet man unter zwei Formen.
 
 Dominus Mentis (Herr des Geistes): Personen, die zum Dominus Mentis geworden sind, sind im kompletten mentalen Einklang mit den Wegen der Kosmischen Strömung. Sie sind mentaler und intellektueller Prophet von ihr und dienen als Medium zur Kommunikation mit ihr. Was einst nur als normale Himmelserscheinung interpretiert wurde, war nun der einzig richtige Pfad dem alle folgen mussten. Wobei es anfangs nicht so war. Als der erste Dominus Mentis, Izaren, versuchte seinen Leuten die Wege der Strömung nahezulegen und an sie zu glauben traf ihn nur Spott und Misstrauen. Als er sie jedoch bat in seine leuchtend grünen Augen zu schauen, sahen sie einen blauen Stern und sie verstanden. Izaren zog von Dorf zu Dorf und von Tür zu Tür und überzeugte nach und nach die Bewohner Yonagumas von den Wegen der Strömung.
 
