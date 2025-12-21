@@ -22,7 +22,7 @@
 # Die Invasion
 
 - In großer Entfernung haben andere Sterne endlich die Nachricht der Sonne bekommen, die sie vor langer Zeit losgeschickt hat
-- Einer dieser Sterne schickt eine Sternschnuppe los 
+- Einer dieser Sterne schickte eine Sternschnuppe los 
 - Lange Zeit vergeht, die Menschen entwickeln sich, die Natur gedeiht, die Sonne ist glücklich und wird von ihren Geschöpfen vergöttert
 - Auch wenn sie nicht alles was passiert, versteht
 - Doch eines Nachts wird ein Junge geboren
@@ -33,3 +33,54 @@
 - Als der Splitter seine Hand berührte, wurde Izaren sofort zum Gefäß der unbändigen Macht des weitentfernten Sterns
 - Sie gingen eine Kosmische Verbindung miteinander ein 
 - Das Herz und Hirn Izarens wurden von blauen Kristallen umschlossen und er wurde zum ersten Menschen der unter Einfluss einer anderen Kosmischen Entität als der Sonne aufwuchs
+
+# Der Aufstieg Izarens
+
+- Izarens Kindheit war von unzähligen Erfolgen geprägt
+- Seine Intelligenz und körperlichen Fähigkeiten überstiegen weitaus, die der Erwachsenen
+- Er studierte die Menschen und wie sie mit ihrer Gottheit, der Sonne, kommunizierten, sie anbeteten
+- Mit jungen Jahren wurde er bereits in den inneren Kreis der Könige gewählt
+- Er versuchte herauszufinden, wie er mit der Sonne kommunizieren kann 
+- Er fand heraus, dass nur der König und die Königen mit ihr in Kontakt treten konnten
+- Demnach war seine Annahme, dass er zum König werden musste 
+- Jedoch gab es keine Möglichkeit, denn König und Königin waren dies schon seit Tausenden von Jahren und wurden nicht demokratisch gewählt
+- Sie waren König und Königin weil sie mit der Sonne kommunizieren konnten und konnten mit der Sonne kommunizieren weil sie König und Königin waren
+- Erzürnt über diese Erkenntnis kam Izaren eine Idee
+- Die Menschen waren das, was der Sonne am wertvollsten war und dies wollte er nun zu seinem Vorteil nutzen
+- Eines Nachts ging er zu jenem Ort wo er zum ersten Mal Kontakt mit dem fremden Stern aufnahm
+- Er brauchte Leitung von der äußeren Entität, da er die Natur des Äußeren nicht verstand
+- Völlig instinktiv begann er ein Zeichen mit seinen Armen und Händen zu formen 
+- Seine Augen fingen an unfassbar hell, blau zu leuchten
+- Sein Aussehen veränderte sich komplett
+- Er wurde größer, stärker und war nicht mehr wiederzuerkennen
+
+# Izaren gegen die Königlichen
+
+- Am nächsten Tag erschien der neue Izaren vor dem Schloss
+- Er zog durch die Straßen der Königlichen Stadt 
+- Die Bewohner schauten ihn verwundert an, denn er repräsentierte keinen von ihnen
+- Er war fast doppelt so groß wie ausgewachsene Männer, sein Körper stabil und kraftsiechend 
+- Als er das Tor des königlichen Palasts öffnete und eintrat bemerkten König und Königin sofort, dass irgendwas nicht stimmte
+- Izaren begrüßte sie zwar wie immer jedoch verlangte er von den beiden, dass sie die Sonne bitten sollten mit ihm zu kommunizieren
+- Als sie ihm sagten, dass dies nicht möglich sei, selbst wenn sie dies wollten, begann Izaren mit Drohungen
+- Erneut verneinten sie ihn und drohten mit seiner Vernichtung aufgrund von Verrat
+- Doch bevor sie zu Ende reden konnten stürmte Izaren mit unfassbarer Geschwindigkeit auf sie zu
+- Gerade so konnten sie ausweichen, da auch sie übermenschliche körperliche und geistige Fähigkeiten besaßen
+- Genauso instinktiv wie Izaren in der Nacht davor, machten sie Zeichen mit ihrem Körper um die Kraft der Sonne zu erbeten
+- Jedoch war es zu spät, denn Izaren konnte zurückschlagen und hatte mit einem Hieb den Kopf der Königin und mit dem zweiten das Herz des Königs in seiner Hand 
+
+# Blau gegen Gelb
+
+- Izaren sah dass das Herz des Königs eine goldene Masse war, die ihn an die Sonne am Himmel erinnerte
+- Er hob es in die Luft, drückte leicht und es trat eine nektarartige Masse heraus
+- Er setzte zu seinem Mund an, drückte fester und begann die Masse zu trinken
+- Es vergingen ein paar Sekunden doch etwas hatte sich verändert 
+- Izaren hörte wie zwei Herzen begannen in ihm zu schlagen 
+- Endlich hatte er sein Ziel erreicht
+- Für einen halben Moment spürte Izaren ein Gefühl was er noch nie in seinem Leben spürte, das Gefühl, dass sein ganzes Leben ein Fehler war 
+- Doch genauso schnell wie das Gefühl kam, verschwand es wieder
+- Die beiden kosmischen Entitäten kommunizierten miteinander durch Izaren als Gefäß
+- Die Sonne war verzweifelt, sie hatte mit sowas nicht gerechnet
+- Plötzlich durchzog Izaren eine unfassbare Menge an Energie
+- Er stieg empor und ein letztes Aufeinandertreffen erleuchtete den Himmel
+- Was übrig blieb war die Leiche der Sonne, eine blaue Strömung und ein grüner Komet der auf die Erde fiel
