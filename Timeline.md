@@ -84,3 +84,38 @@
 - Plötzlich durchzog Izaren eine unfassbare Menge an Energie
 - Er stieg empor und ein letztes Aufeinandertreffen erleuchtete den Himmel
 - Was übrig blieb war die Leiche der Sonne, eine blaue Strömung und ein grüner Komet der auf die Erde fiel
+
+# Das Zeitalter der Diversität
+
+- Die unzähligen Anhänger der Sonne verloren langsam ihren Glauben in sie 
+- Die Leiche der Sonne spendete zwar immer noch Wärme aber Naturkatastrophen nahmen Überhand
+- Viele Menschen starben, neue Generationen wurde geboren
+- Das Königreich der Sonne verschwand und neue Reiche entstanden
+- Die einst vereinte Menschheit spaltete sich auf 
+- Die Blaue Strömung war inaktiv, die Sonne war eine Leiche, die Menschen hatten niemanden zu dem sie aufschauen konnten 
+- Doch eines Nachts kam ein riesiger Kometenhagel, ausgehend von der Blauen Strömung
+- Herunter kam eine große Menge an Sternenstaub und als die Menschen mit diesem in Kontakt kamen, wurde etwas in ihnen belebt was die Menschheit lange nicht mehr kannte, Glaube
+
+# Das Blaue Imperium
+
+- Die Menschen die den neu erweckten Glauben in sich trugen kamen zusammen und gründeten das Blaue Imperium
+- Ein neues Reich, das wieder Ordnung und Glaube über die Menschheit tragen sollte
+- Es wurde das größte Reich und gewann mithilfe des Glaubens jeden Krieg und jeden Kreuzzug
+- Die Personen mit dem größten Glauben und dem besten Verständnis konnten mit der Gnade der Blauen Strömung neue Höhen erreichen und, wie damals Izaren, Fähigkeiten entwickeln, die die der anderen Menschen meilenweit überstiegen
+
+# Der Neue Kontinent
+
+- Eine kleine Siedlung, die vor den Kreuzzeugen flüchtete, fuhr aus Verzweiflung über den großen Ozean mit einem Schiff, die Reise dauerte mehrere Tage, einige starben
+- Sie kamen auf einer wunderschönen, riesigen Insel an
+- Dort bildete sich eine Zivilisation fernab vom Blauen Imperium
+- Die Einwohner dort entwickelten sich prächtig und bauten ein Paradies in Harmonie auf 
+- Zudem war das Land auf dem sie lebten fruchtbar und voller Bodenschätze
+- Schmuck und Edelsteine am ganzen Körper gehörten zur Kleidungskonvention
+- Als eines Tages ein Minenarbeiter auf eine grünleuchtende Ader stoß, wurde das nächste große Ereignis ins Rollen gebracht
+
+# Das Erwachen
+
+- Der Minenarbeiter gab den anderen Bescheid
+- Zusammen arbeiteten sie daran die Ader freizumachen, doch sie war riesig
+- Nach und nach konnten sie sich durcharbeiten und gelangten zum Zentrum 
+- Dort sahen sie ein 3 Meter hohen Kristall in dem eine Gestalt zu sehen war
