@@ -28,7 +28,7 @@
 - Doch eines Nachts wird ein Junge geboren
 - Kurz nach seiner Geburt, geht seine Mutter mit ihm nach draußen um ihm das erste Mal die große weite Welt zu zeigen, die die Sonne für ihn geschaffen hat
 - Gemeinsam sehen sie wie zum ersten Mal die Antwort eines anderen Stern in Form einer Sternschnuppe durch den Himmel bricht
-- Und als der Junge zum ersten Mal das Licht der Welt erblickt und, anstelle seiner Mutter, Sternensplitter sah, wurde er Izaren genannt
+- Und als der Junge zum ersten Mal das Licht der Welt erblickt und, anstelle seiner Mutter, Sternensplitter sah, wurde er Izaren (*bask. izar*) genannt
 - Ein größerer Sternensplitter sink in Richtung Boden, direkt in die kleine ausgestreckte Hand Izarens
 - Als der Splitter seine Hand berührte, wurde Izaren sofort zum Gefäß der unbändigen Macht des weitentfernten Sterns
 - Sie gingen eine Kosmische Verbindung miteinander ein 
@@ -115,7 +115,27 @@
 
 # Das Erwachen
 
-- Der Minenarbeiter gab den anderen Bescheid
+- Der Minenarbeiter konnte mit all seiner Kraft ein Stück des Kristalls abbrechen und sah wie aus dem Inneren eine Flüssigkeit austrat
+- Als er mit dieser Flüssigkeit in Kontakt kam, änderte sich was
+- Auf einmal wurde der Arbeiter wie wahnsinnig, er musste unbedingt zum Zentrum der Ader
+- Er realisierte, dass er es alleine nicht schaffen konnte und gab den anderen Bescheid
+- Er zeigte Ihnen die kleinen Kristallstücke die er abtragen konnte
+- Sie kamen ebenfalls in Kontakt mit der mysteriösen Flüssigkeit und entwickelten die gleiche Not zum Zentrum der Ader zu gelangen
+- Sie verwendeten die abgetragenen Kristalle als Material für neue Werkzeuge, um sich effektiver durchzuarbeiten
 - Zusammen arbeiteten sie daran die Ader freizumachen, doch sie war riesig
 - Nach und nach konnten sie sich durcharbeiten und gelangten zum Zentrum 
-- Dort sahen sie ein 3 Meter hohen Kristall in dem eine Gestalt zu sehen war
+- Dort sahen sie ein 3 Meter hohen Kern in dem eine Gestalt zu sehen war
+- Sie fingen an zu weinen und nannten die Gestalt "Yrronkari" (*bask. erronkari*)
+- Tag und Nacht arbeiteten sie daran den Kern zu zerstören doch es ging nur sehr schleppend voran, selbst mit den neuen Werkzeugen
+- Der Kern war um ein vielfaches stärker als die äußeren Adern
+- Nach tagelanger Arbeit gelang es ihnen jedoch ein Loch in den Kern zu machen, riesige Mengen der Flüssigkeit traten heraus und Yrronkari regte sich aus seiner Fötus-Position
+
+# Yrronkari
+
+- Langsam versuchte sie ihre Gliedmaßen auszustrecken und spürte die Hülle die sie umgab
+- Ihre Augen leuchteten hell grün auf und der Kern verflüssigte sich komplett
+- Sie trat aus dem Zentrum zu den Minenarbeitern heraus
+- Sie hatte eine knapp drei Meter große, schlanke Figur, eine krumme Haltung, lange blonde Haare und einen beruhigenden Gesichtsausdruck
+- Sie konnte nicht sprechen, aber trotzdem wussten die Arbeiter immer was sie wollte
+- Langsam geleiteten sie sie aus dem tiefen Minenschacht und zu ihrer Hauptstadt
+- Die Minenarbeiter waren fest davon überzeugt, dass Yrronkari das Oberhaupt ihres Volkes werden musste
