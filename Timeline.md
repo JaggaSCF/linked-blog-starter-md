@@ -128,7 +128,7 @@
 - Sie fingen an zu weinen und nannten die Gestalt "Yrronkari" (*bask. erronkari*)
 - Tag und Nacht arbeiteten sie daran den Kern zu zerstören doch es ging nur sehr schleppend voran, selbst mit den neuen Werkzeugen
 - Der Kern war um ein vielfaches stärker als die äußeren Adern
-- Nach tagelanger Arbeit gelang es ihnen jedoch ein Loch in den Kern zu machen, riesige Mengen der Flüssigkeit traten heraus und Yrronkari regte sich aus seiner Fötus-Position
+- Nach tagelanger Arbeit gelang es ihnen jedoch ein Loch in den Kern zu machen, riesige Mengen der Flüssigkeit traten heraus und Yrronkari regte sich aus ihrer Fötus-Position
 
 # Yrronkari
 
@@ -139,3 +139,9 @@
 - Sie konnte nicht sprechen, aber trotzdem wussten die Arbeiter immer was sie wollte
 - Langsam geleiteten sie sie aus dem tiefen Minenschacht und zu ihrer Hauptstadt
 - Die Minenarbeiter waren fest davon überzeugt, dass Yrronkari das Oberhaupt ihres Volkes werden musste
+- Die anderen Bewohner waren zuerst sehr skeptisch und fürchteten sich vor ihr
+- Sie hatte etwas unmenschliches an sich, etwas Höheres
+- Es war als ob eine Entität aus dem Kosmos, wie etwa die Blaue Strömung, auf die Erde gefallen war, jedoch war sie noch sehr schwach
+- Die Minenarbeiter gaben den Menschen kleine Teile der Flüssigkeit auf ihre Hand, was ihren Glauben an Yrronkari entfachte
+- Und mit jeder Person, die an sie glaubte, wurde sie stärker
+- Nach ein paar Tagen war fast jeder Bewohner der Insel davon überzeugt, dass Yrronkari, ihr Volk zu neuen Höhen leiten wird 
