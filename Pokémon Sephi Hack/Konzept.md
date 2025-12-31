@@ -1,0 +1,8 @@
+- Spiel sehr ähnlich zu Heart Gold 
+- Änderungen nur wie in Blaze Black 2 Redux  / Luminiscent Platinum
+- Ähnliche Schwierigkeit wie Luminiscent Platinum
+- Große Encounter Vielfalt
+- Buffs von Pokémon aber nicht zu krasse
+- Sephiron Insider
+- Level Caps
+- Für Nuzlockes gemacht
