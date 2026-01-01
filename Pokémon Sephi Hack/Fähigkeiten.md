@@ -225,7 +225,7 @@
 | 0463 | Schlurplek                 | Gleichmut (/)        | Dösigkeit (/)        | Wolke Sieben (/)     |
 | 0465 | Tangoloss                  |                      | Floraschild (/)      |                      |
 | 0466 | Elevoltek                  |                      |                      | Munterkeit (/)       |
-| 0467 |                            |                      |                      |                      |
+| 0467 | Magbrant                   |                      |                      | Munterkeit (/)       |
 | 0468 | Togekiss                   |                      | Edelmut (/)          |                      |
 | 0469 | Yanmega                    |                      |                      | Schnüffler (/)       |
 | 0470 | Folipurba                  | Floraschild (/)      | Floraschild (/)      |                      |
