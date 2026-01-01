@@ -1,6 +1,0 @@
-- Maps von Heart Gold in PDSM importieren 
-- Importierte Maps anpassen
-- Pokémon bis Gen 9 testen
-- Scripting Tests
-- Dynamische Kamera
-- Mehr Tilesets holen
