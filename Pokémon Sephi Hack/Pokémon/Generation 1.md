@@ -408,55 +408,80 @@ AT = Attacke veraltet
 | 0130 | Garados      |       |
 | *0130* | *Mega-Garados* |       |
 
-| Nr. | Name | Makel |
-| --- | ---- | ----- |
-|     |      |       |
+| Nr.  | Name   | Makel |
+| ---- | ------ | ----- |
+| 0131 | Lapras |       |
 
-| Nr. | Name | Makel |
-| --- | ---- | ----- |
-|     |      |       |
+| Nr.  | Name  | Makel |
+| ---- | ----- | ----- |
+| 0132 | Ditto |       |
 
-| Nr. | Name | Makel |
-| --- | ---- | ----- |
-|     |      |       |
+| Nr.  | Name      | Makel |
+| ---- | --------- | ----- |
+| 0133 | Evoli     |       |
+| 0134 | Aquana    |       |
+| 0135 | Blitza    |       |
+| 0136 | Flamara   |       |
+| **0196** | **Psiana**    |       |
+| **0197** | **Nachtara**  |       |
+| **0470** | **Folipurba** |       |
+| **0471** | **Glaziola**  |       |
+| **0700** | **Feelinara** |       |
 
-| Nr. | Name | Makel |
-| --- | ---- | ----- |
-|     |      |       |
+| Nr.      | Name          | Makel |
+| -------- | ------------- | ----- |
+| **0137**     | **Porygon**       |       |
+| 0233     | Porygon2      |       |
+| **0474** | **Porygon-Z** |       |
 
-| Nr. | Name | Makel |
-| --- | ---- | ----- |
-|     |      |       |
+| Nr.  | Name     | Makel |
+| ---- | -------- | ----- |
+| 0138 | Amonitas |       |
+| 0139 | Amoroso  |       |
 
-| Nr. | Name | Makel |
-| --- | ---- | ----- |
-|     |      |       |
+| Nr.  | Name     | Makel |
+| ---- | -------- | ----- |
+| 0140 | Kabuto   |       |
+| 0141 | Kabutops |       |
 
-| Nr. | Name | Makel |
-| --- | ---- | ----- |
-|     |      |       |
+| Nr.  | Name            | Makel |
+| ---- | --------------- | ----- |
+| 0142 | Aerodactyl      |       |
+| *0142* | *Mega-Aerodactyl* |       |
 
-| Nr. | Name | Makel |
-| --- | ---- | ----- |
-|     |      |       |
+| Nr.  | Name     | Makel |
+| ---- | -------- | ----- |
+| **0446** | **Mampfaxo** |       |
+| 0143 | Relaxo   |       |
 
-| Nr. | Name | Makel |
-| --- | ---- | ----- |
-|     |      |       |
+| Nr.  | Name         | Makel |
+| ---- | ------------ | ----- |
+| 0144 | Arktos       |       |
+| *0144* | *Galar-Arktos* |       |
 
-| Nr. | Name | Makel |
-| --- | ---- | ----- |
-|     |      |       |
+| Nr.  | Name         | Makel |
+| ---- | ------------ | ----- |
+| 0145 | Zapdos       |       |
+| *0145* | *Galar-Zapdos* |       |
 
-| Nr. | Name | Makel |
-| --- | ---- | ----- |
-|     |      |       |
+| Nr.  | Name          | Makel |
+| ---- | ------------- | ----- |
+| 0146 | Lavados       |       |
+| *0146* | *Galar-Lavados* |       |
 
-| Nr. | Name | Makel |
-| --- | ---- | ----- |
-|     |      |       |
+| Nr.  | Name     | Makel |
+| ---- | -------- | ----- |
+| 0147 | Dratini  |       |
+| 0148 | Dragonir |       |
+| 0149 | Dragoran |       |
 
-| Nr. | Name | Makel |
-| --- | ---- | ----- |
-|     |      |       |
+| Nr.  | Name         | Makel |
+| ---- | ------------ | ----- |
+| 0150 | Mewtu        |       |
+| *0150* | *Mega-Mewtu-X* |       |
+| *0150* | *Mega-Mewtu-Y* |       |
+
+| Nr.  | Name | Makel |
+| ---- | ---- | ----- |
+| 0151 | Mew  |       |
 
