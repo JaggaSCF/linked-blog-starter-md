@@ -14,9 +14,10 @@
 | 0065 | Simsala                    |                      | Konzentrator (/)     |                      |
 | 0077 | Galar-Ponita               |                      | Pastelhülle (x)      |                      |
 | 0078 | Galar-Galoppa              |                      | Pastehülle (x)       |                      |
-| 0079 | Flegmon                    | Dösigkeit (/)        |                      |                      |
-| 0080 | Lahmus                     | Dösigkeit (/)        |                      |                      |
-| 0080 | Galar-Lahmus               | Schnellschuss (x)    |                      |                      |
+| 0079 | Flegmon                    | Dösigkeit (/)        | Gleichmut (/)        |                      |
+| 0079 | Galar-Flegmon              |                      | Gleichmut (/)        |                      |
+| 0080 | Lahmus                     | Dösigkeit (/)        | Gleichmut (/)        |                      |
+| 0080 | Galar-Lahmus               | Schnellschuss (x)    | Gleichmut (/)        |                      |
 | 0083 | Porenta                    |                      | Konzentrator (/)     | Siegeswille (x)      |
 | 0088 | Alola-Sleima               |                      |                      | Chemiekraft (x)      |
 | 0089 | Alola-Sleimok              |                      |                      | Chemiekraft (x)      |
@@ -25,7 +26,7 @@
 | 0096 | Traumato                   |                      |                      | Konzentrator (/)     |
 | 0097 | Hypno                      |                      |                      | Konzentrator (/)     |
 | 0107 | Nockchan                   |                      |                      | Konzentrator (/)     |
-| 0108 | Schlurp                    |                      | Dösigkeit (/)        |                      |
+| 0108 | Schlurp                    | Gleichmut (/)        | Dösigkeit (/)        |                      |
 | 0109 | Smogon                     |                      | Reaktionsgas (x)     |                      |
 | 0110 | Smogmog                    |                      | Reaktionsgas (x)     |                      |
 | 0110 | Galar-Smogmog              |                      | Reaktionsgas (x)     |                      |
@@ -42,8 +43,8 @@
 | 0178 | Xatu                       |                      |                      | Magiespiegel (x)     |
 | 0196 | Psiana                     |                      |                      | Magiespiegel (x)     |
 | 0197 | Nachtara                   |                      |                      | Konzentrator (/)     |
-| 0199 | Laschoking                 | Dösigkeit (/)        |                      |                      |
-| 0199 | Galar-Laschoking           | Kuriose Arznei (x)   |                      |                      |
+| 0199 | Laschoking                 | Dösigkeit (/)        | Gleichmut (/)        |                      |
+| 0199 | Galar-Laschoking           | Kuriose Arznei (x)   | Gleichmut (/)        |                      |
 | 0203 | Girafarig                  | Konzentrator (/)     |                      |                      |
 | 0204 | Tannza                     |                      |                      | Partikelschutz (/)   |
 | 0205 | Forstellka                 |                      |                      | Partikelschutz (/)   |
@@ -52,23 +53,30 @@
 | 0215 | Hisui-Sniebel              | Konzentrator (/)     |                      |                      |
 | 0220 | Quiekel                    | Dösigkeit (/)        |                      |                      |
 | 0221 | Keifel                     | Dösigkeit (/)        |                      |                      |
+| 0235 | Farbeagle                  | Gleichmut (/)        |                      | Gefühlswippe (/)     |
 | 0238 | Kussilla                   | Dösigkeit (/)        |                      |                      |
 | 0243 | Raikou                     |                      |                      | Konzentrator (/)     |
 | 0244 | Entei                      |                      |                      | Konzentrator (/)     |
 | 0245 | Suicune                    |                      |                      | Konzentrator (/)     |
+| 0270 | Loturzel                   |                      |                      | Gleichmut (/)        |
+| 0271 | Lombrero                   |                      |                      | Gleichmut (/)        |
+| 0272 | Kappalores                 |                      |                      | Gleichmut (/)        |
 | 0302 | Mega-Zobiris               | Magiespiegel (x)     | Magiespiegel (x)     | Magiespiegel (x)     |
 | 0314 | Illumise                   | Dösigkeit (/)        |                      |                      |
 | 0320 | Wailmer                    |                      | Dösigkeit (/)        |                      |
 | 0321 | Wailord                    |                      | Dösigkeit (/)        |                      |
 | 0322 | Camaub                     | Dösigkeit (/)        |                      |                      |
-| 0327 | Pandir                     |                      |                      | Umkehrung (x)        |
+| 0322 | Camaub                     |                      |                      | Gleichmut (/)        |
+| 0325 | Spoink                     |                      | Gleichmut (/)        |                      |
+| 0326 | Groink                     |                      | Gleichmut (/)        |                      |
+| 0327 | Pandir                     | Gleichmut (/)        |                      | Umkehrung (x)        |
 | 0339 | Schmerbe                   | Dösigkeit (/)        |                      |                      |
 | 0340 | Welsar                     | Dösigkeit (/)        |                      |                      |
 | 0349 | Barschwa                   |                      | Dösigkeit (/)        |                      |
 | 0350 | Milotic                    |                      | Unbeugsamkeit (x)    |                      |
 | 0359 | Mega-Absol                 | Magiespiegel (x)     | Magiespiegel (x)     | Magiespiegel (x)     |
-| 0361 | Schneppke                  | Konzentrator (/)     |                      |                      |
-| 0362 | Firnontor                  | Konzentrator (/)     |                      |                      |
+| 0361 | Schneppke                  | Konzentrator (/)     |                      | Gefühlswippe (/)     |
+| 0362 | Firnontor                  | Konzentrator (/)     |                      | Gefühlswippe (/)     |
 | 0363 | Seemops                    |                      |                      | Dösigkeit (/)        |
 | 0364 | Seejong                    |                      |                      | Dösigkeit (/)        |
 | 0365 | Wailraisa                  |                      |                      | Dösigkeit (/)        |
@@ -78,10 +86,11 @@
 | 0395 | Impoleon                   |                      |                      | Unbeugsamkeit (x)    |
 | 0412 | Burmy                      |                      |                      | Partikelschutz (/)   |
 | 0413 | Burmadama                  |                      |                      | Partikelschutz (/)   |
-| 0432 | Shnurgarst                 |                      |                      | Siegeswille (x)      |
+| 0431 | Charmian                   |                      | Gleichmut (/)        |                      |
+| 0432 | Shnurgarst                 |                      | Gleichmut (/)        | Siegeswille (x)      |
 | 0447 | Riolu                      |                      | Konzentrator (/)     |                      |
 | 0448 | Lucario                    |                      | Konzentrator (/)     |                      |
-| 0463 | Schlurplek                 |                      | Dösigkeit (/)        |                      |
+| 0463 | Schlurplek                 | Gleichmut (/)        | Dösigkeit (/)        |                      |
 | 0473 | Mamutel                    | Dösigkeit (/)        |                      |                      |
 | 0475 | Mega-Galagladi             | Konzentrator (/)     | Konzentrator (/)     | Konzentrator (/)     |
 | 0495 | Serpifeu                   |                      |                      | Umkehrung (x)        |
@@ -144,8 +153,8 @@
 | 0742 | Wommel                     |                      |                      | Zuckerhülle (x)      |
 | 0743 | Bandelby                   |                      |                      | Zuckerhülle (x)      |
 | 0746 | Lusardin                   | Fischschwarm (x)     | Fischschwarm (x)     | Fischschwarm (x)     |
-| 0749 | Pampuli                    |                      |                      | Konzentrator (/)     |
-| 0750 | Pampross                   |                      |                      | Konzentrator (/)     |
+| 0749 | Pampuli                    | Gleichmut (/)        |                      | Konzentrator (/)     |
+| 0750 | Pampross                   | Gleichmut (/)        |                      | Konzentrator (/)     |
 | 0753 | Imantis                    |                      |                      | Umkehrung (x)        |
 | 0754 | Mantidea                   |                      |                      | Umkehrung (x)        |
 | 0757 | Molunk                     |                      |                      | Dösigkeit (/)        |
@@ -262,3 +271,20 @@
 | 1024 | Terapagos (Normalform)     | Tera-Wandel (x)      | Tera-Wandel (x)      | Tera-Wandel (x)      |
 | 1024 | Terapagos (Stellarform)    | Teraforming Null (x) | Teraforming Null (x) | Teraforming Null (x) |
 | 1025 | Infamomo                   | Giftpuppenspiel (x)  | Giftpuppenspiel (x)  | Giftpuppenspiel (x)  |
+| 0548 | Lilminip                   |                      | Gleichmut (/)        |                      |
+| 0549 | Dressella                  |                      | Gleichmut (/)        |                      |
+| 0677 | Psiau                      |                      |                      | Gleichmut (/)        |
+| 0712 | Arktip                     | Gleichmut (/)        |                      |                      |
+| 0713 | Arktilas                   | Gleichmut (/)        |                      |                      |
+| 0876 | Servol (w)                 | Gleichmut (/)        |                      |                      |
+| 0924 | Zwieps                     |                      |                      | Gleichmut (/)        |
+| 0926 | Hefel                      | Gleichmut (/)        | Gleichmut (/)        |                      |
+| 0938 | Blipp                      | Gleichmut (/)        |                      |                      |
+| 0957 | Forgita                    |                      | Gleichmut (/)        |                      |
+| 0958 | Tafforgita                 |                      | Gleichmut (/)        |                      |
+| 0959 | Granforgita                |                      | Gleichmut (/)        |                      |
+| 0223 | Remoraid                   |                      |                      | Gefühlswippe (/)     |
+| 0224 | Octillery                  |                      |                      | Gefühlswippe (/)     |
+| 0399 | Bidiza                     |                      |                      | Gefühlswippe (/)     |
+| 0400 | Bidifas                    |                      |                      | Gefühlswippe (/)     |
+| 0952 | Halupenjo                  |                      |                      | Gefühlswippe (/)     |
