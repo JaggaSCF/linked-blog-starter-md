@@ -1,10 +1,3 @@
-FF = Fähigkeit fehlt
-WFF = Wichtige Fähigkeit fehlt
-FV = Fähigkeit veraltet
-
-AT = Attacke fehlt
-WAT = Wichtige Attacke fehlt
-AT = Attacke veraltet
 
 **Rot** = Nicht aus der Gen
 *Blau* = Form
@@ -94,42 +87,42 @@ AT = Attacke veraltet
 | 0033 | Nidorino         |       |
 | 0034 | Nidoking         |       |
 
-| Nr.      | Name  | Makel |
-| -------- | ----- | ----- |
-| **0173** | **Pii**   |       |
-| 0035     | Piepi |       |
-| 0036     | Pixi  |       |
+| Nr.      | Name    | Makel                                                                             |
+| -------- | ------- | --------------------------------------------------------------------------------- |
+| **0173** | **Pii** | 2. Fähigkeit veraltet (Magieschild)                                               |
+| 0035     | Piepi   | 2. Fähigkeit veraltet (Magieschild)                                               |
+| 0036     | Pixi    | 2. Fähigkeit veraltet (Magieschild)<br>Versteckte Fähigkeit veraltet (Unkenntnis) |
 
-| Nr.  | Name          | Makel |
-| ---- | ------------- | ----- |
-| 0037 | Vulpix        |       |
-| 0038 | Vulnona       |       |
-| *0037* | *Alola-Vulpix*  |       |
-| *0038* | *Alola-Vulnona* |       |
+| Nr.    | Name            | Makel                                      |
+| ------ | --------------- | ------------------------------------------ |
+| 0037   | Vulpix          | 1. und 2. Fähigkeit veraltet (Feuerfänger) |
+| 0038   | Vulnona         | 1. und 2. Fähigkeit veraltet (Feuerfänger) |
+| *0037* | *Alola-Vulpix*  |                                            |
+| *0038* | *Alola-Vulnona* |                                            |
 
-| Nr.      | Name       | Makel |
-| -------- | ---------- | ----- |
-| **0174** | **Fluffeluff** |       |
-| 0039     | Pummeluff  |       |
-| 0040     | Knuddeluff |       |
+| Nr.      | Name           | Makel                                                                            |
+| -------- | -------------- | -------------------------------------------------------------------------------- |
+| **0174** | **Fluffeluff** | 2. Fähigkeit fehlt (Unbeugsamkeit)                                               |
+| 0039     | Pummeluff      | 2. Fähigkeit fehlt (Unbeugsamkeit)                                               |
+| 0040     | Knuddeluff     | 2. Fähigkeit fehlt (Unbeugsamkeit)<br>Versteckte Fähigkeit veraltet (Schnüffler) |
 
-| Nr.      | Name   | Makel |
-| -------- | ------ | ----- |
-| 0041     | Zubat  |       |
-| 0042     | Golbat |       |
-| **0169** | **Iksbat** |       |
+| Nr.      | Name       | Makel                                       |
+| -------- | ---------- | ------------------------------------------- |
+| 0041     | Zubat      | 1. und 2. Fähigkeit veraltet (Konzentrator) |
+| 0042     | Golbat     | 1. und 2. Fähigkeit veraltet (Konzentrator) |
+| **0169** | **Iksbat** | 1. und 2. Fähigkeit veraltet (Konzentrator) |
 
-| Nr.  | Name     | Makel |
-| ---- | -------- | ----- |
-| 0043 | Myrapla  |       |
-| 0044 | Duflor   |       |
-| 0045 | Giflor   |       |
-| **0182** | **Blubella** |       |
+| Nr.      | Name         | Makel                                      |
+| -------- | ------------ | ------------------------------------------ |
+| 0043     | Myrapla      |                                            |
+| 0044     | Duflor       |                                            |
+| 0045     | Giflor       | Versteckte Fähigkeit veraltet (Sporenwirt) |
+| **0182** | **Blubella** |                                            |
 
-| Nr.  | Name    | Makel |
-| ---- | ------- | ----- |
-| 0046 | Paras   |       |
-| 0047 | Parasek |       |
+| Nr.  | Name    | Makel                              |
+| ---- | ------- | ---------------------------------- |
+| 0046 | Paras   | 1. Fähigkeit veraltet (Sporenwirt) |
+| 0047 | Parasek | 1. Fähigkeit veraltet (Sporenwirt) |
 
 | Nr.  | Name   | Makel |
 | ---- | ------ | ----- |
@@ -143,32 +136,32 @@ AT = Attacke veraltet
 | *0050* | *Alola-Digda*  |       |
 | *0051* | *Alola-Digdri* |       |
 
-| Nr.    | Name               | Makel |
-| ------ | ------------------ | ----- |
-| 0052   | Mauzi              |       |
-| 0053   | Snobilikat         |       |
-| *0052* | *Alola-Mauzi*      |       |
-| *0053* | *Alola-Snobilikat* |       |
-| *0052* | *Galar-Mauzi*      |       |
-| **0863**   | **Mauzinger**          |       |
+| Nr.      | Name               | Makel                                    |
+| -------- | ------------------ | ---------------------------------------- |
+| 0052     | Mauzi              | 1. Fähigkeit veraltet (Mitnahmen)        |
+| 0053     | Snobilikat         |                                          |
+| *0052*   | *Alola-Mauzi*      | 1. Fähigkeit veraltet (Mitnahmen)        |
+| *0053*   | *Alola-Snobilikat* | Versteckte Fähigkeit veraltet (Hasenfuß) |
+| *0052*   | *Galar-Mauzi*      | 1. Fähigkeit veraltet (Mitnahmen)        |
+| **0863** | **Mauzinger**      |                                          |
 
-| Nr.  | Name    | Makel |
-| ---- | ------- | ----- |
-| 0054 | Enton   |       |
-| 0055 | Entoron |       |
+| Nr.  | Name    | Makel                                |
+| ---- | ------- | ------------------------------------ |
+| 0054 | Enton   | 2. Fähigkeit veraltet (Wolke Sieben) |
+| 0055 | Entoron | 2. Fähigkeit veraltet (Wolke Sieben) |
 
-| Nr.  | Name    | Makel |
-| ---- | ------- | ----- |
-| 0056 | Menki   |       |
-| 0057 | Rasaff  |       |
-| **0979** | **Epitaff** |       |
+| Nr.      | Name        | Makel                                                                                                                  |
+| -------- | ----------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 0056     | Menki       | 1. Fähigkeit veraltet (Munterkeit)<br>2. Fähigkeit veraltet (Kurzschluss)<br>Versteckte Fähigkeit fehlt (Siegeswille)  |
+| 0057     | Rasaff      | 1. Fähigkeit veraltet (Munterkeit)<br>2. Fähigkeit veraltet (Kurzschluss)<br>Versteckte Fähigkeit fehlt (Siegeswille)  |
+| **0979** | **Epitaff** | 1. Fähigkeit veraltet (Munterkeit)<br>2. Fähigkeit veraltet (Konzentrator)<br>Versteckte Fähigkeit fehlt (Siegeswille) |
 
-| Nr.  | Name         | Makel |
-| ---- | ------------ | ----- |
-| 0058 | Fukano       |       |
-| 0059 | Arkani       |       |
-| *0058* | *Hisui-Fukano* |       |
-| *0059* | *Hisui-Arkani* |       |
+| Nr.    | Name           | Makel                               |
+| ------ | -------------- | ----------------------------------- |
+| 0058   | Fukano         | 2. Fähigkeit veraltet (Feuerfänger) |
+| 0059   | Arkani         | 2. Fähigkeit veraltet (Feuerfänger) |
+| *0058* | *Hisui-Fukano* | 2. Fähigkeit veraltet (Feuerfänger) |
+| *0059* | *Hisui-Arkani* | 2. Fähigkeit veraltet (Feuerfänger) |
 
 | Nr.  | Name     | Makel |
 | ---- | -------- | ----- |
@@ -177,12 +170,12 @@ AT = Attacke veraltet
 | 0062 | Quappo   |       |
 | **0186** | **Quaxo**    |       |
 
-| Nr.  | Name         | Makel |
-| ---- | ------------ | ----- |
-| 0063 | Abra         |       |
-| 0064 | Kadabra      |       |
-| 0065 | Simsala      |       |
-| *0065* | *Mega-Simsala* |       |
+| Nr.    | Name           | Makel                                                                                                          |
+| ------ | -------------- | -------------------------------------------------------------------------------------------------------------- |
+| 0063   | Abra           | 1. Fähigkeit veraltet (Synchro)<br>2. Fähigkeit veraltet (Konzentrator)<br>3. Fähigkeit veraltet (Magieschild) |
+| 0064   | Kadabra        | 1. Fähigkeit veraltet (Synchro)<br>2. Fähigkeit veraltet (Konzentrator)<br>3. Fähigkeit veraltet (Magieschild) |
+| 0065   | Simsala        | 1. Fähigkeit veraltet (Synchro)<br>2. Fähigkeit veraltet (Konzentrator)<br>3. Fähigkeit veraltet (Magieschild) |
+| *0065* | *Mega-Simsala* |                                                                                                                |
 
 | Nr.  | Name     | Makel |
 | ---- | -------- | ----- |
@@ -210,22 +203,22 @@ AT = Attacke veraltet
 | *0075* | *Alola-Georok*     |       |
 | *0076* | *Alola-Geowaz*     |       |
 
-| Nr.  | Name          | Makel |
-| ---- | ------------- | ----- |
-| 0077 | Ponita        |       |
-| 0078 | Galoppa       |       |
-| *0077* | *Galar-Ponita*  |       |
-| *0078* | *Galar-Galoppa* |       |
+| Nr.    | Name            | Makel                                                                         |
+| ------ | --------------- | ----------------------------------------------------------------------------- |
+| 0077   | Ponita          | 2. Fähigkeit veraltet (Feuerfänger)                                           |
+| 0078   | Galoppa         | 2. Fähigkeit veraltet (Feuerfänger)                                           |
+| *0077* | *Galar-Ponita*  | 2. Fähigkeit fehlt (Pastelhülle)<br>Versteckte Fähigkeit veraltet (Vorahnung) |
+| *0078* | *Galar-Galoppa* | 2. Fähigkeit fehlt (Pastelhülle)<br>Versteckte Fähigkeit veraltet (Vorahnung) |
 
-| Nr.        | Name                   | Makel |
-| ---------- | ---------------------- | ----- |
-| 0079       | Flegmon                |       |
-| 0080       | Lahmus                 |       |
-| **0199**   | **Laschoking**         |       |
-| *0080*     | *Mega-Lahmus*          |       |
-| *0079*     | *Galar-Flegmon*        |       |
-| *0080*     | *Galar-Lahmus*         |       |
-| ***0199*** | ***Galar-Laschoking*** |       |
+| Nr.        | Name                   | Makel                                                                    |
+| ---------- | ---------------------- | ------------------------------------------------------------------------ |
+| 0079       | Flegmon                | 1. Fähigkeit veraltet (Dösigkeit)<br>2. Fähigkeit veraltet (Gleichmut)   |
+| 0080       | Lahmus                 | 1. Fähigkeit veraltet (Dösigkeit)<br>2. Fähigkeit veraltet (Gleichmut)   |
+| **0199**   | **Laschoking**         | 1. Fähigkeit veraltet (Dösigkeit)<br>2. Fähigkeit veraltet (Gleichmut)   |
+| *0080*     | *Mega-Lahmus*          |                                                                          |
+| *0079*     | *Galar-Flegmon*        | 2. Fähigkeit veraltet (Gleichmut)                                        |
+| *0080*     | *Galar-Lahmus*         | 1. Fähigkeit fehlt (Schnellschuss)<br>2. Fähigkeit veraltet (Gleichmut)  |
+| ***0199*** | ***Galar-Laschoking*** | 1. Fähigkeit fehlt (Kuriose Arznei)<br>2. Fähigkeit veraltet (Gleichmut) |
 
 | Nr.  | Name      | Makel |
 | ---- | --------- | ----- |
@@ -233,11 +226,11 @@ AT = Attacke veraltet
 | 0082 | Magneton  |       |
 | **0462** | **Magnezone** |       |
 
-| Nr.    | Name            | Makel |
-| ------ | --------------- | ----- |
-| 0083   | Porenta         |       |
-| *0083* | *Galar-Porenta* |       |
-| **0865**   | **Lauchzelot**      |       |
+| Nr.      | Name            | Makel                                                                            |
+| -------- | --------------- | -------------------------------------------------------------------------------- |
+| 0083     | Porenta         | 2. Fähigkeit veraltet (Konzentrator)<br>Versteckte Fähigkeit fehlt (Siegeswille) |
+| *0083*   | *Galar-Porenta* |                                                                                  |
+| **0865** | **Lauchzelot**  |                                                                                  |
 
 | Nr.  | Name  | Makel |
 | ---- | ----- | ----- |
@@ -249,17 +242,17 @@ AT = Attacke veraltet
 | 0086 | Jurob  |       |
 | 0087 | Jugong |       |
 
-| Nr.  | Name          | Makel |
-| ---- | ------------- | ----- |
-| 0088 | Sleima        |       |
-| 0089 | Sleimok       |       |
-| *0088* | *Alola-Sleima*  |       |
-| *0089* | *Alola-Sleimok* |       |
+| Nr.    | Name            | Makel                                    |
+| ------ | --------------- | ---------------------------------------- |
+| 0088   | Sleima          | 2. Fähigkeit veraltet (Klebekörper)      |
+| 0089   | Sleimok         | 2. Fähigkeit veraltet (Klebekörper)      |
+| *0088* | *Alola-Sleima*  | Versteckte Fähigkeit fehlt (Chemiekraft) |
+| *0089* | *Alola-Sleimok* | Versteckte Fähigkeit fehlt (Chemiekraft) |
 
-| Nr.  | Name    | Makel |
-| ---- | ------- | ----- |
-| 0090 | Muschas |       |
-| 0091 | Austos  |       |
+| Nr.  | Name    | Makel                                                                               |
+| ---- | ------- | ----------------------------------------------------------------------------------- |
+| 0090 | Muschas | 2. Fähigkeit veraltet (Wertelink)<br>Versteckte Fähigkeit veraltet (Partikelschutz) |
+| 0091 | Austos  | 2. Fähigkeit veraltet (Wertelink)<br>Versteckte Fähigkeit veraltet (Partikelschutz) |
 
 | Nr.    | Name          | Makel |
 | ------ | ------------- | ----- |
@@ -274,10 +267,10 @@ AT = Attacke veraltet
 | **0208** | **Stahlos**  |       |
 | ***0208***     | ***Mega-Stahlos*** |       |
 
-| Nr.  | Name     | Makel |
-| ---- | -------- | ----- |
-| 0096 | Traumato |       |
-| 0097 | Hypno    |       |
+| Nr.  | Name     | Makel                                        |
+| ---- | -------- | -------------------------------------------- |
+| 0096 | Traumato | Versteckte Fähigkeit veraltet (Konzentrator) |
+| 0097 | Hypno    | Versteckte Fähigkeit veraltet (Konzentrator) |
 
 | Nr.  | Name    | Makel |
 | ---- | ------- | ----- |
@@ -291,11 +284,11 @@ AT = Attacke veraltet
 | *0100* | *Hisui-Voltobal*  |       |
 | *0101* | *Hisui-Lektrobal* |       |
 
-| Nr.  | Name          | Makel |
-| ---- | ------------- | ----- |
-| 0102 | Owei          |       |
-| 0103 | Kokowei       |       |
-| *0103* | *Alola-Kokowei* |       |
+| Nr.    | Name            | Makel                                     |
+| ------ | --------------- | ----------------------------------------- |
+| 0102   | Owei            |                                           |
+| 0103   | Kokowei         |                                           |
+| *0103* | *Alola-Kokowei* | 1. und 2. Fähigkeit veraltet (Schnüffler) |
 
 | Nr.  | Name         | Makel |
 | ---- | ------------ | ----- |
@@ -303,23 +296,23 @@ AT = Attacke veraltet
 | 0105 | Knogga       |       |
 | *0105* | *Alola-Knogga* |       |
 
-| Nr.      | Name        | Makel |
-| -------- | ----------- | ----- |
-| **0236**     | **Rabauz**      |       |
-| 0106     | Kicklee     |       |
-| 0107     | Nockchan    |       |
-| **0237** | **Kapoera** |       |
+| Nr.      | Name        | Makel                                        |
+| -------- | ----------- | -------------------------------------------- |
+| **0236** | **Rabauz**  | Versteckte Fähigkeit veraltet (Munterkeit)   |
+| 0106     | Kicklee     |                                              |
+| 0107     | Nockchan    | Versteckte Fähigkeit veraltet (Konzentrator) |
+| **0237** | **Kapoera** |                                              |
 
-| Nr.  | Name       | Makel |
-| ---- | ---------- | ----- |
-| 0108 | Schlurp    |       |
-| **0463** | **Schlurplek** |       |
+| Nr.      | Name           | Makel                                                                                                          |
+| -------- | -------------- | -------------------------------------------------------------------------------------------------------------- |
+| 0108     | Schlurp        | 1. Fähigkeit veraltet (Gleichmut)<br>2. Fähigkeit veraltet (Dösigkeit)<br>3. Fähigkeit veraltet (Wolke Sieben) |
+| **0463** | **Schlurplek** | 1. Fähigkeit veraltet (Gleichmut)<br>2. Fähigkeit veraltet (Dösigkeit)<br>3. Fähigkeit veraltet (Wolke Sieben) |
 
-| Nr.    | Name            | Makel |
-| ------ | --------------- | ----- |
-| 0109   | Smogon          |       |
-| 0110   | Smogmog         |       |
-| *0110* | *Galar-Smogmog* |       |
+| Nr.    | Name            | Makel                             |
+| ------ | --------------- | --------------------------------- |
+| 0109   | Smogon          | 2. Fähigkeit fehlt (Reaktionsgas) |
+| 0110   | Smogmog         | 2. Fähigkeit fehlt (Reaktionsgas) |
+| *0110* | *Galar-Smogmog* | 2. Fähigkeit fehlt (Reaktionsgas) |
 
 | Nr.  | Name      | Makel |
 | ---- | --------- | ----- |
@@ -327,21 +320,21 @@ AT = Attacke veraltet
 | 0112 | Rizeros   |       |
 | **0464** | **Rihornior** |       |
 
-| Nr.      | Name         | Makel |
-| -------- | ------------ | ----- |
-| **0440**     | **Wonneira**     |       |
-| 0113     | Chaneira     |       |
-| **0242** | **Heiteira** |       |
+| Nr.      | Name         | Makel                           |
+| -------- | ------------ | ------------------------------- |
+| **0440** | **Wonneira** | 2. Fähigkeit veraltet (Edelmut) |
+| 0113     | Chaneira     | 2. Fähigkeit veraltet (Edelmut) |
+| **0242** | **Heiteira** | 2. Fähigkeit veraltet (Edelmut) |
 
-| Nr.  | Name      | Makel |
-| ---- | --------- | ----- |
-| 0114 | Tangela   |       |
-| **0465** | **Tangoloss** |       |
+| Nr.      | Name          | Makel                               |
+| -------- | ------------- | ----------------------------------- |
+| 0114     | Tangela       | 2. Fähigkeit veraltet (Floraschild) |
+| **0465** | **Tangoloss** | 2. Fähigkeit veraltet (Floraschild) |
 
-| Nr.  | Name         | Makel |
-| ---- | ------------ | ----- |
-| 0115 | Kangama      |       |
-| *0115* | *Mega-Kangama* |       |
+| Nr.    | Name           | Makel                                        |
+| ------ | -------------- | -------------------------------------------- |
+| 0115   | Kangama        | Versteckte Fähigkeit veraltet (Konzentrator) |
+| *0115* | *Mega-Kangama* |                                              |
 
 | Nr.  | Name       | Makel |
 | ---- | ---------- | ----- |
@@ -359,12 +352,12 @@ AT = Attacke veraltet
 | 0120 | Sterndu |       |
 | 0121 | Starmie |       |
 
-| Nr.      | Name             | Makel |
-| -------- | ---------------- | ----- |
-| **0439** | **Pantimimi**    |       |
-| 0122     | Pantimos         |       |
-| *0122*   | *Galar-Pantimos* |       |
-| **0866**     | **Pantifrost**       |       |
+| Nr.      | Name             | Makel                                                                  |
+| -------- | ---------------- | ---------------------------------------------------------------------- |
+| **0439** | **Pantimimi**    |                                                                        |
+| 0122     | Pantimos         |                                                                        |
+| *0122*   | *Galar-Pantimos* | 1. Fähigkeit veraltet (Munterkeit)<br>2. Fähigkeit fehlt (Hemmungslos) |
+| **0866** | **Pantifrost**   | 2. Fähigkeit fehlt (Hemmungslos)                                       |
 
 | Nr.      | Name         | Makel |
 | -------- | ------------ | ----- |
@@ -373,40 +366,40 @@ AT = Attacke veraltet
 | **0900** | **Axantor**  |       |
 | ***0212***     | ***Mega-Scherox*** |       |
 
-| Nr.  | Name     | Makel |
-| ---- | -------- | ----- |
-| **0238** | **Kussilla** |       |
-| 0124 | Rossana  |       |
+| Nr.      | Name         | Makel                          |
+| -------- | ------------ | ------------------------------ |
+| **0238** | **Kussilla** | 1. Fähigkeit fehlt (Dösigkeit) |
+| 0124     | Rossana      | 1. Fähigkeit fehlt (Dösigkeit) |
 
-| Nr.      | Name       | Makel |
-| -------- | ---------- | ----- |
-| **0239** | **Elekid** |       |
-| 0125     | Elektek    |       |
-| **0466**     | **Elevoltek**  |       |
+| Nr.      | Name          | Makel                                   |
+| -------- | ------------- | --------------------------------------- |
+| **0239** | **Elekid**    | Versteckte Fähigkeit fehlt (Munterkeit) |
+| 0125     | Elektek       | Versteckte Fähigkeit fehlt (Munterkeit) |
+| **0466** | **Elevoltek** | Versteckte Fähigkeit fehlt (Munterkeit) |
 
-| Nr.      | Name         | Makel |
-| -------- | ------------ | ----- |
-| **0240**     | **Magby**        |       |
-| 0126     | Magmar       |       |
-| **0467** | **Magbrant** |       |
+| Nr.      | Name         | Makel                                   |
+| -------- | ------------ | --------------------------------------- |
+| **0240** | **Magby**    | Versteckte Fähigkeit fehlt (Munterkeit) |
+| 0126     | Magmar       | Versteckte Fähigkeit fehlt (Munterkeit) |
+| **0467** | **Magbrant** | Versteckte Fähigkeit fehlt (Munterkeit) |
 
-| Nr.  | Name        | Makel |
-| ---- | ----------- | ----- |
-| 0127 | Pinsir      |       |
-| *0127* | *Mega-Pinsir* |       |
+| Nr.    | Name          | Makel                                |
+| ------ | ------------- | ------------------------------------ |
+| 0127   | Pinsir        | 2. Fähigkeit veraltet (Überbrückung) |
+| *0127* | *Mega-Pinsir* |                                      |
 
-| Nr.  | Name                    | Makel |
-| ---- | ----------------------- | ----- |
-| 0128 | Tauros                  |       |
-| *0128* | *Paldea-Tauros (Gefecht)* |       |
-| *0128* | *Paldea-Tauros (Flammen)* |       |
-| *0128* | *Paldea-Tauros (Fluten)*  |       |
+| Nr.    | Name                      | Makel                                                                           |
+| ------ | ------------------------- | ------------------------------------------------------------------------------- |
+| 0128   | Tauros                    | 2. Fähigkeit veraltet (Kurzschluss)                                             |
+| *0128* | *Paldea-Tauros (Gefecht)* | 2. Fähigkeit veraltet (Kurzschluss)<br>Versteckte Fähigkeit fehlt (Wiederkäuer) |
+| *0128* | *Paldea-Tauros (Flammen)* | 2. Fähigkeit veraltet (Kurzschluss)<br>Versteckte Fähigkeit fehlt (Wiederkäuer) |
+| *0128* | *Paldea-Tauros (Fluten)*  | 2. Fähigkeit veraltet (Kurzschluss)<br>Versteckte Fähigkeit fehlt (Wiederkäuer) |
 
-| Nr.  | Name         | Makel |
-| ---- | ------------ | ----- |
-| 0129 | Karpador     |       |
-| 0130 | Garados      |       |
-| *0130* | *Mega-Garados* |       |
+| Nr.    | Name           | Makel                                     |
+| ------ | -------------- | ----------------------------------------- |
+| 0129   | Karpador       | Versteckte Fähigkeit veraltet (Hasenfuß)  |
+| 0130   | Garados        |                                           |
+| *0130* | *Mega-Garados* | Einzige Fähigkeit veraltet (Überbrückung) |
 
 | Nr.  | Name   | Makel |
 | ---- | ------ | ----- |
@@ -416,23 +409,23 @@ AT = Attacke veraltet
 | ---- | ----- | ----- |
 | 0132 | Ditto |       |
 
-| Nr.  | Name      | Makel |
-| ---- | --------- | ----- |
-| 0133 | Evoli     |       |
-| 0134 | Aquana    |       |
-| 0135 | Blitza    |       |
-| 0136 | Flamara   |       |
-| **0196** | **Psiana**    |       |
-| **0197** | **Nachtara**  |       |
-| **0470** | **Folipurba** |       |
-| **0471** | **Glaziola**  |       |
-| **0700** | **Feelinara** |       |
+| Nr.      | Name          | Makel                                      |
+| -------- | ------------- | ------------------------------------------ |
+| 0133     | Evoli         | Versteckte Fähigkeit veraltet              |
+| 0134     | Aquana        |                                            |
+| 0135     | Blitza        |                                            |
+| 0136     | Flamara       | 1. und 2. Fähigkeit veraltet (Feuerfänger) |
+| **0196** | **Psiana**    | 1. und 2. Fähigkeit veraltet (Synchro)     |
+| **0197** | **Nachtara**  | 1. und 2. Fähigkeit veraltet (Synchro)     |
+| **0470** | **Folipurba** | 1. und 2. Fähigkeit veraltet (Floraschild) |
+| **0471** | **Glaziola**  |                                            |
+| **0700** | **Feelinara** |                                            |
 
-| Nr.      | Name          | Makel |
-| -------- | ------------- | ----- |
-| **0137**     | **Porygon**       |       |
-| 0233     | Porygon2      |       |
-| **0474** | **Porygon-Z** |       |
+| Nr.      | Name          | Makel                            |
+| -------- | ------------- | -------------------------------- |
+| 0137     | Porygon       | 2. Fähigkeit veraltet (Download) |
+| **0233** | **Porygon2**  | 2. Fähigkeit veraltet (Download) |
+| **0474** | **Porygon-Z** | 2. Fähigkeit veraltet (Download) |
 
 | Nr.  | Name     | Makel |
 | ---- | -------- | ----- |
@@ -444,44 +437,44 @@ AT = Attacke veraltet
 | 0140 | Kabuto   |       |
 | 0141 | Kabutops |       |
 
-| Nr.  | Name            | Makel |
-| ---- | --------------- | ----- |
-| 0142 | Aerodactyl      |       |
-| *0142* | *Mega-Aerodactyl* |       |
+| Nr.    | Name              | Makel                             |
+| ------ | ----------------- | --------------------------------- |
+| 0142   | Aerodactyl        | 2. Fähigkeit veraltet (Erzwinger) |
+| *0142* | *Mega-Aerodactyl* |                                   |
 
-| Nr.  | Name     | Makel |
-| ---- | -------- | ----- |
-| **0446** | **Mampfaxo** |       |
-| 0143 | Relaxo   |       |
+| Nr.      | Name         | Makel                             |
+| -------- | ------------ | --------------------------------- |
+| **0446** | **Mampfaxo** | 1. Fähigkeit veraltet (Mitnahme)  |
+| 0143     | Relaxo       | 1. Fähigkeit veraltet (Immunität) |
 
-| Nr.  | Name         | Makel |
-| ---- | ------------ | ----- |
-| 0144 | Arktos       |       |
-| *0144* | *Galar-Arktos* |       |
+| Nr.    | Name           | Makel                                    |
+| ------ | -------------- | ---------------------------------------- |
+| 0144   | Arktos         | 1. und 2. Fähigkeit veraltet (Erzwinger) |
+| *0144* | *Galar-Arktos* | Einzige Fähigkeit fehlt (Unbeugsamkeit)  |
 
-| Nr.  | Name         | Makel |
-| ---- | ------------ | ----- |
-| 0145 | Zapdos       |       |
-| *0145* | *Galar-Zapdos* |       |
+| Nr.    | Name           | Makel                                    |
+| ------ | -------------- | ---------------------------------------- |
+| 0145   | Zapdos         | 1. und 2. Fähigkeit veraltet (Erzwinger) |
+| *0145* | *Galar-Zapdos* | Einzige Fähigkeit fehlt (Siegeswille)    |
 
-| Nr.  | Name          | Makel |
-| ---- | ------------- | ----- |
-| 0146 | Lavados       |       |
-| *0146* | *Galar-Lavados* |       |
+| Nr.    | Name            | Makel                                    |
+| ------ | --------------- | ---------------------------------------- |
+| 0146   | Lavados         | 1. und 2. Fähigkeit veraltet (Erzwinger) |
+| *0146* | *Galar-Lavados* |                                          |
 
-| Nr.  | Name     | Makel |
-| ---- | -------- | ----- |
-| 0147 | Dratini  |       |
-| 0148 | Dragonir |       |
-| 0149 | Dragoran |       |
+| Nr.  | Name     | Makel                                       |
+| ---- | -------- | ------------------------------------------- |
+| 0147 | Dratini  |                                             |
+| 0148 | Dragonir |                                             |
+| 0149 | Dragoran | 1. und 2. Fähigkeit veraltet (Konzentrator) |
 
-| Nr.  | Name         | Makel |
-| ---- | ------------ | ----- |
-| 0150 | Mewtu        |       |
-| *0150* | *Mega-Mewtu-X* |       |
-| *0150* | *Mega-Mewtu-Y* |       |
+| Nr.    | Name           | Makel                                    |
+| ------ | -------------- | ---------------------------------------- |
+| 0150   | Mewtu          | 1. und 2. Fähigkeit veraltet (Erzwinger) |
+| *0150* | *Mega-Mewtu-X* |                                          |
+| *0150* | *Mega-Mewtu-Y* |                                          |
 
-| Nr.  | Name | Makel |
-| ---- | ---- | ----- |
-| 0151 | Mew  |       |
+| Nr.  | Name | Makel                                |     |
+| ---- | ---- | ------------------------------------ | --- |
+| 0151 | Mew  | Einzige Fähigkeit veraltet (Synchro) |     |
 

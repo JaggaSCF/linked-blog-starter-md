@@ -21,7 +21,7 @@
 | 0054 | Enton                      |                      | Wolke Sieben (/)     |                      |
 | 0055 | Entoron                    |                      | Wolke Sieben (/)     |                      |
 | 0056 | Menki                      | Munterkeit (/)       | Kurzschluss (/)      | Siegeswille (x)      |
-| 0057 | Rasaff                     | Munterkeit (/)       | Kurzschluss (/)      | Kurzschluss (/)      |
+| 0057 | Rasaff                     | Munterkeit (/)       | Kurzschluss (/)      | Siegeswille (x)      |
 | 0058 | Fukano                     |                      | Feuerfänger (/)      |                      |
 | 0058 | Hisui-Fukano               |                      | Feuerfänger (/)      |                      |
 | 0059 | Arkani                     |                      | Feuerfänger (/)      |                      |
@@ -140,6 +140,7 @@
 | 0245 | Suicune                    | Erzwinger (/)        | Erzwinger (/)        | Konzentrator (/)     |
 | 0249 | Lugia                      | Erzwinger (/)        | Erzwinger (/)        |                      |
 | 0250 | Ho-Oh                      | Erzwinger (/)        | Erzwinger (/)        |                      |
+|      |                            |                      |                      |                      |
 | 0261 | Fiffyen                    |                      |                      | Hasenfuß (/)         |
 | 0263 | Zigzachs                   | Mitnahme (/)         |                      |                      |
 | 0263 | Galar-Zigzachs             | Mitnahme (/)         |                      |                      |
@@ -193,6 +194,7 @@
 | 0384 | Rayquaza                   | Klimaschutz(/)       | Klimaschutz(/)       | Klimaschutz(/)       |
 | 0385 | Jirachi                    | Edelmut (/)          | Edelmut (/)          | Edelmut (/)          |
 | 0386 | Deoxys                     | Erzwinger (/)        | Erzwinger (/)        | Erzwinger (/)        |
+|      |                            |                      |                      |                      |
 | 0393 | Plinfa                     |                      |                      | Siegeswille (x)      |
 | 0394 | Pliprin                    |                      |                      | Siegeswille (x)      |
 | 0395 | Impoleon                   |                      |                      | Unbeugsamkeit (x)    |
