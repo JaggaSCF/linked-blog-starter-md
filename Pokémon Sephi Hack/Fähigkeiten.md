@@ -247,7 +247,7 @@
 | 0497 | Serpiroyal                 |                      |                      | Umkehrung (x)        |
 | 0506 | Yorkleff                   | Munterkeit (/)       | Mitnahme (/)         |                      |
 | 0517 | Somniam                    |                      | Synchro (/)          |                      |
-| 0518 | Simnivora                  |                      | Synchro (/)          |                      |
+| 0518 | Somnivora                  |                      | Synchro (/)          |                      |
 | 0527 | Fleknoil                   | Unkenntnis (/)       | Tollpatsch (/)       | Wankelmut (/)        |
 | 0528 | Fletiamo                   | Unkenntnis (/)       | Tollpatsch (/)       | Wankelmut (/)        |
 | 0529 | Rotomurf                   |                      |                      | Überbrückung (/)     |
@@ -288,8 +288,8 @@
 | 0590 | Tarnpignon                 | Sporenwirt (/)       | Sporenwirt (/)       |                      |
 | 0591 | Hutsassa                   | Sporenwirt (/)       | Sporenwirt (/)       |                      |
 | 0598 | Tentantel                  |                      |                      | Vorahnung (/)        |
-| 0605 | Pygraulon                  |                      |                      |                      |
-| 0606 | Megalon                    |                      |                      |                      |
+| 0605 | Pygraulon                  |                      | Synchro (/)          |                      |
+| 0606 | Megalon                    |                      | Synchro (/)          |                      |
 | 0607 | Lichtel                    | Feuerfänger (/)      |                      |                      |
 | 0608 | Laternecto                 | Feuerfänger (/)      |                      |                      |
 | 0609 | Skelabra                   | Feuerfänger (/)      |                      |                      |
