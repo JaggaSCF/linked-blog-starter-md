@@ -1,9 +1,57 @@
-(J) = Fähigkeit ist im Spiel
-(x) = Fähigkeit noch nicht implementiert
-(-) = Fähigkeiten noch nicht ganz fertig
-(/) = muss noch aktualisiert werden
 
-# Gen 5+
+(x) Fähigkeit noch nicht implementiert 
+- Dufthülle (6)
+- Zauberer (6)
+- Zuckerhülle (6)
+- Symbiose (6)
+- Alpha-System (7)
+- Reißaus (7)
+- Rückzug (7)
+- Limitschild (7)
+- Beschattung (7)
+- Tänzer (7)
+- Receiver (7)
+- Chemiekraft (7)
+- Stahlrückgrat (8)
+- Schraubflosse (8)
+- Apport (8)
+- Spiegelrüstung (8)
+- Würggeschoss (8)
+- Heranreifen (8)
+- Mimese (8)
+- Hemmungslos (8)
+- Unheilskörper (8)
+- Rastlose Seele (8)
+- Reaktionsgas (8)
+- Pastellhülle (8)
+- Heißhunger (8)
+- Schnellschuss (8)
+- Kuriose Arznei (8)
+- Verborgene Faust (8)
+- Wachhund (9)
+- Superwechsel (9)
+- Kommandant (9)
+- Goldkörper (9)
+- Paläosynthese (9)
+- Quantenantrieb (9)
+- Orichalkum-Puls (9)
+- Hadronen-Motor (9)
+- Profiteur (9)
+- Wiederkäuer (9)
+- Feldherr (9)
+- Synchronauftritt (9)
+- Giftbelag (9)
+- Myzelienkraft (9)
+- Gastlichkeit (9)
+- Erinnerungskraft (9)
+- Giftkette (9)
+- Süßer Nektar (9)
+- Tera-Wandel (9)
+- Tera-Panzer (9)
+- Teraforming Null (9)
+- Giftpuppenspiel (9)
+
+
 
 (-) Fähigkeiten noch nicht ganz fertig
 - Umkehrung (5)
@@ -26,7 +74,139 @@
 - Unheilstafeln (9)
 - Unheilsjuwelen (9)
 
+
+
+(/) Fähigkeit ist veraltet
+- Dösigkeit
+- Wolke Sieben
+- Immunität
+- Feuerfänger
+- Sporenwirt
+- Synchro
+- Edelmut
+- Konzentrator
+- Erzwinger
+- Mitnahme
+- Schnarchnase
+- Klebekörper
+- Munterkeit
+- Klimaschutz
+- Kurzschluss
+- Wankelmut
+- Download (/)
+- Wertelink (/)
+- Magieschild (/)
+- Zeitspiel (/)
+- Floraschild (/)
+- Tollpatsch (/)
+- Überbrückung (/)
+- Vorahnung (/)
+- Unkenntnis (/)
+- Schnüffler (/)
+- Pflanzengabe (/)
+- Gefühlswippe (/)
+- Partikelschutz (/)
+- Hasenfuß (/)
+
+
+
 (J) = Fähigkeit ist im Spiel
+- Duftnote
+- Niesel
+- Temposchub
+- Kampfpanzer
+- Robustheit
+- Feuchtigkeit
+- Flexibilität
+- Sandschleier
+- Statik
+- Voltabsorber
+- H2O-Absorber
+- Facettenauge
+- Insomnia
+- Farbwechsel
+- Puderabwehr
+- Gleichmut
+- Saugnapf
+- Bedroher
+- Wegsperre
+- Rauhaut
+- Wunderwache
+- Schwebe
+- Neutraltorso
+- Innere Kraft
+- Blitzfänger
+- Wassertempo
+- Chlorophyll
+- Erleuchtung
+- Erfassen
+- Kraftkoloss
+- Giftdorn
+- Magmapanzer
+- Aquahülle
+- Magnetfalle
+- Lärmschutz
+- Regengenuss
+- Sandsturm
+- Speckschicht
+- Frühwecker
+- Flammkörper
+- Angsthase
+- Adlerauge
+- Scherenmacht
+- Übereifer
+- Charmebolzen
+- Plus
+- Minus
+- Prognose
+- Expidermis
+- Adrenalin
+- Notschutz
+- Kloakensoße
+- Notdünger
+- Großbrand
+- Sturzbach
+- Hexaplaga
+- Steinhaupt
+- Dürre
+- Ausweglos
+- Pulverrauch
+- Mentalkraft
+- Panzerhaut
+- Taumelschritt
+- Starthilfe
+- Rivalität
+- Felsenfest
+- Schneemantel
+- Völlerei
+- Entlastung
+- Hitzeschutz
+- Trockenheit
+- Eisenfaust
+- Giftheilung
+- Anpassung
+- Hydration
+- Solarkraft
+- Rasanz
+- Regulierung
+- Superschütze
+- Schildlos
+- Techniker
+- Glückspilz
+- Finalschlag
+- Vorwarnung
+- Aufwertung
+- Filter
+- Saumselig
+- Rauflust
+- Sturmsog
+- Eishaut
+- Felskern
+- Schneescharrer
+- Honigmaul
+- Achtlos
+- Variabilität
+- Alptraum
 - Langfinger
 - Rohe Gewalt
 - Anspannung
@@ -42,8 +222,6 @@
 - Hitzewahn
 - Reiche Ernte
 - Telepathie
-- Gefühlswippe
-- Partikelschutz
 - Giftgriff
 - Belebekraft
 - Brustbieter
@@ -55,7 +233,6 @@
 - Mumie
 - Hochmut
 - Redlichkeit
-- Hasenfuß
 - Vegetarier
 - Strolch
 - Sandgewalt
@@ -64,3 +241,74 @@
 - Triumphstern
 - Turbobrand
 - Teravolt
+- Blütenhülle
+- Wandlungskunst
+- Fellkleid
+- Kugelsicher
+- Titankiefer
+- Frostschicht
+- Taktikwechsel
+- Orkanschwingen
+- Megawumme
+- Pflanzenpelz
+- Krallenwucht
+- Feenschicht
+- Viskosität
+- Zenithaut
+- Familienbande
+- Dunkelaura
+- Feenaura
+- Aura-Umkehr
+- Urmeer
+- Endland
+- Delta-Wind
+- Zähigkeit
+- Verklumpen
+- Quälerei
+- Wasserblase
+- Stahlprofi
+- Wutausbruch
+- Schneescharrer
+- Langstrecke
+- Plätscherstimme
+- Heilwandel
+- Elektrohaut
+- Surf-Schweif
+- Kostümspuk
+- Korrosion
+- Majestät
+- Magenkrempler
+- Batterie
+- Flauschigkeit
+- Buntkörper
+- Bestien-Boost
+- Elektro-Erzeuger
+- Psycho-Erzeuger
+- Nebel-Erzeuger
+- Gras-Erzeuger
+- Metallprotektor
+- Phantomschutz
+- Prismarüstung
+- Zerebralmacht
+- Libero
+- Wollflaum
+- Dampfantrieb
+- Sandspeier
+- Eisflügelstaub
+- Kraftquelle
+- Stählerner Wille
+- Affenfokus
+- Helles Wiehern
+- Dunkles Wiehern
+- Reitgespann
+- Duftschwade
+- Streusaat
+- Thermowandel
+- Wutpanzer
+- Läutersalz
+- Knusperkruste
+- Windreiter
+- Steinträger
+- Windkraft
+- Dynamo
+- Scharfkantig
