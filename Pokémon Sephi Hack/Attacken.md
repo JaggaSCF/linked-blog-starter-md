@@ -1,0 +1,190 @@
+### Gen 5
+- Klauenwetzer
+- Rundumschutz
+- Schutzteiler
+- Psychoschok
+- Giftschock
+- Autotomie
+- Bergsturm
+- Funkenflug
+- Schlammwoge
+- Falterreigen
+- Rammboss
+- Überflutung
+- Einrollen
+- Fußtritt
+- Zwango
+- Rapidschutz
+- Siedewasser
+- Hausbruch
+- Heilwoge
+- Bürde 
+- Gangwechsel
+- Einäschern
+- Akrobatik
+- Inferno
+- Voltwechsel
+- Käfertrutz
+- Dampfwalze
+- Eisesodem
+- Kraftschub
+- Stromstoß
+- Schlagbohrer
+- Doppelhieb
+- Holzgeweih
+- Kalkklinge
+- Brandstempel
+- Grasmixer
+- Nachtflut
+- Psychostoß
+- Kehrschelle
+- Orkan
+- Steinschädel
+- Klikkdiskus
+- Urgesang
+- Mystoschwert
+- Eiszeit
+- Blitzschlag
+- Blauflammen
+- Feuerreigen
+- Frostvolt
+- Frosthauch
+- Standpauke
+- Eiszapfhagel
+- V-Generator
+
+
+### Gen 6
+- Stachelfinale
+- Phantomkraft
+- Kampfgebrüll
+- Parabolladung
+- Blütenwirbel
+- Gefriertrockner
+- Säuselstimme
+- Diebeskuss
+- Grasfeld
+- Nebelfeld
+- Knuddler
+- Feenbrise
+- Mondgewalt
+- Überschallknall
+- Kameradschaft
+- Vertrauenssache
+- Diamantsturm
+- Dampfschwall
+- Dimensionsloch
+- Wasser-Shuriken
+- Magieflamme
+- Mystowellen
+- Elektrofeld
+- Zauberschein
+- Kulleraugen
+- Wangenrubbler
+- Steigerungshieb
+- Unheilsschwingen
+- Tausend Wellen
+- Bodengewalt
+- Ursprungswoge
+- Abgrundsklinge
+- Zenitstrümer
+- Dimensionswahn
+
+
+### Gen 7
+- Überrumpler
+- Bunker
+- Dark Lariat
+- Pferdestärke
+- Kraftabsorber
+- Solarklinge
+- Blattwerk
+- Giftfaden
+- Pollenknödel
+- Psychofeld
+- Anfallen
+- Schmalhorn
+- Drachenhammer
+- Wirbler
+- Auroraschleier
+- Kanonenbouquet
+- Psychobeißer
+- Schattenknochen
+- Turbofelsen
+- Aquadurchstoß
+- Prisma-Laser
+- Stahlgestirn
+- Schattenstrahl
+- Tränendrüse
+- Elektropikser
+- Naturzorn
+- Plasmafäuste
+- Photonen-Geysir
+- Sprießbomben
+- Panzerfäuste
+
+
+### Gen 8
+- Magiepuder
+- Body Press
+- Feuerball
+- Breitseite
+- Apfelsäure
+- Seelenbruch
+- Wunderdampf
+- Lebenstropfen
+- Sternensturm
+- Unendynastrahl
+- Krabbelkracher
+- Poltergeist
+- Rollwende
+- Brandsand
+- Finstertreffer
+- Trefferschwall
+- Drachenkräfte
+- Eisiger Blick
+- Brennender Zorn
+- Donnernder Tritt
+- Blizzardlanze
+- Astralfragmente
+- Unheilsklauen
+- Barrierenstoß
+- Frühlingsorkan
+- Flammenwut
+- Wellentackle
+- Chlorostrahl
+- Frostfallwind
+- Siegestanz
+- Schmetterramme
+- Giftstachelregen
+- Auraschwingen
+- Niedertracht
+- Refugium
+- Polarorkan
+- Donnerorkan
+- Wüstenorkan
+
+
+### Gen 9 
+- Düsenhieb
+- Eiskreisel
+- Kniefallspalter
+- Rasender Stier
+- Aufräumen
+- Anspringen
+- Wegbereiter
+- Kalte Dusche
+- Hyperbohrer
+- Doppelstrahl
+- Rüstungskanone
+- Reueschwert
+- Vendetta
+- Aquaschnitt
+- Rankenkeule
+- Stromstrahl
+- Flammenschild
+- Sturmblitz
+
+
+
+
