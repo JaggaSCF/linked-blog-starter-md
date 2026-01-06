@@ -1,107 +1,106 @@
-# Gen 1
 
 | Nr. | Name             | Typ     | Art      | Stärke   | Genauigkeit |
 | --- | ---------------- | ------- | -------- | -------- | ----------- |
-| 001 | Klaps            | Normal  | Physisch |          |             |
-| 002 | Karateschlag     | Kampf   | Physisch |          |             |
-| 003 | Duplexhieb       | Normal  | Physisch |          |             |
-| 004 | Kometenhieb      | Normal  | Physisch |          |             |
-| 005 | Megahieb         | Normal  | Physisch |          |             |
-| 006 | Zahltag          | Nomal   | Physisch |          |             |
-| 007 | Feuerschlag      | Feuer   | Physisch |          |             |
+| 001 | Klaps            | Normal  | Physisch | 40       | 100         |
+| 002 | Karateschlag     | Kampf   | Physisch | 50       | 100         |
+| 003 | Duplexhieb       | Normal  | Physisch | 15       | 85          |
+| 004 | Kometenhieb      | Normal  | Physisch | 18       | 85          |
+| 005 | Megahieb         | Normal  | Physisch | 80       | 85          |
+| 006 | Zahltag          | Nomal   | Physisch | 40       | 100         |
+| 007 | Feuerschlag      | Feuer   | Physisch | 75       | 100         |
 | 008 | Eishieb          | Eis     | Physisch | 75       | 100         |
 | 009 | Donnerschlag     | Elektro | Physisch | 75       | 100         |
-| 010 | Kratzer          | Normal  | Physisch |          |             |
-| 011 | Klammer          | Normal  | Physisch |          |             |
-| 012 | Guillotine       | Normal  | Physisch |          |             |
-| 013 | Klingensturm     | Normal  | Speziell |          |             |
-| 014 | Schwerttanz      | Normal  | Status   |          |             |
-| 015 | Zerschneider     | Normal  | Physisch |          |             |
-| 016 | Windstoß         | Flug    | Speziell |          |             |
-| 017 | Flügelschlag     | Flug    | Physisch |          |             |
-| 018 | Wirbelwind       | Normal  | Status   |          |             |
-| 019 | Fliegen          | Flug    | Physisch |          |             |
-| 020 | Klammergriff     | Normal  | Physisch |          |             |
-| 021 | Slam             | Normal  | Physisch |          |             |
-| 022 | Rankenhieb       | Pflanze | Physisch |          |             |
-| 023 | Stampfer         | Normal  | Physisch |          |             |
-| 024 | Doppelkick       | Kampf   | Physisch |          |             |
-| 025 | Megakick         | Normal  | Physisch |          |             |
-| 026 | Sprungkick       | Kampf   | Physisch |          |             |
-| 027 | Fegekick         | Kampf   | Physisch |          |             |
+| 010 | Kratzer          | Normal  | Physisch | 40       | 100         |
+| 011 | Klammer          | Normal  | Physisch | 55       | 100         |
+| 012 | Guillotine       | Normal  | Physisch | K.O.     | 30          |
+| 013 | Klingensturm     | Normal  | Speziell | 80       | 100         |
+| 014 | Schwerttanz      | Normal  | Status   | ---      | ---         |
+| 015 | Zerschneider     | Normal  | Physisch | 50       | 95          |
+| 016 | Windstoß         | Flug    | Speziell | 40       | 100         |
+| 017 | Flügelschlag     | Flug    | Physisch | 60       | 100         |
+| 018 | Wirbelwind       | Normal  | Status   | ---      | ---         |
+| 019 | Fliegen          | Flug    | Physisch | 90       | 95          |
+| 020 | Klammergriff     | Normal  | Physisch | 15       | 85          |
+| 021 | Slam             | Normal  | Physisch | 80       | 75          |
+| 022 | Rankenhieb       | Pflanze | Physisch | 45       | 100         |
+| 023 | Stampfer         | Normal  | Physisch | 65       | 100         |
+| 024 | Doppelkick       | Kampf   | Physisch | 30       | 100         |
+| 025 | Megakick         | Normal  | Physisch | 120      | 75          |
+| 026 | Sprungkick       | Kampf   | Physisch | 100      | 95          |
+| 027 | Fegekick         | Kampf   | Physisch | 60       | 85          |
 | 028 | Sandwirbel       | Boden   | Status   | ---      | 100         |
-| 029 | Kopfnuss         | Normal  | Physisch |          |             |
-| 030 | Hornattacke      | Normal  | Physisch |          |             |
-| 031 | Furienschlag     | Normal  | Physisch |          |             |
-| 032 | Hornbohrer       | Normal  | Physisch |          |             |
-| 033 | Tackle           | Normal  | Physisch |          |             |
-| 034 | Bodyslam         | Normal  | Physisch |          |             |
-| 035 | Wickel           | Normal  | Physisch |          |             |
-| 036 | Bodycheck        | Normal  | Physisch |          |             |
-| 037 | Fuchtler         | Normal  | Physisch |          |             |
-| 038 | Risikotackle     | Normal  | Physisch |          |             |
-| 039 | Rutenschlag      | Normal  | Status   |          |             |
-| 040 | Giftstachel      | Gift    | Physisch |          |             |
-| 041 | Duonadel         | Käfer   | Physisch |          |             |
-| 042 | Nadelrakete      | Käfer   | Physisch |          |             |
-| 043 | Silberblick      | Normal  | Status   |          |             |
-| 044 | Biss             | Biss    | Physisch |          |             |
-| 045 | Heuler           | Normal  | Status   |          |             |
-| 046 | Brüller          | Normal  | Status   |          |             |
-| 047 | Gesang           | Normal  | Status   |          |             |
-| 048 | Superschall      | Normal  | Status   |          |             |
-| 049 | Ultraschall      | Normal  | Speziell |          |             |
-| 050 | Aussetzer        | Normal  | Status   |          |             |
-| 051 | Säure            | Gift    | Speziell |          |             |
-| 052 | Glut             | Feuer   | Speziell |          |             |
-| 053 | Flammenwurf      | Feuer   | Speziell |          |             |
+| 029 | Kopfnuss         | Normal  | Physisch | 70       | 100         |
+| 030 | Hornattacke      | Normal  | Physisch | 65       | 100         |
+| 031 | Furienschlag     | Normal  | Physisch | 15       | 85          |
+| 032 | Hornbohrer       | Normal  | Physisch | K.O.     | 30          |
+| 033 | Tackle           | Normal  | Physisch | 40       | 100         |
+| 034 | Bodyslam         | Normal  | Physisch | 85       | 100         |
+| 035 | Wickel           | Normal  | Physisch | 15       | 90          |
+| 036 | Bodycheck        | Normal  | Physisch | 85       | 85          |
+| 037 | Fuchtler         | Normal  | Physisch | 120      | 100         |
+| 038 | Risikotackle     | Normal  | Physisch | 120      | 100         |
+| 039 | Rutenschlag      | Normal  | Status   | ---      | 100         |
+| 040 | Giftstachel      | Gift    | Physisch | 15       | 100         |
+| 041 | Duonadel         | Käfer   | Physisch | 25       | 100         |
+| 042 | Nadelrakete      | Käfer   | Physisch | 25       | 95          |
+| 043 | Silberblick      | Normal  | Status   | ---      | 100         |
+| 044 | Biss             | Biss    | Physisch | 60       | 100         |
+| 045 | Heuler           | Normal  | Status   | ---      | 100         |
+| 046 | Brüller          | Normal  | Status   | ---      | ---         |
+| 047 | Gesang           | Normal  | Status   | ---      | 55          |
+| 048 | Superschall      | Normal  | Status   | ---      | 55          |
+| 049 | Ultraschall      | Normal  | Speziell | 20 KP    | 90          |
+| 050 | Aussetzer        | Normal  | Status   | ---      | 100         |
+| 051 | Säure            | Gift    | Speziell | 40       | 100         |
+| 052 | Glut             | Feuer   | Speziell | 40       | 100         |
+| 053 | Flammenwurf      | Feuer   | Speziell | 90       | 100         |
 | 054 | Weißnebel        | Eis     | Status   | ---      | ---         |
-| 055 | Aquaknarre       | Wasser  | Speziell |          |             |
-| 056 | Hydropumpe       | Wasser  | Speziell |          |             |
-| 057 | Surfer           | Wasser  | Speziell |          |             |
+| 055 | Aquaknarre       | Wasser  | Speziell | 40       | 100         |
+| 056 | Hydropumpe       | Wasser  | Speziell | 110      | 80          |
+| 057 | Surfer           | Wasser  | Speziell | 90       | 100         |
 | 058 | Eisstrahl        | Eis     | Speziell | 90       | 100         |
 | 059 | Blizzard         | Eis     | Speziell | 110      | 70          |
-| 060 | Psystrahl        | Psycho  | Speziell |          |             |
-| 061 | Blubbstrahl      | Wasser  | Speziell |          |             |
+| 060 | Psystrahl        | Psycho  | Speziell | 65       | 100         |
+| 061 | Blubbstrahl      | Wasser  | Speziell | 65       | 100         |
 | 062 | Aurorastrahl     | Eis     | Speziell | 65       | 100         |
-| 063 | Hyperstrahl      | Normal  | Speziell |          |             |
-| 064 | Pikser           | Flug    | Physisch |          |             |
-| 065 | Bohrschnabel     | Flug    | Physisch |          |             |
-| 066 | Überroller       | Kampf   | Physisch |          |             |
-| 067 | Fußkick          | Kampf   | Physisch |          |             |
-| 068 | Konter           | Kampf   | Physisch |          |             |
-| 069 | Geowurf          | Kampf   | Physisch |          |             |
-| 070 | Stärke           | Normal  | Physisch |          |             |
-| 071 | Absorber         | Pflanze | Speziell |          |             |
-| 072 | Megasauger       | Pflanze | Speziell |          |             |
-| 073 | Egelsamen        | Pflanze | Status   |          |             |
-| 074 | Wachstum         | Normal  | Status   |          |             |
-| 075 | Rasierblatt      | Pflanze | Physisch |          |             |
-| 076 | Solarstrahl      | Pflanze | Speziell |          |             |
-| 077 | Giftpuder        | Gift    | Status   |          |             |
-| 078 | Stachelspore     | Pflanze | Status   |          |             |
-| 079 | Schlafpuder      | Pflanze | Status   |          |             |
-| 080 | Blättertanz      | Pflanze | Speziell |          |             |
-| 081 | Fadenschuss      | Käfer   | Status   |          |             |
+| 063 | Hyperstrahl      | Normal  | Speziell | 150      | 90          |
+| 064 | Pikser           | Flug    | Physisch | 35       | 100         |
+| 065 | Bohrschnabel     | Flug    | Physisch | 80       | 100         |
+| 066 | Überroller       | Kampf   | Physisch | 80       | 80          |
+| 067 | Fußkick          | Kampf   | Physisch | Variiert | 100         |
+| 068 | Konter           | Kampf   | Physisch | ---      | 100         |
+| 069 | Geowurf          | Kampf   | Physisch | Variiert | 100         |
+| 070 | Stärke           | Normal  | Physisch | 80       | 100         |
+| 071 | Absorber         | Pflanze | Speziell | 20       | 100         |
+| 072 | Megasauger       | Pflanze | Speziell | 40       | 100         |
+| 073 | Egelsamen        | Pflanze | Status   | ---      | 90          |
+| 074 | Wachstum         | Normal  | Status   | ---      | ---         |
+| 075 | Rasierblatt      | Pflanze | Physisch | 55       | 95          |
+| 076 | Solarstrahl      | Pflanze | Speziell | 120      | 100         |
+| 077 | Giftpuder        | Gift    | Status   | ---      | 75          |
+| 078 | Stachelspore     | Pflanze | Status   | ---      | 75          |
+| 079 | Schlafpuder      | Pflanze | Status   | ---      | 75          |
+| 080 | Blättertanz      | Pflanze | Speziell | 120      | 100         |
+| 081 | Fadenschuss      | Käfer   | Status   | ---      | 95          |
 | 082 | Drachenwut       | Drache  | Speziell | 40 KP    | 100         |
-| 083 | Feuerwirbel      | Feuer   | Speziell |          |             |
+| 083 | Feuerwirbel      | Feuer   | Speziell | 35       | 85          |
 | 084 | Donnerschock     | Elektro | Speziell | 40       | 100         |
 | 085 | Donnerblitz      | Elektro | Speziell | 90       | 100         |
-| 086 | Donnerwelle      | Elektro | Status   |          | 90          |
+| 086 | Donnerwelle      | Elektro | Status   | ---      | 90          |
 | 087 | Donner           | Elektro | Speziell | 110      | 70          |
-| 088 | Steinwurf        | Gestein | Physisch |          |             |
+| 088 | Steinwurf        | Gestein | Physisch | 50       | 90          |
 | 089 | Erdbeben         | Boden   | Physisch | 100      | 100         |
 | 090 | Geofissur        | Boden   | Physisch | K.O.     | 30          |
 | 091 | Schaufler        | Boden   | Physisch | 80       | 100         |
-| 092 | Toxin            | Gift    | Status   |          |             |
-| 093 | Konfusion        | Psycho  | Speziell |          |             |
-| 094 | Psychokinese     | Psycho  | Speziell |          |             |
-| 095 | Hypnose          | Psycho  | Status   |          |             |
-| 096 | Meditation       | Psycho  | Status   |          |             |
-| 097 | Agilität         | Psycho  | Status   |          |             |
-| 098 | Ruckzuckhieb     | Normal  | Physisch |          |             |
-| 099 | Raserei          | Normal  | Physisch |          |             |
-| 100 | Teleport         | Psycho  | Status   |          |             |
+| 092 | Toxin            | Gift    | Status   | ---      | 90          |
+| 093 | Konfusion        | Psycho  | Speziell | 50       | 100         |
+| 094 | Psychokinese     | Psycho  | Speziell | 90       | 100         |
+| 095 | Hypnose          | Psycho  | Status   | ---      | 60          |
+| 096 | Meditation       | Psycho  | Status   | ---      | ---         |
+| 097 | Agilität         | Psycho  | Status   | ---      | ---         |
+| 098 | Ruckzuckhieb     | Normal  | Physisch | 40       | 100         |
+| 099 | Raserei          | Normal  | Physisch | 20       | 100         |
+| 100 | Teleport         | Psycho  | Status   | ---      | ---         |
 | 101 | Nachtnebel       | Geist   | Speziell |          |             |
 | 102 | Mimikry          | Normal  | Status   |          |             |
 | 103 | Kreideschrei     | Normal  | Status   |          |             |
