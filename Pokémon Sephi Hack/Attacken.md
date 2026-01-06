@@ -521,125 +521,125 @@
 | 555 | Standpauke       | Unlicht | Speziell | 55       | 95          |
 | 556 | Eiszapfhagel     | Eis     | Physisch | 85       | 90          |
 | 557 | V-Generator      | Feuer   | Physisch | 180      | 95          |
-| 565 | Stachelfinale    |         |          |          |             |
-| 566 | Phantomkraft     |         |          |          |             |
-| 568 | Kampfgebrüll     |         |          |          |             |
+| 565 | Stachelfinale    | Käfer   | Physisch | 50       | 100         |
+| 566 | Phantomkraft     | Geist   | Physisch | 90       | 100         |
+| 568 | Kampfgebrüll     | Normal  | Status   | ---      | 100         |
 | 570 | Parabolladung    | Elektro | Speziell | 65       | 100         |
-| 572 | Blütenwirbel     |         |          |          |             |
+| 572 | Blütenwirbel     | Pflanze | Physisch | 90       | 100         |
 | 573 | Gefriertrockner  | Eis     | Speziell | 70       | 100         |
-| 574 | Säuselstimme     |         |          |          |             |
-| 577 | Diebeskuss       |         |          |          |             |
-| 580 | Grasfeld         |         |          |          |             |
-| 581 | Nebelfeld        |         |          |          |             |
-| 583 | Knuddler         |         |          |          |             |
-| 584 | Feenbrise        |         |          |          |             |
-| 585 | Mondgewalt       |         |          |          |             |
-| 586 | Überschallknall  |         |          |          |             |
-| 589 | Kameradschaft    |         |          |          |             |
-| 590 | Vertrauenssache  |         |          |          |             |
-| 591 | Diamantsturm     |         |          |          |             |
-| 592 | Dampfschwall     |         |          |          |             |
-| 593 | Dimensionsloch   |         |          |          |             |
-| 594 | Wasser-Shuriken  |         |          |          |             |
-| 595 | Magieflamme      |         |          |          |             |
+| 574 | Säuselstimme     | Fee     | Speziell | 40       | ---         |
+| 577 | Diebeskuss       | Fee     | Speziell | 50       | 100         |
+| 580 | Grasfeld         | Pflanze | Status   | ---      | ---         |
+| 581 | Nebelfeld        | Fee     | Status   | ---      | ---         |
+| 583 | Knuddler         | Fee     | Physisch | 90       | 90          |
+| 584 | Feenbrise        | Fee     | Speziell | 40       | 100         |
+| 585 | Mondgewalt       | Fee     | Speziell | 95       | 100         |
+| 586 | Überschallknall  | Normal  | Speziell | 140      | 100         |
+| 589 | Kameradschaft    | Normal  | Status   | ---      | ---         |
+| 590 | Vertrauenssache  | Normal  | Status   | ---      | ---         |
+| 591 | Diamantsturm     | Gestein | Physisch | 100      | 95          |
+| 592 | Dampfschwall     | Wasser  | Speziell | 110      | 95          |
+| 593 | Dimensionsloch   | Psycho  | Speziell | 80       | ---         |
+| 594 | Wasser-Shuriken  | Wasser  | Speziell | 15       | 100         |
+| 595 | Magieflamme      | Feuer   | Speziell | 75       | 100         |
 | 598 | Mystowellen      | Elektro | Status   | ---      | 100         |
 | 604 | Elektrofeld      | Elektro | Status   | ---      | ---         |
-| 605 | Zauberschein     |         |          |          |             |
-| 608 | Kulleraugen      |         |          |          |             |
+| 605 | Zauberschein     | Fee     | Speziell | 80       | 100         |
+| 608 | Kulleraugen      | Fee     | Status   | ---      | 100         |
 | 609 | Wangenrubbler    | Elektro | Physisch | 20       | 100         |
-| 612 | Steigerungshieb  |         |          |          |             |
-| 613 | Unheilsschwingen |         |          |          |             |
+| 612 | Steigerungshieb  | Kampf   | Physisch | 40       | 100         |
+| 613 | Unheilsschwingen | Flug    | Speziell | 80       | 100         |
 | 615 | Tausend Wellen   | Boden   | Physisch | 90       | 100         |
 | 616 | Bodengewalt      | Boden   | Physisch | 90       | 100         |
-| 618 | Ursprungswoge    |         |          |          |             |
+| 618 | Ursprungswoge    | Wasser  | Speziell | 110      | 85          |
 | 619 | Abgrundsklinge   | Boden   | Physisch | 120      | 85          |
-| 620 | Zenitstrümer     |         |          |          |             |
-| 621 | Dimensionswahn   |         |          |          |             |
-| 660 | Überrumpler      |         |          |          |             |
-| 661 | Bunker           |         |          |          |             |
-| 663 | Dark Lariat      |         |          |          |             |
+| 620 | Zenitstrümer     | Flug    | Physisch | 120      | 100         |
+| 621 | Dimensionswahn   | Unlicht | Physisch | 100      | ---         |
+| 660 | Überrumpler      | Käfer   | Physisch | 90       | 100         |
+| 661 | Bunker           | Gift    | Status   | ---      | ---         |
+| 663 | Dark Lariat      | Unlicht | Physisch | 85       | 100         |
 | 667 | Pferdestärke     | Boden   | Physisch | 95       | 95          |
-| 668 | Kraftabsorber    |         |          |          |             |
-| 669 | Solarklinge      |         |          |          |             |
-| 670 | Blattwerk        |         |          |          |             |
-| 672 | Giftfaden        |         |          |          |             |
-| 676 | Pollenknödel     |         |          |          |             |
-| 678 | Psychofeld       |         |          |          |             |
-| 679 | Anfallen         |         |          |          |             |
-| 684 | Schmalhorn       |         |          |          |             |
+| 668 | Kraftabsorber    | Pflanze | Status   | ---      | 100         |
+| 669 | Solarklinge      | Pflanze | Physisch | 125      | 100         |
+| 670 | Blattwerk        | Pflanze | Physisch | 40       | 100         |
+| 672 | Giftfaden        | Gift    | Status   | ---      | 100         |
+| 676 | Pollenknödel     | Käfer   | Speziell | 90       | 100         |
+| 678 | Psychofeld       | Psycho  | Status   | ---      | ---         |
+| 679 | Anfallen         | Käfer   | Physisch | 80       | 100         |
+| 684 | Schmalhorn       | Stahl   | Physisch | 70       | ---         |
 | 692 | Drachenhammer    | Drache  | Physisch | 90       | 100         |
-| 693 | Wirbler          |         |          |          |             |
+| 693 | Wirbler          | Unlicht | Physisch | 60       | 100         |
 | 694 | Auroraschleier   | Eis     | Status   | ---      | ---         |
-| 705 | Kanonenbouquet   |         |          |          |             |
-| 706 | Psychobeißer     |         |          |          |             |
-| 708 | Schattenknochen  |         |          |          |             |
-| 709 | Turbofelsen      |         |          |          |             |
-| 710 | Aquadurchstoß    |         |          |          |             |
-| 711 | Prisma-Laser     |         |          |          |             |
-| 713 | Stahlgestirn     |         |          |          |             |
-| 714 | Schattenstrahl   |         |          |          |             |
-| 715 | Tränendrüse      |         |          |          |             |
+| 705 | Kanonenbouquet   | Fee     | Speziell | 130      | 90          |
+| 706 | Psychobeißer     | Psycho  | Physisch | 85       | 100         |
+| 708 | Schattenknochen  | Geist   | Physisch | 85       | 100         |
+| 709 | Turbofelsen      | Gestein | Physisch | 40       | 100         |
+| 710 | Aquadurchstoß    | Wasser  | Physisch | 85       | 100         |
+| 711 | Prisma-Laser     | Psycho  | Speziell | 160      | 100         |
+| 713 | Stahlgestirn     | Stahl   | Physisch | 100      | 100         |
+| 714 | Schattenstrahl   | Geist   | Speziell | 100      | 100         |
+| 715 | Tränendrüse      | Normal  | Status   | ---      | ---         |
 | 716 | Elektropikser    | Elektro | Physisch | 80       | 100         |
-| 717 | Naturzorn        |         |          |          |             |
+| 717 | Naturzorn        | Fee     | Speziell | Variiert | 90          |
 | 721 | Plasmafäuste     | Elektro | Physisch | 100      | 100         |
-| 722 | Photonen-Geysir  |         |          |          |             |
-| 738 | Sprießbomben     |         |          |          |             |
-| 742 | Panzerfäuste     |         |          |          |             |
-| 750 | Magiepuder       |         |          |          |             |
-| 776 | Body Press       |         |          |          |             |
-| 780 | Feuerball        |         |          |          |             |
+| 722 | Photonen-Geysir  | Psycho  | Speziell | 100      | 100         |
+| 738 | Sprießbomben     | Pflanze | Physisch | 100      | 90          |
+| 742 | Panzerfäuste     | Stahl   | Physisch | 60       | 100         |
+| 750 | Magiepuder       | Psycho  | Status   | ---      | 100         |
+| 776 | Body Press       | Kampf   | Physisch | 80       | 100         |
+| 780 | Feuerball        | Feuer   | Physisch | 120      | 90          |
 | 784 | Breitseite       | Drache  | Physisch | 60       | 100         |
-| 787 | Apfelsäure       |         |          |          |             |
-| 789 | Seelenbruch      |         |          |          |             |
-| 790 | Wunderdampf      |         |          |          |             |
-| 791 | Lebenstropfen    |         |          |          |             |
-| 794 | Sternensturm     |         |          |          |             |
+| 787 | Apfelsäure       | Pflanze | Speziell | 80       | 100         |
+| 789 | Seelenbruch      | Fee     | Physisch | 75       | 100         |
+| 790 | Wunderdampf      | Fee     | Speziell | 90       | 95          |
+| 791 | Lebenstropfen    | Wasser  | Status   | ---      | ---         |
+| 794 | Sternensturm     | Kampf   | Physisch | 150      | 100         |
 | 795 | Unendynastrahlen | Drache  | Speziell | 160      | 90          |
-| 806 | Krabbelkracher   |         |          |          |             |
-| 809 | Poltergeist      |         |          |          |             |
-| 812 | Rollwende        |         |          |          |             |
+| 806 | Krabbelkracher   | Käfer   | Physisch | 70       | 90          |
+| 809 | Poltergeist      | Geist   | Physisch | 110      | 90          |
+| 812 | Rollwende        | Wasser  | Physisch | 60       | 100         |
 | 815 | Brandsand        | Boden   | Speziell | 70       | 100         |
-| 817 | Finstertreffer   |         |          |          |             |
-| 818 | Trefferschwall   |         |          |          |             |
+| 817 | Finstertreffer   | Unlicht | Physisch | 75       | 100         |
+| 818 | Trefferschwall   | Wasser  | Physisch | 25       | 100         |
 | 820 | Drachenkräfte    | Drache  | Speziell | 150      | 100         |
-| 821 | Eisiger Blick    |         |          |          |             |
-| 822 | Brennender Zorn  |         |          |          |             |
-| 823 | Donnernder Tritt |         |          |          |             |
+| 821 | Eisiger Blick    | Psycho  | Speziell | 90       | 100         |
+| 822 | Brennender Zorn  | Unlicht | Speziell | 90       | 100         |
+| 823 | Donnernder Tritt | Kampf   | Physisch | 90       | 100         |
 | 824 | Blizzardlanze    | Eis     | Physisch | 120      | 100         |
-| 825 | Astralfragmente  |         |          |          |             |
-| 827 | Unheilsklauen    |         |          |          |             |
-| 828 | Barrierenstoß    |         |          |          |             |
-| 831 | Frühlingsorkan   |         |          |          |             |
-| 833 | Flammenwut       |         |          |          |             |
-| 834 | Wellentackle     |         |          |          |             |
-| 835 | Chlorostrahl     |         |          |          |             |
+| 825 | Astralfragmente  | Geist   | Speziell | 120      | 100         |
+| 827 | Unheilsklauen    | Gift    | Physisch | 80       | 100         |
+| 828 | Barrierenstoß    | Psycho  | Physisch | 70       | 90          |
+| 831 | Frühlingsorkan   | Fee     | Speziell | 100      | 80          |
+| 833 | Flammenwut       | Feuer   | Physisch | 120      | 100         |
+| 834 | Wellentackle     | Wasser  | Phyisch  | 120      | 100         |
+| 835 | Chlorostrahl     | Pflanze | Speziell | 150      | 95          |
 | 836 | Frostfallwind    | Eis     | Physisch | 100      | 85          |
-| 837 | Siegestanz       |         |          |          |             |
+| 837 | Siegestanz       | Kampf   | Status   | ---      | ---         |
 | 838 | Schmetterramme   | Boden   | Physisch | 120      | 100         |
-| 839 | Giftstachelregen |         |          |          |             |
-| 840 | Auraschwingen    |         |          |          |             |
-| 841 | Niedertracht     |         |          |          |             |
-| 842 | Refugium         |         |          |          |             |
-| 846 | Polarorkan       |         |          |          |             |
+| 839 | Giftstachelregen | Gift    | Physisch | 60       | 100         |
+| 840 | Auraschwingen    | Psycho  | Speziell | 80       | 100         |
+| 841 | Niedertracht     | Geist   | Speziell | 75       | 100         |
+| 842 | Refugium         | Stahl   | Status   | ---      | ---         |
+| 846 | Polarorkan       | Flug    | Speziell | 100      | 80          |
 | 847 | Donnerorkan      | Elektro | Speziell | 100      | 80          |
 | 848 | Wüstenorkan      | Boden   | Speziell | 100      | 80          |
-| 857 | Düsenhieb        |         |          |          |             |
+| 857 | Düsenhieb        | Wasser  | Physisch | 60       | 100         |
 | 861 | Eiskreisel       | Eis     | Physisch | 80       | 100         |
-| 869 | Kniefallspalter  |         |          |          |             |
-| 873 | Rasender Stier   |         |          |          |             |
-| 882 | Aufräumen        |         |          |          |             |
-| 884 | Anspringen       |         |          |          |             |
-| 885 | Wegbereiter      |         |          |          |             |
-| 886 | Kalte Dusche     |         |          |          |             |
-| 887 | Hyperbohrer      |         |          |          |             |
-| 888 | Doppelstrahl     |         |          |          |             |
-| 890 | Rüstungskanone   |         |          |          |             |
-| 891 | Reueschwert      |         |          |          |             |
-| 894 | Vendetta         |         |          |          |             |
-| 895 | Aquaschnitt      |         |          |          |             |
-| 904 | Rankenkeule      |         |          |          |             |
+| 869 | Kniefallspalter  | Unlicht | Physisch | 85       | ---         |
+| 873 | Rasender Stier   | Normal  | Physisch | 90       | 100         |
+| 882 | Aufräumen        | Normal  | Status   | ---      | ---         |
+| 884 | Anspringen       | Käfer   | Physisch | 50       | 100         |
+| 885 | Wegbereiter      | Pflanze | Physisch | 50       | 100         |
+| 886 | Kalte Dusche     | Wasser  | Speziell | 50       | 100         |
+| 887 | Hyperbohrer      | Normal  | Physisch | 100      | 100         |
+| 888 | Doppelstrahl     | Psycho  | Speziell | 40       | 100         |
+| 890 | Rüstungskanone   | Feuer   | Speziell | 120      | 1000        |
+| 891 | Reueschwert      | Feuer   | Physisch | 90       | 100         |
+| 894 | Vendetta         | Unlicht | Physisch | Variiert | 100         |
+| 895 | Aquaschnitt      | Wasser  | Physisch | 70       | 100         |
+| 904 | Rankenkeule      | Pflanze | Physisch | 100      | 100         |
 | 905 | Stromstrahl      | Elektro | Speziell | 130      | 100         |
-| 908 | Flammenschild    |         |          |          |             |
+| 908 | Flammenschild    | Feuer   | Status   | ---      | ---         |
 | 909 | Sturmblitz       | Elektro | Speziell | 70       | 100         |
 
 
