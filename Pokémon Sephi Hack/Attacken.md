@@ -9,8 +9,8 @@
 | 005 | Megahieb         | Normal  | Physisch |          |             |
 | 006 | Zahltag          | Nomal   | Physisch |          |             |
 | 007 | Feuerschlag      | Feuer   | Physisch |          |             |
-| 008 | Eishieb          | Eis     | Physisch |          |             |
-| 009 | Donnerschlag     | Elektro | Physisch |          |             |
+| 008 | Eishieb          | Eis     | Physisch | 75       | 100         |
+| 009 | Donnerschlag     | Elektro | Physisch | 75       | 100         |
 | 010 | Kratzer          | Normal  | Physisch |          |             |
 | 011 | Klammer          | Normal  | Physisch |          |             |
 | 012 | Guillotine       | Normal  | Physisch |          |             |
@@ -55,15 +55,15 @@
 | 051 | Säure            | Gift    | Speziell |          |             |
 | 052 | Glut             | Feuer   | Speziell |          |             |
 | 053 | Flammenwurf      | Feuer   | Speziell |          |             |
-| 054 | Weißnebel        | Eis     | Status   |          |             |
+| 054 | Weißnebel        | Eis     | Status   | ---      | ---         |
 | 055 | Aquaknarre       | Wasser  | Speziell |          |             |
 | 056 | Hydropumpe       | Wasser  | Speziell |          |             |
 | 057 | Surfer           | Wasser  | Speziell |          |             |
-| 058 | Eisstrahl        | Eis     | Speziell |          |             |
-| 059 | Blizzard         | Eis     | Speziell |          |             |
+| 058 | Eisstrahl        | Eis     | Speziell | 90       | 100         |
+| 059 | Blizzard         | Eis     | Speziell | 110      | 70          |
 | 060 | Psystrahl        | Psycho  | Speziell |          |             |
 | 061 | Blubbstrahl      | Wasser  | Speziell |          |             |
-| 062 | Aurorastrahl     | Eis     | Speziell |          |             |
+| 062 | Aurorastrahl     | Eis     | Speziell | 65       | 100         |
 | 063 | Hyperstrahl      | Normal  | Speziell |          |             |
 | 064 | Pikser           | Flug    | Physisch |          |             |
 | 065 | Bohrschnabel     | Flug    | Physisch |          |             |
@@ -83,12 +83,12 @@
 | 079 | Schlafpuder      | Pflanze | Status   |          |             |
 | 080 | Blättertanz      | Pflanze | Speziell |          |             |
 | 081 | Fadenschuss      | Käfer   | Status   |          |             |
-| 082 | Drachenwut       | Drache  | Speziell |          |             |
+| 082 | Drachenwut       | Drache  | Speziell | 40 KP    | 100         |
 | 083 | Feuerwirbel      | Feuer   | Speziell |          |             |
-| 084 | Donnerschock     | Elektro | Speziell |          |             |
-| 085 | Donnerblitz      | Elektro | Speziell |          |             |
-| 086 | Donnerwelle      | Elektro | Status   |          |             |
-| 087 | Donner           | Elektro | Speziell |          |             |
+| 084 | Donnerschock     | Elektro | Speziell | 40       | 100         |
+| 085 | Donnerblitz      | Elektro | Speziell | 90       | 100         |
+| 086 | Donnerwelle      | Elektro | Status   |          | 90          |
+| 087 | Donner           | Elektro | Speziell | 110      | 70          |
 | 088 | Steinwurf        | Gestein | Physisch |          |             |
 | 089 | Erdbeben         | Boden   | Physisch | 100      | 100         |
 | 090 | Geofissur        | Boden   | Physisch | K.O.     | 30          |
@@ -115,7 +115,7 @@
 | 111 | Einigler         | Normal  | Status   |          |             |
 | 112 | Barriere         | Psycho  | Status   |          |             |
 | 113 | Lichtschild      | Psycho  | Status   |          |             |
-| 114 | Dunkelnebel      | Eis     | Status   |          |             |
+| 114 | Dunkelnebel      | Eis     | Status   | ---      | ---         |
 | 115 | Reflektor        | Psycho  | Status   |          |             |
 | 116 | Energiefokus     | Normal  | Status   |          |             |
 | 117 | Geduld           | Normal  | Physisch |          |             |
@@ -182,7 +182,7 @@
 | 178 | Baumwollsaat     | Pflanze | Status   |          |             |
 | 179 | Gegenschlag      | Kampf   | Physisch |          |             |
 | 180 | Groll            | Geist   | Status   |          |             |
-| 181 | Pulverschnee     | Eis     | Speziell |          |             |
+| 181 | Pulverschnee     | Eis     | Speziell | 40       | 100         |
 | 182 | Schutzschild     | Normal  | Status   |          |             |
 | 183 | Tempohieb        | Kampf   | Physisch |          |             |
 | 184 | Grimasse         | Normal  | Status   |          |             |
@@ -193,15 +193,15 @@
 | 189 | Lehmschelle      | Boden   | Speziell | 20       | 100         |
 | 190 | Octazooka        | Wasser  | Speziell |          |             |
 | 191 | Stachler         | Boden   | Status   | ---      | ---         |
-| 192 | Blitzkanone      | Elektro | Speziell |          |             |
+| 192 | Blitzkanone      | Elektro | Speziell | 120      | 50          |
 | 193 | Scharfblick      | Normal  | Status   |          |             |
 | 194 | Abgangsbund      | Geist   | Status   |          |             |
 | 195 | Abgesang         | Normal  | Status   |          |             |
-| 196 | Eissturm         | Eis     | Speziell |          |             |
+| 196 | Eissturm         | Eis     | Speziell | 55       | 95          |
 | 197 | Scanner          | Kampf   | Status   |          |             |
 | 198 | Knochenhatz      | Boden   | Physisch | 25       | 90          |
 | 199 | Zielschuss       | Normal  | Status   |          |             |
-| 200 | Wutanfall        | Drache  | Physisch |          |             |
+| 200 | Wutanfall        | Drache  | Physisch | 120      | 100         |
 | 201 | Sandsturm        | Gestein | Status   |          |             |
 | 202 | Gigasauger       | Pflanze | Speziell |          |             |
 | 203 | Ausdauer         | Normal  | Status   |          |             |
@@ -210,7 +210,7 @@
 | 206 | Trugschlag       | Normal  | Physisch |          |             |
 | 207 | Angeberei        | Normal  | Status   |          |             |
 | 208 | Milchgetränk     | Normal  | Status   |          |             |
-| 209 | Funkensprung     | Elektro | Physisch |          |             |
+| 209 | Funkensprung     | Elektro | Physisch | 65       | 100         |
 | 210 | Zornklinge       | Käfer   | Physisch |          |             |
 | 211 | Stahlflügel      | Stahl   | Physisch |          |             |
 | 212 | Horroblick       | Normal  | Status   |          |             |
@@ -223,10 +223,10 @@
 | 219 | Bodyguard        | Normal  | Status   |          |             |
 | 220 | Leidteiler       | Normal  | Status   |          |             |
 | 221 | Läuterfeuer      | Feuer   | Physisch |          |             |
-| 222 | Intensität       | Boden   | Physisch | Variiert |             |
+| 222 | Intensität       | Boden   | Physisch | Variiert | 100         |
 | 223 | Wuchtschlag      | Kampf   | Physisch |          |             |
 | 224 | Vielender        | Käfer   | Physisch |          |             |
-| 225 | Feuerodem        | Drache  | Speziell |          |             |
+| 225 | Feuerodem        | Drache  | Speziell | 60       | 100         |
 | 226 | Stafette         | Normal  | Status   |          |             |
 | 227 | Zugabe           | Normal  | Status   |          |             |
 | 228 | Verfolgung       | Unlicht | Physisch |          |             |
@@ -240,7 +240,7 @@
 | 236 | Mondschein       | Fee     | Status   |          |             |
 | 237 | Kraftreserve     | Normal  | Speziell |          |             |
 | 238 | Kreuzhieb        | Kampf   | Physisch |          |             |
-| 239 | Windhose         | Drache  | Speziell |          |             |
+| 239 | Windhose         | Drache  | Speziell | 40       | 100         |
 | 240 | Regentanz        | Wasser  | Status   |          |             |
 | 241 | Sonnentag        | Feuer   | Status   |          |             |
 | 242 | Knirscher        | Unlicht | Physisch |          |             |
@@ -259,7 +259,7 @@
 | 255 | Entfessler       |         |          |          |             |
 | 256 | Verzehrer        |         |          |          |             |
 | 257 | Hitzewelle       |         |          |          |             |
-| 258 | Hagelsturm       |         |          |          |             |
+| 258 | Hagelsturm       | Eis     | Status   | ---      | ---         |
 | 259 | Folterknecht     |         |          |          |             |
 | 260 | Schmeichler      |         |          |          |             |
 | 261 | Irrlicht         |         |          |          |             |
@@ -269,7 +269,7 @@
 | 265 | Riechsalz        |         |          |          |             |
 | 266 | Spotlight        |         |          |          |             |
 | 267 | Natur-Kraft      |         |          |          |             |
-| 268 | Ladevorgang      |         |          |          |             |
+| 268 | Ladevorgang      | Elekro  | Status   | ---      | ---         |
 | 269 | Verhöhner        |         |          |          |             |
 | 270 | Rechte Hand      |         |          |          |             |
 | 271 | Trickbetrug      |         |          |          |             |
@@ -302,7 +302,7 @@
 | 298 | Taumeltanz       |         |          |          |             |
 | 299 | Feuerfeger       |         |          |          |             |
 | 300 | Lehmsuhler       | Boden   | Status   | ---      | ---         |
-| 301 | Frostbeule       |         |          |          |             |
+| 301 | Frostbeule       | Eis     | Physisch | 30       | 90          |
 | 302 | Nietenranke      |         |          |          |             |
 | 303 | Tagedieb         |         |          |          |             |
 | 304 | Schallwelle      |         |          |          |             |
@@ -330,29 +330,29 @@
 | 326 | Sondersensor     |         |          |          |             |
 | 327 | Himmelhieb       |         |          |          |             |
 | 328 | Sandgrab         | Boden   | Physisch | 35       | 85          |
-| 329 | Eiseskälte       |         |          |          |             |
+| 329 | Eiseskälte       | Eis     | Speziell | K.O.     | 30          |
 | 330 | Lehmbrühe        |         |          |          |             |
 | 331 | Kugelsaat        |         |          |          |             |
 | 332 | Aero-Ass         |         |          |          |             |
-| 333 | Eisspeer         |         |          |          |             |
+| 333 | Eisspeer         | Eis     | Physisch | 25       | 100         |
 | 334 | Eisenabwehr      |         |          |          |             |
 | 335 | Rückentzug       |         |          |          |             |
 | 336 | Jauler           |         |          |          |             |
-| 337 | Drachenklaue     |         |          |          |             |
+| 337 | Drachenklaue     | Drache  | Physisch | 80       | 100         |
 | 338 | Flora-Statue     |         |          |          |             |
 | 339 | Protzer          |         |          |          |             |
 | 340 | Sprungfeder      |         |          |          |             |
 | 341 | Lehmschuss       | Boden   | Speziell | 55       | 95          |
 | 342 | Giftschweif      |         |          |          |             |
 | 343 | Bezirzer         |         |          |          |             |
-| 344 | Volttackle       |         |          |          |             |
+| 344 | Volttackle       | Elektro | Physisch | 120      | 100         |
 | 345 | Zauberblatt      |         |          |          |             |
 | 346 | Nassmacher       |         |          |          |             |
 | 347 | Gedankengut      |         |          |          |             |
 | 348 | Laubklinge       |         |          |          |             |
 | 349 | Drachentanz      |         |          |          |             |
 | 350 | Felswurf         |         |          |          |             |
-| 351 | Schockwelle      |         |          |          |             |
+| 351 | Schockwelle      | Elektro | Speziell | 60       | ---         |
 | 352 | Aquawelle        |         |          |          |             |
 | 353 | Kismetwunsch     |         |          |          |             |
 | 354 | Psyschub         |         |          |          |             |
@@ -394,7 +394,7 @@
 | 390 | Giftspitzen      |         |          |          |             |
 | 391 | Statustausch     |         |          |          |             |
 | 392 | Wasserring       |         |          |          |             |
-| 393 | Magnetflug       |         |          |          |             |
+| 393 | Magnetflug       | Elektro | Status   | ---      | ---         |
 | 394 | Flammenblitz     |         |          |          |             |
 | 395 | Kraftwelle       |         |          |          |             |
 | 396 | Aurasphäre       |         |          |          |             |
@@ -407,27 +407,27 @@
 | 403 | Luftschnitt      |         |          |          |             |
 | 404 | Kreuzschere      |         |          |          |             |
 | 405 | Käfergebrumm     |         |          |          |             |
-| 406 | Drachenpuls      |         |          |          |             |
-| 407 | Drachenstoß      |         |          |          |             |
+| 406 | Drachenpuls      | Drache  | Speziell | 85       | 100         |
+| 407 | Drachenstoß      | Drache  | Physisch | 100      | 75          |
 | 408 | Juwelenkraft     |         |          |          |             |
 | 409 | Ableithieb       |         |          |          |             |
 | 410 | Vakuumwelle      |         |          |          |             |
 | 411 | Fokusstoß        |         |          |          |             |
 | 412 | Energieball      |         |          |          |             |
 | 413 | Sturzflug        |         |          |          |             |
-| 414 | Erdkräfte        | Boden   |          |          |             |
+| 414 | Erdkräfte        | Boden   | Speziell | 90       | 100         |
 | 415 | Wechseldich      |         |          |          |             |
 | 416 | Gigastoß         |         |          |          |             |
 | 417 | Ränkeschmied     |         |          |          |             |
 | 418 | Patronenhieb     |         |          |          |             |
-| 419 | Lawine           |         |          |          |             |
-| 420 | Eissplitter      |         |          |          |             |
+| 419 | Lawine           | Eis     | Physisch | 60       | 100         |
+| 420 | Eissplitter      | Eis     | Physisch | 40       | 100         |
 | 421 | Dunkelklaue      |         |          |          |             |
-| 422 | Donnerzahn       |         |          |          |             |
-| 423 | Eiszahn          |         |          |          |             |
+| 422 | Donnerzahn       | Elektro | Speziell | 65       | 95          |
+| 423 | Eiszahn          | Eis     | Physisch | 65       | 95          |
 | 424 | Feuerzahn        |         |          |          |             |
 | 425 | Schattenstoß     |         |          |          |             |
-| 426 | Schlammbombe     | Boden   |          |          |             |
+| 426 | Schlammbombe     | Boden   | Speziell | 65       | 85          |
 | 427 | Psychoklinge     |         |          |          |             |
 | 428 | Zen-Kopfstoß     |         |          |          |             |
 | 429 | Spiegelsalve     |         |          |          |             |
@@ -435,8 +435,8 @@
 | 431 | Kraxler          |         |          |          |             |
 | 432 | Auflockern       |         |          |          |             |
 | 433 | Bizarroraum      |         |          |          |             |
-| 434 | Draco Meteor     |         |          |          |             |
-| 435 | Ladungsstoß      |         |          |          |             |
+| 434 | Draco Meteor     | Drache  | Speziell | 130      | 90          |
+| 435 | Ladungsstoß      | Elektro | Speziell | 80       | 100         |
 | 436 | Flammensturm     |         |          |          |             |
 | 437 | Blättersturm     |         |          |          |             |
 | 438 | Blattgeißel      |         |          |          |             |
@@ -452,7 +452,7 @@
 | 448 | Geschwätz        |         |          |          |             |
 | 449 | Urteilskraft     |         |          |          |             |
 | 450 | Käferbiss        |         |          |          |             |
-| 451 | Ladestrahl       |         |          |          |             |
+| 451 | Ladestrahl       | Elektro | Speziell | 50       | 90          |
 | 452 | Holzhammer       |         |          |          |             |
 | 453 | Wasserdüse       |         |          |          |             |
 | 454 | Schlagbefehl     |         |          |          |             |
@@ -460,8 +460,8 @@
 | 456 | Heilbefehl       |         |          |          |             |
 | 457 | Kopfstoß         |         |          |          |             |
 | 458 | Doppelschlag     |         |          |          |             |
-| 459 | Zeitenlärm       |         |          |          |             |
-| 460 | Raumschlag       |         |          |          |             |
+| 459 | Zeitenlärm       | Drache  | Speziell | 150      | 90          |
+| 460 | Raumschlag       | Drache  | Speziell | 100      | 90          |
 | 461 | Lunartanz        |         |          |          |             |
 | 462 | Quetschgriff     |         |          |          |             |
 | 463 | Lavasturm        |         |          |          |             |
@@ -493,14 +493,14 @@
 | 510 | Einäschern       |         |          |          |             |
 | 512 | Akrobatik        |         |          |          |             |
 | 517 | Inferno          |         |          |          |             |
-| 521 | Voltwechsel      |         |          |          |             |
+| 521 | Voltwechsel      | Elektro | Speziell | 70       | 100         |
 | 522 | Käfertrutz       |         |          |          |             |
-| 523 | Dampfwalze       | Boden   |          |          |             |
-| 524 | Eisesodem        |         |          |          |             |
+| 523 | Dampfwalze       | Boden   | Physisch | 60       | 100         |
+| 524 | Eisesodem        | Eis     | Speziell | 60       | 90          |
 | 526 | Kraftschub       |         |          |          |             |
-| 528 | Stromstoß        |         |          |          |             |
-| 529 | Schlagbohrer     | Boden   |          |          |             |
-| 530 | Doppelhieb       |         |          |          |             |
+| 528 | Stromstoß        | Elektro | Physisch | 90       | 100         |
+| 529 | Schlagbohrer     | Boden   | Physisch | 80       | 95          |
+| 530 | Doppelhieb       | Drache  | Physisch | 40       | 90          |
 | 532 | Holzgeweih       |         |          |          |             |
 | 534 | Kalkklinge       |         |          |          |             |
 | 535 | Brandstempel     |         |          |          |             |
@@ -513,21 +513,21 @@
 | 544 | Klikkdiskus      |         |          |          |             |
 | 547 | Urgesang         |         |          |          |             |
 | 548 | Mystoschwert     |         |          |          |             |
-| 549 | Eiszeit          |         |          |          |             |
-| 550 | Blitzschlag      |         |          |          |             |
+| 549 | Eiszeit          | Eis     | Speziell | 65       | 95          |
+| 550 | Blitzschlag      | Elektro | Physisch | 130      | 85          |
 | 551 | Blauflammen      |         |          |          |             |
 | 552 | Feuerreigen      |         |          |          |             |
-| 553 | Frostvolt        |         |          |          |             |
-| 554 | Frosthauch       |         |          |          |             |
+| 553 | Frostvolt        | Eis     | Physisch | 140      | 90          |
+| 554 | Frosthauch       | Eis     | Physisch | 140      | 90          |
 | 555 | Standpauke       |         |          |          |             |
-| 556 | Eiszapfhagel     |         |          |          |             |
+| 556 | Eiszapfhagel     | Eis     | Physisch | 85       | 90          |
 | 557 | V-Generator      |         |          |          |             |
 | 565 | Stachelfinale    |         |          |          |             |
 | 566 | Phantomkraft     |         |          |          |             |
 | 568 | Kampfgebrüll     |         |          |          |             |
-| 570 | Parabolladung    |         |          |          |             |
+| 570 | Parabolladung    | Elektro | Speziell | 65       | 100         |
 | 572 | Blütenwirbel     |         |          |          |             |
-| 573 | Gefriertrockner  |         |          |          |             |
+| 573 | Gefriertrockner  | Eis     | Speziell | 70       | 100         |
 | 574 | Säuselstimme     |         |          |          |             |
 | 577 | Diebeskuss       |         |          |          |             |
 | 580 | Grasfeld         |         |          |          |             |
@@ -543,23 +543,23 @@
 | 593 | Dimensionsloch   |         |          |          |             |
 | 594 | Wasser-Shuriken  |         |          |          |             |
 | 595 | Magieflamme      |         |          |          |             |
-| 598 | Mystowellen      |         |          |          |             |
-| 604 | Elektrofeld      |         |          |          |             |
+| 598 | Mystowellen      | Elektro | Status   | ---      | 100         |
+| 604 | Elektrofeld      | Elektro | Status   | ---      | ---         |
 | 605 | Zauberschein     |         |          |          |             |
 | 608 | Kulleraugen      |         |          |          |             |
-| 609 | Wangenrubbler    |         |          |          |             |
+| 609 | Wangenrubbler    | Elektro | Physisch | 20       | 100         |
 | 612 | Steigerungshieb  |         |          |          |             |
 | 613 | Unheilsschwingen |         |          |          |             |
-| 615 | Tausend Wellen   | Boden   |          |          |             |
-| 616 | Bodengewalt      | Boden   |          |          |             |
+| 615 | Tausend Wellen   | Boden   | Physisch | 90       | 100         |
+| 616 | Bodengewalt      | Boden   | Physisch | 90       | 100         |
 | 618 | Ursprungswoge    |         |          |          |             |
-| 619 | Abgrundsklinge   | Boden   |          |          |             |
+| 619 | Abgrundsklinge   | Boden   | Physisch | 120      | 85          |
 | 620 | Zenitstrümer     |         |          |          |             |
 | 621 | Dimensionswahn   |         |          |          |             |
 | 660 | Überrumpler      |         |          |          |             |
 | 661 | Bunker           |         |          |          |             |
 | 663 | Dark Lariat      |         |          |          |             |
-| 667 | Pferdestärke     | Boden   |          |          |             |
+| 667 | Pferdestärke     | Boden   | Physisch | 95       | 95          |
 | 668 | Kraftabsorber    |         |          |          |             |
 | 669 | Solarklinge      |         |          |          |             |
 | 670 | Blattwerk        |         |          |          |             |
@@ -568,9 +568,9 @@
 | 678 | Psychofeld       |         |          |          |             |
 | 679 | Anfallen         |         |          |          |             |
 | 684 | Schmalhorn       |         |          |          |             |
-| 692 | Drachenhammer    |         |          |          |             |
+| 692 | Drachenhammer    | Drache  | Physisch | 90       | 100         |
 | 693 | Wirbler          |         |          |          |             |
-| 694 | Auroraschleier   |         |          |          |             |
+| 694 | Auroraschleier   | Eis     | Status   | ---      | ---         |
 | 705 | Kanonenbouquet   |         |          |          |             |
 | 706 | Psychobeißer     |         |          |          |             |
 | 708 | Schattenknochen  |         |          |          |             |
@@ -580,33 +580,33 @@
 | 713 | Stahlgestirn     |         |          |          |             |
 | 714 | Schattenstrahl   |         |          |          |             |
 | 715 | Tränendrüse      |         |          |          |             |
-| 716 | Elektropikser    |         |          |          |             |
+| 716 | Elektropikser    | Elektro | Physisch | 80       | 100         |
 | 717 | Naturzorn        |         |          |          |             |
-| 721 | Plasmafäuste     |         |          |          |             |
+| 721 | Plasmafäuste     | Elektro | Physisch | 100      | 100         |
 | 722 | Photonen-Geysir  |         |          |          |             |
 | 738 | Sprießbomben     |         |          |          |             |
 | 742 | Panzerfäuste     |         |          |          |             |
 | 750 | Magiepuder       |         |          |          |             |
 | 776 | Body Press       |         |          |          |             |
 | 780 | Feuerball        |         |          |          |             |
-| 784 | Breitseite       |         |          |          |             |
+| 784 | Breitseite       | Drache  | Physisch | 60       | 100         |
 | 787 | Apfelsäure       |         |          |          |             |
 | 789 | Seelenbruch      |         |          |          |             |
 | 790 | Wunderdampf      |         |          |          |             |
 | 791 | Lebenstropfen    |         |          |          |             |
 | 794 | Sternensturm     |         |          |          |             |
-| 795 | Unendynastrahlen |         |          |          |             |
+| 795 | Unendynastrahlen | Drache  | Speziell | 160      | 90          |
 | 806 | Krabbelkracher   |         |          |          |             |
 | 809 | Poltergeist      |         |          |          |             |
 | 812 | Rollwende        |         |          |          |             |
-| 815 | Brandsand        |         |          |          |             |
+| 815 | Brandsand        | Boden   | Speziell | 70       | 100         |
 | 817 | Finstertreffer   |         |          |          |             |
 | 818 | Trefferschwall   |         |          |          |             |
-| 820 | Drachenkräfte    |         |          |          |             |
+| 820 | Drachenkräfte    | Drache  | Speziell | 150      | 100         |
 | 821 | Eisiger Blick    |         |          |          |             |
 | 822 | Brennender Zorn  |         |          |          |             |
 | 823 | Donnernder Tritt |         |          |          |             |
-| 824 | Blizzardlanze    |         |          |          |             |
+| 824 | Blizzardlanze    | Eis     | Physisch | 120      | 100         |
 | 825 | Astralfragmente  |         |          |          |             |
 | 827 | Unheilsklauen    |         |          |          |             |
 | 828 | Barrierenstoß    |         |          |          |             |
@@ -614,18 +614,18 @@
 | 833 | Flammenwut       |         |          |          |             |
 | 834 | Wellentackle     |         |          |          |             |
 | 835 | Chlorostrahl     |         |          |          |             |
-| 836 | Frostfallwind    |         |          |          |             |
+| 836 | Frostfallwind    | Eis     | Physisch | 100      | 85          |
 | 837 | Siegestanz       |         |          |          |             |
-| 838 | Schmetterramme   |         |          |          |             |
+| 838 | Schmetterramme   | Boden   | Physisch | 120      | 100         |
 | 839 | Giftstachelregen |         |          |          |             |
 | 840 | Auraschwingen    |         |          |          |             |
 | 841 | Niedertracht     |         |          |          |             |
 | 842 | Refugium         |         |          |          |             |
 | 846 | Polarorkan       |         |          |          |             |
-| 847 | Donnerorkan      |         |          |          |             |
-| 848 | Wüstenorkan      |         |          |          |             |
+| 847 | Donnerorkan      | Elektro | Speziell | 100      | 80          |
+| 848 | Wüstenorkan      | Boden   | Speziell | 100      | 80          |
 | 857 | Düsenhieb        |         |          |          |             |
-| 861 | Eiskreisel       |         |          |          |             |
+| 861 | Eiskreisel       | Eis     | Physisch | 80       | 100         |
 | 869 | Kniefallspalter  |         |          |          |             |
 | 873 | Rasender Stier   |         |          |          |             |
 | 882 | Aufräumen        |         |          |          |             |
@@ -639,9 +639,9 @@
 | 894 | Vendetta         |         |          |          |             |
 | 895 | Aquaschnitt      |         |          |          |             |
 | 904 | Rankenkeule      |         |          |          |             |
-| 905 | Stromstrahl      |         |          |          |             |
+| 905 | Stromstrahl      | Elektro | Speziell | 130      | 100         |
 | 908 | Flammenschild    |         |          |          |             |
-| 909 | Sturmblitz       |         |          |          |             |
+| 909 | Sturmblitz       | Elektro | Speziell | 70       | 100         |
 
 
 
