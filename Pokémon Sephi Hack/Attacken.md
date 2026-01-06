@@ -408,119 +408,119 @@
 | 405 | Käfergebrumm     | Käfer   | Speziell | 90       | 100         |
 | 406 | Drachenpuls      | Drache  | Speziell | 85       | 100         |
 | 407 | Drachenstoß      | Drache  | Physisch | 100      | 75          |
-| 408 | Juwelenkraft     | Gestein | Speziell |          |             |
-| 409 | Ableithieb       | Kampf   | Physisch |          |             |
-| 410 | Vakuumwelle      | Kampf   | Speziell |          |             |
-| 411 | Fokusstoß        | Kampf   | Speziell |          |             |
-| 412 | Energieball      | Pflanze | Speziell |          |             |
-| 413 | Sturzflug        | Flug    | Physisch |          |             |
+| 408 | Juwelenkraft     | Gestein | Speziell | 80       | 100         |
+| 409 | Ableithieb       | Kampf   | Physisch | 75       | 100         |
+| 410 | Vakuumwelle      | Kampf   | Speziell | 40       | 100         |
+| 411 | Fokusstoß        | Kampf   | Speziell | 120      | 70          |
+| 412 | Energieball      | Pflanze | Speziell | 90       | 100         |
+| 413 | Sturzflug        | Flug    | Physisch | 120      | 100         |
 | 414 | Erdkräfte        | Boden   | Speziell | 90       | 100         |
-| 415 | Wechseldich      | Unlicht | Status   |          |             |
-| 416 | Gigastoß         | Normal  | Physisch |          |             |
-| 417 | Ränkeschmied     | Unlicht | Status   |          |             |
-| 418 | Patronenhieb     | Stahl   | Physisch |          |             |
+| 415 | Wechseldich      | Unlicht | Status   | ---      | 100         |
+| 416 | Gigastoß         | Normal  | Physisch | 150      | 90          |
+| 417 | Ränkeschmied     | Unlicht | Status   | ---      | ---         |
+| 418 | Patronenhieb     | Stahl   | Physisch | 40       | 100         |
 | 419 | Lawine           | Eis     | Physisch | 60       | 100         |
 | 420 | Eissplitter      | Eis     | Physisch | 40       | 100         |
-| 421 | Dunkelklaue      | Geist   | Physisch |          |             |
+| 421 | Dunkelklaue      | Geist   | Physisch | 70       | 100         |
 | 422 | Donnerzahn       | Elektro | Speziell | 65       | 95          |
 | 423 | Eiszahn          | Eis     | Physisch | 65       | 95          |
-| 424 | Feuerzahn        | Feuer   | Physisch |          |             |
-| 425 | Schattenstoß     | Geist   | Physisch |          |             |
+| 424 | Feuerzahn        | Feuer   | Physisch | 65       | 95          |
+| 425 | Schattenstoß     | Geist   | Physisch | 40       | 100         |
 | 426 | Schlammbombe     | Boden   | Speziell | 65       | 85          |
-| 427 | Psychoklinge     | Psycho  | Physisch |          |             |
-| 428 | Zen-Kopfstoß     | Psycho  | Physisch |          |             |
-| 429 | Spiegelsalve     | Stahl   | Speziell |          |             |
-| 430 | Lichtkanone      | Stahl   | Speziell |          |             |
-| 431 | Kraxler          | Normal  | Physisch |          |             |
-| 432 | Auflockern       | Flug    | Status   |          |             |
-| 433 | Bizarroraum      | Psycho  | Status   |          |             |
+| 427 | Psychoklinge     | Psycho  | Physisch | 70       | 100         |
+| 428 | Zen-Kopfstoß     | Psycho  | Physisch | 80       | 90          |
+| 429 | Spiegelsalve     | Stahl   | Speziell | 65       | 85          |
+| 430 | Lichtkanone      | Stahl   | Speziell | 80       | 100         |
+| 431 | Kraxler          | Normal  | Physisch | 90       | 85          |
+| 432 | Auflockern       | Flug    | Status   | ---      | ---         |
+| 433 | Bizarroraum      | Psycho  | Status   | ---      | ---         |
 | 434 | Draco Meteor     | Drache  | Speziell | 130      | 90          |
 | 435 | Ladungsstoß      | Elektro | Speziell | 80       | 100         |
-| 436 | Flammensturm     | Feuer   | Speziell |          |             |
-| 437 | Blättersturm     | Pflanze | Speziell |          |             |
-| 438 | Blattgeißel      | Pflanze | Physisch |          |             |
-| 439 | Felswerfer       | Gestein | Physisch |          |             |
-| 440 | Giftstreich      | Gift    | Physisch |          |             |
-| 441 | Mülltreffer      | Gift    | Physisch |          |             |
-| 442 | Eisenschädel     | Stahl   | Physisch |          |             |
-| 443 | Magnetbombe      | Stahl   | Physisch |          |             |
-| 444 | Steinkante       | Gestein | Physisch |          |             |
-| 445 | Liebreiz         | Normal  | Status   |          |             |
-| 446 | Tarnsteine       | Gestein | Status   |          |             |
-| 447 | Strauchler       | Pflanze | Speziell |          |             |
-| 448 | Geschwätz        | Flug    | Speziell |          |             |
-| 449 | Urteilskraft     | Normal  | Speziell |          |             |
-| 450 | Käferbiss        | Käfer   | Physisch |          |             |
+| 436 | Flammensturm     | Feuer   | Speziell | 80       | 100         |
+| 437 | Blättersturm     | Pflanze | Speziell | 130      | 90          |
+| 438 | Blattgeißel      | Pflanze | Physisch | 120      | 85          |
+| 439 | Felswerfer       | Gestein | Physisch | 150      | 90          |
+| 440 | Giftstreich      | Gift    | Physisch | 70       | 100         |
+| 441 | Mülltreffer      | Gift    | Physisch | 120      | 80          |
+| 442 | Eisenschädel     | Stahl   | Physisch | 80       | 100         |
+| 443 | Magnetbombe      | Stahl   | Physisch | 60       | ---         |
+| 444 | Steinkante       | Gestein | Physisch | 100      | 80          |
+| 445 | Liebreiz         | Normal  | Status   | ---      | 100         |
+| 446 | Tarnsteine       | Gestein | Status   | ---      | ---         |
+| 447 | Strauchler       | Pflanze | Speziell | Variiert | 100         |
+| 448 | Geschwätz        | Flug    | Speziell | 65       | 100         |
+| 449 | Urteilskraft     | Normal  | Speziell | 100      | 100         |
+| 450 | Käferbiss        | Käfer   | Physisch | 60       | 100         |
 | 451 | Ladestrahl       | Elektro | Speziell | 50       | 90          |
-| 452 | Holzhammer       | Pflanze | Physisch |          |             |
-| 453 | Wasserdüse       | Wasser  | Physisch |          |             |
-| 454 | Schlagbefehl     | Käfer   | Physisch |          |             |
-| 455 | Blockbefehl      | Käfer   | Status   |          |             |
-| 456 | Heilbefehl       | Käfer   | Status   |          |             |
-| 457 | Kopfstoß         | Gestein | Physisch |          |             |
-| 458 | Doppelschlag     | Normal  | Physisch |          |             |
+| 452 | Holzhammer       | Pflanze | Physisch | 120      | 100         |
+| 453 | Wasserdüse       | Wasser  | Physisch | 40       | 100         |
+| 454 | Schlagbefehl     | Käfer   | Physisch | 90       | 100         |
+| 455 | Blockbefehl      | Käfer   | Status   | ---      | ---         |
+| 456 | Heilbefehl       | Käfer   | Status   | ---      | ---         |
+| 457 | Kopfstoß         | Gestein | Physisch | 150      | 80          |
+| 458 | Doppelschlag     | Normal  | Physisch | 35       | 90          |
 | 459 | Zeitenlärm       | Drache  | Speziell | 150      | 90          |
 | 460 | Raumschlag       | Drache  | Speziell | 100      | 90          |
-| 461 | Lunartanz        | Psycho  | Status   |          |             |
-| 462 | Quetschgriff     | Normal  | Physisch |          |             |
-| 463 | Lavasturm        | Feuer   | Speziell |          |             |
-| 464 | Schlummerort     | Unlicht | Status   |          |             |
-| 465 | Schocksamen      | Pflanze | Speziell |          |             |
-| 466 | Unheilböen       | Geist   | Speziell |          |             |
-| 467 | Schemenkraft     | Geist   | Physisch |          |             |
-| 468 | Klauenwetzer     |         |          |          |             |
-| 469 | Rundumschutz     |         |          |          |             |
-| 470 | Schutzteiler     |         |          |          |             |
-| 473 | Psychoschock     |         |          |          |             |
-| 474 | Giftschock       |         |          |          |             |
-| 475 | Autotomie        |         |          |          |             |
-| 480 | Bergsturm        |         |          |          |             |
-| 481 | Funkenflug       |         |          |          |             |
-| 482 | Schlammwoge      |         |          |          |             |
-| 483 | Falterreigen     |         |          |          |             |
-| 484 | Rammboss         |         |          |          |             |
-| 487 | Überflutung      |         |          |          |             |
-| 489 | Einrollen        |         |          |          |             |
-| 490 | Fußtritt         |         |          |          |             |
-| 494 | Zwango           |         |          |          |             |
-| 501 | Rapidschutz      |         |          |          |             |
-| 503 | Siedewasser      |         |          |          |             |
-| 504 | Hausbruch        |         |          |          |             |
-| 505 | Heilwoge         |         |          |          |             |
-| 506 | Bürde            |         |          |          |             |
-| 508 | Gangwechsel      |         |          |          |             |
-| 510 | Einäschern       |         |          |          |             |
-| 512 | Akrobatik        |         |          |          |             |
-| 517 | Inferno          |         |          |          |             |
+| 461 | Lunartanz        | Psycho  | Status   | ---      | ---         |
+| 462 | Quetschgriff     | Normal  | Physisch | Variiert | 100         |
+| 463 | Lavasturm        | Feuer   | Speziell | 100      | 75          |
+| 464 | Schlummerort     | Unlicht | Status   | ---      | 50          |
+| 465 | Schocksamen      | Pflanze | Speziell | 120      | 85          |
+| 466 | Unheilböen       | Geist   | Speziell | 60       | 100         |
+| 467 | Schemenkraft     | Geist   | Physisch | 120      | 100         |
+| 468 | Klauenwetzer     | Unlicht | Status   | ---      | ---         |
+| 469 | Rundumschutz     | Gestein | Status   | ---      | ---         |
+| 470 | Schutzteiler     | Psycho  | Status   | ---      | ---         |
+| 473 | Psychoschock     | Psycho  | Speziell | 80       | 100         |
+| 474 | Giftschock       | Gift    | Speziell | 65       | 100         |
+| 475 | Autotomie        | Stahl   | Status   | ---      | ---         |
+| 480 | Bergsturm        | Kampf   | Physisch | 60       | 100         |
+| 481 | Funkenflug       | Feuer   | Speziell | 70       | 100         |
+| 482 | Schlammwoge      | Gift    | Speziell | 95       | 100         |
+| 483 | Falterreigen     | Käfer   | Status   | ---      | ---         |
+| 484 | Rammboss         | Stahl   | Physisch | Variiert | 100         |
+| 487 | Überflutung      | Wasser  | Status   | ---      | 100         |
+| 489 | Einrollen        | Gift    | Status   | ---      | ---         |
+| 490 | Fußtritt         | Kampf   | Physisch | 65       | 100         |
+| 494 | Zwango           | Normal  | Status   | ---      | 100         |
+| 501 | Rapidschutz      | Kampf   | Status   | ---      | ---         |
+| 503 | Siedewasser      | Wasser  | Speziell | 80       | 100         |
+| 504 | Hausbruch        | Normal  | Status   | ---      | ---         |
+| 505 | Heilwoge         | Psycho  | Status   | ---      | ---         |
+| 506 | Bürde            | Geist   | Speziell | 65       | 100         |
+| 508 | Gangwechsel      | Stahl   | Status   | ---      | ---         |
+| 510 | Einäschern       | Feuer   | Speziell | 60       | 100         |
+| 512 | Akrobatik        | Flug    | Physisch | 55       | 100         |
+| 517 | Inferno          | Feuer   | Speziell | 100      | 50          |
 | 521 | Voltwechsel      | Elektro | Speziell | 70       | 100         |
-| 522 | Käfertrutz       |         |          |          |             |
+| 522 | Käfertrutz       | Käfer   | Speziell | 50       | 100         |
 | 523 | Dampfwalze       | Boden   | Physisch | 60       | 100         |
 | 524 | Eisesodem        | Eis     | Speziell | 60       | 90          |
-| 526 | Kraftschub       |         |          |          |             |
+| 526 | Kraftschub       | Normal  | Status   | ---      | ---         |
 | 528 | Stromstoß        | Elektro | Physisch | 90       | 100         |
 | 529 | Schlagbohrer     | Boden   | Physisch | 80       | 95          |
 | 530 | Doppelhieb       | Drache  | Physisch | 40       | 90          |
-| 532 | Holzgeweih       |         |          |          |             |
-| 534 | Kalkklinge       |         |          |          |             |
-| 535 | Brandstempel     |         |          |          |             |
-| 536 | Grasmixer        |         |          |          |             |
-| 539 | Nachtflut        |         |          |          |             |
-| 540 | Psychostoß       |         |          |          |             |
-| 541 | Kehrschelle      |         |          |          |             |
-| 542 | Orkan            |         |          |          |             |
-| 543 | Steinschädel     |         |          |          |             |
-| 544 | Klikkdiskus      |         |          |          |             |
-| 547 | Urgesang         |         |          |          |             |
-| 548 | Mystoschwert     |         |          |          |             |
+| 532 | Holzgeweih       | Pflanze | Physisch | 75       | 100         |
+| 534 | Kalkklinge       | Wasser  | Physisch | 75       | 95          |
+| 535 | Brandstempel     | Feuer   | Physisch | Variiert | 100         |
+| 536 | Grasmixer        | Pflanze | Speziell | 65       | 90          |
+| 539 | Nachtflut        | Unlicht | Speziell | 85       | 95          |
+| 540 | Psychostoß       | Psycho  | Speziell | 100      | 100         |
+| 541 | Kehrschelle      | Normal  | Physisch | 25       | 85          |
+| 542 | Orkan            | Flug    | Speziell | 110      | 70          |
+| 543 | Steinschädel     | Normal  | Physisch | 120      | 100         |
+| 544 | Klikkdiskus      | Stahl   | Physisch | 50       | 85          |
+| 547 | Urgesang         | Normal  | Speziell | 75       | 100         |
+| 548 | Mystoschwert     | Kampf   | Speziell | 85       | 100         |
 | 549 | Eiszeit          | Eis     | Speziell | 65       | 95          |
 | 550 | Blitzschlag      | Elektro | Physisch | 130      | 85          |
-| 551 | Blauflammen      |         |          |          |             |
-| 552 | Feuerreigen      |         |          |          |             |
+| 551 | Blauflammen      | Feuer   | Speziell | 130      | 85          |
+| 552 | Feuerreigen      | Feuer   | Speziell | 80       | 100         |
 | 553 | Frostvolt        | Eis     | Physisch | 140      | 90          |
 | 554 | Frosthauch       | Eis     | Physisch | 140      | 90          |
-| 555 | Standpauke       |         |          |          |             |
+| 555 | Standpauke       | Unlicht | Speziell | 55       | 95          |
 | 556 | Eiszapfhagel     | Eis     | Physisch | 85       | 90          |
-| 557 | V-Generator      |         |          |          |             |
+| 557 | V-Generator      | Feuer   | Physisch | 180      | 95          |
 | 565 | Stachelfinale    |         |          |          |             |
 | 566 | Phantomkraft     |         |          |          |             |
 | 568 | Kampfgebrüll     |         |          |          |             |
