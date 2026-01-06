@@ -101,373 +101,373 @@
 | 098 | Ruckzuckhieb     | Normal  | Physisch | 40       | 100         |
 | 099 | Raserei          | Normal  | Physisch | 20       | 100         |
 | 100 | Teleport         | Psycho  | Status   | ---      | ---         |
-| 101 | Nachtnebel       | Geist   | Speziell |          |             |
-| 102 | Mimikry          | Normal  | Status   |          |             |
-| 103 | Kreideschrei     | Normal  | Status   |          |             |
-| 104 | Doppelteam       | Normal  | Status   |          |             |
-| 105 | Genesung         | Normal  | Status   |          |             |
-| 106 | Härtner          | Normal  | Status   |          |             |
-| 107 | Komprimator      | Normal  | Status   |          |             |
-| 108 | Rauchwolke       | Normal  | Status   |          |             |
-| 109 | Konfusstrahl     | Geist   | Status   |          |             |
-| 110 | Panzerschutz     | Wasser  | Status   |          |             |
-| 111 | Einigler         | Normal  | Status   |          |             |
-| 112 | Barriere         | Psycho  | Status   |          |             |
-| 113 | Lichtschild      | Psycho  | Status   |          |             |
+| 101 | Nachtnebel       | Geist   | Speziell | Variiert | 100         |
+| 102 | Mimikry          | Normal  | Status   | ---      | ---         |
+| 103 | Kreideschrei     | Normal  | Status   | ---      | 85          |
+| 104 | Doppelteam       | Normal  | Status   | ---      | ---         |
+| 105 | Genesung         | Normal  | Status   | ---      | ---         |
+| 106 | Härtner          | Normal  | Status   | ---      | ---         |
+| 107 | Komprimator      | Normal  | Status   | ---      | ---         |
+| 108 | Rauchwolke       | Normal  | Status   | ---      | 100         |
+| 109 | Konfusstrahl     | Geist   | Status   | ---      | 100         |
+| 110 | Panzerschutz     | Wasser  | Status   | ---      | ---         |
+| 111 | Einigler         | Normal  | Status   | ---      | ---         |
+| 112 | Barriere         | Psycho  | Status   | ---      | ---         |
+| 113 | Lichtschild      | Psycho  | Status   | ---      | ---         |
 | 114 | Dunkelnebel      | Eis     | Status   | ---      | ---         |
-| 115 | Reflektor        | Psycho  | Status   |          |             |
-| 116 | Energiefokus     | Normal  | Status   |          |             |
-| 117 | Geduld           | Normal  | Physisch |          |             |
-| 118 | Metronom         | Normal  | Status   |          |             |
-| 119 | Spiegeltrick     | Flug    | Status   |          |             |
-| 120 | Finale           | Normal  | Physisch |          |             |
-| 121 | Eierbombe        | Normal  | Physisch |          |             |
-| 122 | Schlecker        | Geist   | Physisch |          |             |
-| 123 | Smog             | Gift    | Speziell |          |             |
-| 124 | Schlammbad       | Gift    | Speziell |          |             |
+| 115 | Reflektor        | Psycho  | Status   | ---      | ---         |
+| 116 | Energiefokus     | Normal  | Status   | ---      | ---         |
+| 117 | Geduld           | Normal  | Physisch | ---      | 100         |
+| 118 | Metronom         | Normal  | Status   | ---      | ---         |
+| 119 | Spiegeltrick     | Flug    | Status   | ---      | ---         |
+| 120 | Finale           | Normal  | Physisch | 200      | 100         |
+| 121 | Eierbombe        | Normal  | Physisch | 100      | 75          |
+| 122 | Schlecker        | Geist   | Physisch | 30       | 100         |
+| 123 | Smog             | Gift    | Speziell | 30       | 70          |
+| 124 | Schlammbad       | Gift    | Speziell | 65       | 100         |
 | 125 | Knochenkeule     | Boden   | Physisch | 65       | 85          |
-| 126 | Feuersturm       | Feuer   | Speziell |          |             |
-| 127 | Kaskade          | Wasser  | Physisch |          |             |
-| 128 | Schnapper        | Wasser  | Physisch |          |             |
-| 129 | Sternschauer     | Normal  | Speziell |          |             |
-| 130 | Schädelwumme     | Normal  | Physisch |          |             |
-| 131 | Dornkanone       | Normal  | Physisch |          |             |
-| 132 | Umklammerung     | Normal  | Physisch |          |             |
-| 133 | Amnesie          | Psycho  | Status   |          |             |
-| 134 | Psykraft         | Psycho  | Status   |          |             |
-| 135 | Weichei          | Normal  | Status   |          |             |
-| 136 | Turmkick         | Kampf   | Physisch |          |             |
-| 137 | Schlangenblick   | Normal  | Status   |          |             |
-| 138 | Traumfresser     | Psycho  | Speziell |          |             |
-| 139 | Giftwolke        | Gift    | Status   |          |             |
-| 140 | Stakkato         | Normal  | Physisch |          |             |
-| 141 | Blutsauger       | Käfer   | Physisch |          |             |
-| 142 | Todeskuss        | Normal  | Status   |          |             |
-| 143 | Himmelsfeger     | Flug    | Physisch |          |             |
-| 144 | Wandler          | Normal  | Status   |          |             |
-| 145 | Blubber          | Wasser  | Speziell |          |             |
-| 146 | Irrschlag        | Normal  | Physisch |          |             |
-| 147 | Pilzspore        | Pflanze | Status   |          |             |
-| 148 | Blitz            | Normal  | Status   |          |             |
-| 149 | Psywelle         | Psycho  | Speziell |          |             |
-| 150 | Platscher        | Normal  | Status   |          |             |
-| 151 | Säurepanzer      | Gift    | Status   |          |             |
-| 152 | Krabbhammer      | Wasser  | Physisch |          |             |
-| 153 | Explosion        | Normal  | Physisch |          |             |
-| 154 | Kratzfurie       | Normal  | Physisch |          |             |
+| 126 | Feuersturm       | Feuer   | Speziell | 110      | 85          |
+| 127 | Kaskade          | Wasser  | Physisch | 80       | 100         |
+| 128 | Schnapper        | Wasser  | Physisch | 35       | 85          |
+| 129 | Sternschauer     | Normal  | Speziell | 60       | ---         |
+| 130 | Schädelwumme     | Normal  | Physisch | 130      | 100         |
+| 131 | Dornkanone       | Normal  | Physisch | 20       | 100         |
+| 132 | Umklammerung     | Normal  | Physisch | 10       | 100         |
+| 133 | Amnesie          | Psycho  | Status   | ---      | ---         |
+| 134 | Psykraft         | Psycho  | Status   | ---      | 80          |
+| 135 | Weichei          | Normal  | Status   | ---      | ---         |
+| 136 | Turmkick         | Kampf   | Physisch | 130      | 90          |
+| 137 | Schlangenblick   | Normal  | Status   | ---      | 100         |
+| 138 | Traumfresser     | Psycho  | Speziell | 100      | 100         |
+| 139 | Giftwolke        | Gift    | Status   | ---      | 90          |
+| 140 | Stakkato         | Normal  | Physisch | 15       | 85          |
+| 141 | Blutsauger       | Käfer   | Physisch | 80       | 100         |
+| 142 | Todeskuss        | Normal  | Status   | ---      | 75          |
+| 143 | Himmelsfeger     | Flug    | Physisch | 140      | 90          |
+| 144 | Wandler          | Normal  | Status   | ---      | ---         |
+| 145 | Blubber          | Wasser  | Speziell | 40       | 100         |
+| 146 | Irrschlag        | Normal  | Physisch | 70       | 100         |
+| 147 | Pilzspore        | Pflanze | Status   | ---      | 100         |
+| 148 | Blitz            | Normal  | Status   | ---      | 100         |
+| 149 | Psywelle         | Psycho  | Speziell | Variiert | 100         |
+| 150 | Platscher        | Normal  | Status   | ---      | ---         |
+| 151 | Säurepanzer      | Gift    | Status   | ---      | ---         |
+| 152 | Krabbhammer      | Wasser  | Physisch | 100      | 90          |
+| 153 | Explosion        | Normal  | Physisch | 250      | 100         |
+| 154 | Kratzfurie       | Normal  | Physisch | 18       | 80          |
 | 155 | Knochmerang      | Boden   | Physisch | 50       | 90          |
-| 156 | Erholung         | Psycho  | Status   |          |             |
-| 157 | Steinhagel       | Gestein | Physisch |          |             |
-| 158 | Hyperzahn        | Normal  | Physisch |          |             |
-| 159 | Schärfer         | Normal  | Status   |          |             |
-| 160 | Umwandlung       | Normal  | Status   |          |             |
-| 161 | Triplette        | Normal  | Speziell |          |             |
-| 162 | Superzahn        | Normal  | Physisch |          |             |
-| 163 | Schlitzer        | Normal  | Physisch |          |             |
-| 164 | Delegator        | Normal  | Status   |          |             |
-| 165 | Verzweifler      | Normal  | Physisch |          |             |
-| 166 | Nachahmer        | Normal  | Status   |          |             |
-| 167 | Dreifachkick     | Kampf   | Physisch |          |             |
-| 168 | Raub             | Unlicht | Physisch |          |             |
-| 169 | Spinnennetz      | Käfer   | Status   |          |             |
-| 170 | Willensleser     | Normal  | Status   |          |             |
-| 171 | Nachtmahr        | Geist   | Status   |          |             |
-| 172 | Flammenrad       | Feuer   | Physisch |          |             |
-| 173 | Schnarcher       | Normal  | Speziell |          |             |
-| 174 | Fluch            | Geist   | Status   |          |             |
-| 175 | Dreschflegel     | Normal  | Physisch |          |             |
-| 176 | Umwandlung 2     | Normal  | Status   |          |             |
-| 177 | Luftstoß         | Flug    | Speziell |          |             |
-| 178 | Baumwollsaat     | Pflanze | Status   |          |             |
-| 179 | Gegenschlag      | Kampf   | Physisch |          |             |
-| 180 | Groll            | Geist   | Status   |          |             |
+| 156 | Erholung         | Psycho  | Status   | ---      | ---         |
+| 157 | Steinhagel       | Gestein | Physisch | 75       | 90          |
+| 158 | Hyperzahn        | Normal  | Physisch | 80       | 90          |
+| 159 | Schärfer         | Normal  | Status   | ---      | ---         |
+| 160 | Umwandlung       | Normal  | Status   | ---      | ---         |
+| 161 | Triplette        | Normal  | Speziell | 80       | 100         |
+| 162 | Superzahn        | Normal  | Physisch | Varriert | 90          |
+| 163 | Schlitzer        | Normal  | Physisch | 70       | 100         |
+| 164 | Delegator        | Normal  | Status   | ---      | ---         |
+| 165 | Verzweifler      | Normal  | Physisch | 50       | ---         |
+| 166 | Nachahmer        | Normal  | Status   | ---      | ---         |
+| 167 | Dreifachkick     | Kampf   | Physisch | 10       | 90          |
+| 168 | Raub             | Unlicht | Physisch | 60       | 100         |
+| 169 | Spinnennetz      | Käfer   | Status   | ---      | ---         |
+| 170 | Willensleser     | Normal  | Status   | ---      | ---         |
+| 171 | Nachtmahr        | Geist   | Status   | ---      | 100         |
+| 172 | Flammenrad       | Feuer   | Physisch | 60       | 100         |
+| 173 | Schnarcher       | Normal  | Speziell | 50       | 100         |
+| 174 | Fluch            | Geist   | Status   | ---      | ---         |
+| 175 | Dreschflegel     | Normal  | Physisch | Variiert | 100         |
+| 176 | Umwandlung 2     | Normal  | Status   | ---      | ---         |
+| 177 | Luftstoß         | Flug    | Speziell | 100      | 95          |
+| 178 | Baumwollsaat     | Pflanze | Status   | ---      | 100         |
+| 179 | Gegenschlag      | Kampf   | Physisch | Variiert | 100         |
+| 180 | Groll            | Geist   | Status   | ---      | 100         |
 | 181 | Pulverschnee     | Eis     | Speziell | 40       | 100         |
-| 182 | Schutzschild     | Normal  | Status   |          |             |
-| 183 | Tempohieb        | Kampf   | Physisch |          |             |
-| 184 | Grimasse         | Normal  | Status   |          |             |
-| 185 | Finte            | Unlicht | Physisch |          |             |
-| 186 | Bitterkuss       | Fee     | Status   |          |             |
-| 187 | Bauchtrommel     | Normal  | Status   |          |             |
-| 188 | Matschbombe      | Gift    | Speziell |          |             |
+| 182 | Schutzschild     | Normal  | Status   | ---      | ---         |
+| 183 | Tempohieb        | Kampf   | Physisch | 40       | 100         |
+| 184 | Grimasse         | Normal  | Status   | ---      | 100         |
+| 185 | Finte            | Unlicht | Physisch | 60       | ---         |
+| 186 | Bitterkuss       | Fee     | Status   | ---      | 75          |
+| 187 | Bauchtrommel     | Normal  | Status   | ---      | ---         |
+| 188 | Matschbombe      | Gift    | Speziell | 90       | 100         |
 | 189 | Lehmschelle      | Boden   | Speziell | 20       | 100         |
-| 190 | Octazooka        | Wasser  | Speziell |          |             |
+| 190 | Octazooka        | Wasser  | Speziell | 65       | 85          |
 | 191 | Stachler         | Boden   | Status   | ---      | ---         |
 | 192 | Blitzkanone      | Elektro | Speziell | 120      | 50          |
-| 193 | Scharfblick      | Normal  | Status   |          |             |
-| 194 | Abgangsbund      | Geist   | Status   |          |             |
-| 195 | Abgesang         | Normal  | Status   |          |             |
+| 193 | Scharfblick      | Normal  | Status   | ---      | ---         |
+| 194 | Abgangsbund      | Geist   | Status   | ---      | ---         |
+| 195 | Abgesang         | Normal  | Status   | ---      | ---         |
 | 196 | Eissturm         | Eis     | Speziell | 55       | 95          |
-| 197 | Scanner          | Kampf   | Status   |          |             |
+| 197 | Scanner          | Kampf   | Status   | ---      | ---         |
 | 198 | Knochenhatz      | Boden   | Physisch | 25       | 90          |
-| 199 | Zielschuss       | Normal  | Status   |          |             |
+| 199 | Zielschuss       | Normal  | Status   | ---      | ---         |
 | 200 | Wutanfall        | Drache  | Physisch | 120      | 100         |
-| 201 | Sandsturm        | Gestein | Status   |          |             |
-| 202 | Gigasauger       | Pflanze | Speziell |          |             |
-| 203 | Ausdauer         | Normal  | Status   |          |             |
-| 204 | Charme           | Fee     | Status   |          |             |
-| 205 | Walzer           | Gestein | Physisch |          |             |
-| 206 | Trugschlag       | Normal  | Physisch |          |             |
-| 207 | Angeberei        | Normal  | Status   |          |             |
-| 208 | Milchgetränk     | Normal  | Status   |          |             |
+| 201 | Sandsturm        | Gestein | Status   | ---      | ---         |
+| 202 | Gigasauger       | Pflanze | Speziell | 75       | 100         |
+| 203 | Ausdauer         | Normal  | Status   | ---      | ---         |
+| 204 | Charme           | Fee     | Status   | ---      | 100         |
+| 205 | Walzer           | Gestein | Physisch | 30       | 90          |
+| 206 | Trugschlag       | Normal  | Physisch | 40       | 100         |
+| 207 | Angeberei        | Normal  | Status   | ---      | 85          |
+| 208 | Milchgetränk     | Normal  | Status   | ---      | ---         |
 | 209 | Funkensprung     | Elektro | Physisch | 65       | 100         |
-| 210 | Zornklinge       | Käfer   | Physisch |          |             |
-| 211 | Stahlflügel      | Stahl   | Physisch |          |             |
-| 212 | Horroblick       | Normal  | Status   |          |             |
-| 213 | Anziehung        | Normal  | Status   |          |             |
-| 214 | Schlafrede       | Normal  | Status   |          |             |
-| 215 | Vitalglocke      | Normal  | Status   |          |             |
-| 216 | Rückkehr         | Normal  | Physisch |          |             |
-| 217 | Geschenk         | Normal  | Physisch |          |             |
-| 218 | Frustration      | Normal  | Physisch |          |             |
-| 219 | Bodyguard        | Normal  | Status   |          |             |
-| 220 | Leidteiler       | Normal  | Status   |          |             |
-| 221 | Läuterfeuer      | Feuer   | Physisch |          |             |
+| 210 | Zornklinge       | Käfer   | Physisch | 40       | 95          |
+| 211 | Stahlflügel      | Stahl   | Physisch | 70       | 90          |
+| 212 | Horroblick       | Normal  | Status   | ---      | ---         |
+| 213 | Anziehung        | Normal  | Status   | ---      | 100         |
+| 214 | Schlafrede       | Normal  | Status   | ---      | ---         |
+| 215 | Vitalglocke      | Normal  | Status   | ---      | ---         |
+| 216 | Rückkehr         | Normal  | Physisch | Variiert | 100         |
+| 217 | Geschenk         | Normal  | Physisch | Variiert | 90          |
+| 218 | Frustration      | Normal  | Physisch | Variiert | 100         |
+| 219 | Bodyguard        | Normal  | Status   | ---      | ---         |
+| 220 | Leidteiler       | Normal  | Status   | ---      | ---         |
+| 221 | Läuterfeuer      | Feuer   | Physisch | 100      | 95          |
 | 222 | Intensität       | Boden   | Physisch | Variiert | 100         |
-| 223 | Wuchtschlag      | Kampf   | Physisch |          |             |
-| 224 | Vielender        | Käfer   | Physisch |          |             |
+| 223 | Wuchtschlag      | Kampf   | Physisch | 100      | 50          |
+| 224 | Vielender        | Käfer   | Physisch | 120      | 85          |
 | 225 | Feuerodem        | Drache  | Speziell | 60       | 100         |
-| 226 | Stafette         | Normal  | Status   |          |             |
-| 227 | Zugabe           | Normal  | Status   |          |             |
-| 228 | Verfolgung       | Unlicht | Physisch |          |             |
-| 229 | Turbodreher      | Normal  | Physisch |          |             |
-| 230 | Lockduft         | Normal  | Status   |          |             |
-| 231 | Eisenschweif     | Stahl   | Physisch |          |             |
-| 232 | Metallklaue      | Stahl   | Physisch |          |             |
-| 233 | Überwürf         | Kampf   | Physisch |          |             |
-| 234 | Morgengrauen     | Normal  | Status   |          |             |
-| 235 | Synthese         | Pflanze | Status   |          |             |
-| 236 | Mondschein       | Fee     | Status   |          |             |
-| 237 | Kraftreserve     | Normal  | Speziell |          |             |
-| 238 | Kreuzhieb        | Kampf   | Physisch |          |             |
+| 226 | Stafette         | Normal  | Status   | ---      | ---         |
+| 227 | Zugabe           | Normal  | Status   | ---      | 100         |
+| 228 | Verfolgung       | Unlicht | Physisch | 40       | 100         |
+| 229 | Turbodreher      | Normal  | Physisch | 50       | 100         |
+| 230 | Lockduft         | Normal  | Status   | ---      | 100         |
+| 231 | Eisenschweif     | Stahl   | Physisch | 100      | 75          |
+| 232 | Metallklaue      | Stahl   | Physisch | 50       | 95          |
+| 233 | Überwürf         | Kampf   | Physisch | 70       | ---         |
+| 234 | Morgengrauen     | Normal  | Status   | ---      | ---         |
+| 235 | Synthese         | Pflanze | Status   | ---      | ---         |
+| 236 | Mondschein       | Fee     | Status   | ---      | ---         |
+| 237 | Kraftreserve     | Normal  | Speziell | 60       | 100         |
+| 238 | Kreuzhieb        | Kampf   | Physisch | 100      | 80          |
 | 239 | Windhose         | Drache  | Speziell | 40       | 100         |
-| 240 | Regentanz        | Wasser  | Status   |          |             |
-| 241 | Sonnentag        | Feuer   | Status   |          |             |
-| 242 | Knirscher        | Unlicht | Physisch |          |             |
-| 243 | Spiegelcape      | Psycho  | Speziell |          |             |
-| 244 | Psycho-Plus      | Normal  | Status   |          |             |
-| 245 | Turbotempo       | Normal  | Physisch |          |             |
-| 246 | Antik-Kraft      | Gestein | Speziell |          |             |
-| 247 | Spukball         | Geist   | Speziell |          |             |
-| 248 | Seher            | Psycho  | Speziell |          |             |
-| 249 | Zertrümmer       | Kampf   | Physisch |          |             |
-| 250 | Whirlpool        | Wasser  | Speziell |          |             |
-| 251 | Prügler          | Unlicht | Physisch |          |             |
-| 252 | Mogelhieb        |         |          |          |             |
-| 253 | Aufruhr          |         |          |          |             |
-| 254 | Horter           |         |          |          |             |
-| 255 | Entfessler       |         |          |          |             |
-| 256 | Verzehrer        |         |          |          |             |
-| 257 | Hitzewelle       |         |          |          |             |
+| 240 | Regentanz        | Wasser  | Status   | ---      | ---         |
+| 241 | Sonnentag        | Feuer   | Status   | ---      | ---         |
+| 242 | Knirscher        | Unlicht | Physisch | 80       | 100         |
+| 243 | Spiegelcape      | Psycho  | Speziell | ---      | 100         |
+| 244 | Psycho-Plus      | Normal  | Status   | ---      | ---         |
+| 245 | Turbotempo       | Normal  | Physisch | 100      | 100         |
+| 246 | Antik-Kraft      | Gestein | Speziell | 60       | 100         |
+| 247 | Spukball         | Geist   | Speziell | 80       | 100         |
+| 248 | Seher            | Psycho  | Speziell | 120      | 100         |
+| 249 | Zertrümmer       | Kampf   | Physisch | 40       | 100         |
+| 250 | Whirlpool        | Wasser  | Speziell | 35       | 85          |
+| 251 | Prügler          | Unlicht | Physisch | Variiert | 100         |
+| 252 | Mogelhieb        | Normal  | Physisch | 40       | 100         |
+| 253 | Aufruhr          | Normal  | Speziell | 90       | 100         |
+| 254 | Horter           | Normal  | Status   | ---      | ---         |
+| 255 | Entfessler       | Normal  | Speziell | Variiert | 100         |
+| 256 | Verzehrer        | Normal  | Status   | ---      | ---         |
+| 257 | Hitzewelle       | Feuer   | Speziell | 95       | 90          |
 | 258 | Hagelsturm       | Eis     | Status   | ---      | ---         |
-| 259 | Folterknecht     |         |          |          |             |
-| 260 | Schmeichler      |         |          |          |             |
-| 261 | Irrlicht         |         |          |          |             |
-| 262 | Memento-Mori     |         |          |          |             |
-| 263 | Fassade          |         |          |          |             |
-| 264 | Power-Punch      |         |          |          |             |
-| 265 | Riechsalz        |         |          |          |             |
-| 266 | Spotlight        |         |          |          |             |
-| 267 | Natur-Kraft      |         |          |          |             |
+| 259 | Folterknecht     | Unlicht | Status   | ---      | 100         |
+| 260 | Schmeichler      | Unlicht | Status   | ---      | 100         |
+| 261 | Irrlicht         | Feuer   | Status   | ---      | 85          |
+| 262 | Memento-Mori     | Unlicht | Status   | ---      | 100         |
+| 263 | Fassade          | Normal  | Physisch | 70       | 100         |
+| 264 | Power-Punch      | Kampf   | Physisch | 150      | 100         |
+| 265 | Riechsalz        | Normal  | Physisch | 70       | 100         |
+| 266 | Spotlight        | Normal  | Status   | ---      | ---         |
+| 267 | Natur-Kraft      | Normal  | Status   | Variiert | ---         |
 | 268 | Ladevorgang      | Elekro  | Status   | ---      | ---         |
-| 269 | Verhöhner        |         |          |          |             |
-| 270 | Rechte Hand      |         |          |          |             |
-| 271 | Trickbetrug      |         |          |          |             |
-| 272 | Rollenspiel      |         |          |          |             |
-| 273 | Wunschtraum      |         |          |          |             |
-| 274 | Zuschuss         |         |          |          |             |
-| 275 | Verwurzler       |         |          |          |             |
-| 276 | Kraftkoloss      |         |          |          |             |
-| 277 | Magiemantel      |         |          |          |             |
-| 278 | Aufbereitung     |         |          |          |             |
-| 279 | Vergeltung       |         |          |          |             |
-| 280 | Durchbruch       |         |          |          |             |
-| 281 | Gähner           |         |          |          |             |
-| 282 | Abschlag         |         |          |          |             |
-| 283 | Notsituation     |         |          |          |             |
-| 284 | Eruption         |         |          |          |             |
-| 285 | Fähigkeitstausch |         |          |          |             |
-| 286 | Begrenzer        |         |          |          |             |
-| 287 | Heilung          |         |          |          |             |
-| 288 | Nachspiel        |         |          |          |             |
-| 289 | Übernahme        |         |          |          |             |
-| 290 | Geheimpower      |         |          |          |             |
-| 291 | Taucher          |         |          |          |             |
-| 292 | Armstoß          |         |          |          |             |
-| 293 | Tarnung          |         |          |          |             |
-| 294 | Schweifglanz     |         |          |          |             |
-| 295 | Scheinwerfer     |         |          |          |             |
-| 296 | Nebelball        |         |          |          |             |
-| 297 | Daunenreigen     |         |          |          |             |
-| 298 | Taumeltanz       |         |          |          |             |
-| 299 | Feuerfeger       |         |          |          |             |
+| 269 | Verhöhner        | Unlicht | Status   | ---      | 100         |
+| 270 | Rechte Hand      | Normal  | Status   | ---      | ---         |
+| 271 | Trickbetrug      | Psycho  | Status   | ---      | 100         |
+| 272 | Rollenspiel      | Psycho  | Status   | ---      | ---         |
+| 273 | Wunschtraum      | Normal  | Status   | ---      | ---         |
+| 274 | Zuschuss         | Normal  | Status   | ---      | ---         |
+| 275 | Verwurzler       | Pflanze | Status   | ---      | ---         |
+| 276 | Kraftkoloss      | Kampf   | Physisch | 120      | 100         |
+| 277 | Magiemantel      | Psycho  | Status   | ---      | ---         |
+| 278 | Aufbereitung     | Normal  | Status   | ---      | ---         |
+| 279 | Vergeltung       | Kampf   | Physisch | 60       | 100         |
+| 280 | Durchbruch       | Kampf   | Physisch | 75       | 100         |
+| 281 | Gähner           | Normal  | Status   | ---      | ---         |
+| 282 | Abschlag         | Unlicht | Physisch | 65       | 100         |
+| 283 | Notsituation     | Normal  | Physisch | Variiert | 100         |
+| 284 | Eruption         | Feuer   | Speziell | Variiert | 100         |
+| 285 | Fähigkeitstausch | Psycho  | Status   | ---      | ---         |
+| 286 | Begrenzer        | Psycho  | Status   | ---      | ---         |
+| 287 | Heilung          | Normal  | Status   | ---      | ---         |
+| 288 | Nachspiel        | Geist   | Status   | ---      | ---         |
+| 289 | Übernahme        | Unlicht | Status   | ---      | ---         |
+| 290 | Geheimpower      | Normal  | Physisch | 70       | 100         |
+| 291 | Taucher          | Wasser  | Physisch | 80       | 100         |
+| 292 | Armstoß          | Kampf   | Physisch | 15       | 100         |
+| 293 | Tarnung          | Normal  | Status   | ---      | ---         |
+| 294 | Schweifglanz     | Käfer   | Status   | ---      | ---         |
+| 295 | Scheinwerfer     | Psycho  | Speziell | 70       | 100         |
+| 296 | Nebelball        | Psycho  | Speziell | 70       | 100         |
+| 297 | Daunenreigen     | Flug    | Status   | ---      | 100         |
+| 298 | Taumeltanz       | Normal  | Status   | ---      | 100         |
+| 299 | Feuerfeger       | Feuer   | Physisch | 85       | 90          |
 | 300 | Lehmsuhler       | Boden   | Status   | ---      | ---         |
 | 301 | Frostbeule       | Eis     | Physisch | 30       | 90          |
-| 302 | Nietenranke      |         |          |          |             |
-| 303 | Tagedieb         |         |          |          |             |
-| 304 | Schallwelle      |         |          |          |             |
-| 305 | Giftzahn         |         |          |          |             |
-| 306 | Zermalmklaue     |         |          |          |             |
-| 307 | Lohekanonade     |         |          |          |             |
-| 308 | Aquahaubitze     |         |          |          |             |
-| 309 | Sternenhieb      |         |          |          |             |
-| 310 | Erstauner        |         |          |          |             |
-| 311 | Meteorologe      |         |          |          |             |
-| 312 | Aromakur         |         |          |          |             |
-| 313 | Trugträne        |         |          |          |             |
-| 314 | Windschnitt      |         |          |          |             |
-| 315 | Hitzekoller      |         |          |          |             |
-| 316 | Schnüffler       |         |          |          |             |
-| 317 | Felsgrab         |         |          |          |             |
-| 318 | Silberhauch      |         |          |          |             |
-| 319 | Metallsound      |         |          |          |             |
-| 320 | Grasflöte        |         |          |          |             |
-| 321 | Spaßkanone       |         |          |          |             |
-| 322 | Kosmik-Kraft     |         |          |          |             |
-| 323 | Fontränen        |         |          |          |             |
-| 324 | Ampelleuchte     |         |          |          |             |
-| 325 | Finsterfaust     |         |          |          |             |
-| 326 | Sondersensor     |         |          |          |             |
-| 327 | Himmelhieb       |         |          |          |             |
+| 302 | Nietenranke      | Pflanze | Physisch | 60       | 100         |
+| 303 | Tagedieb         | Normal  | Status   | ---      | ---         |
+| 304 | Schallwelle      | Normal  | Speziell | 90       | 100         |
+| 305 | Giftzahn         | Gift    | Physisch | 50       | 100         |
+| 306 | Zermalmklaue     | Normal  | Physisch | 75       | 95          |
+| 307 | Lohekanonade     | Feuer   | Speziell | 150      | 90          |
+| 308 | Aquahaubitze     | Wasser  | Speziell | 150      | 90          |
+| 309 | Sternenhieb      | Stahl   | Physisch | 90       | 90          |
+| 310 | Erstauner        | Geist   | Physisch | 30       | 100         |
+| 311 | Meteorologe      | Normal  | Speziell | 50       | 100         |
+| 312 | Aromakur         | Pflanze | Status   | ---      | ---         |
+| 313 | Trugträne        | Unlicht | Status   | ---      | 100         |
+| 314 | Windschnitt      | Flug    | Speziell | 60       | 95          |
+| 315 | Hitzekoller      | Feuer   | Speziell | 130      | 90          |
+| 316 | Schnüffler       | Normal  | Status   | ---      | ---         |
+| 317 | Felsgrab         | Gestein | Physisch | 60       | 95          |
+| 318 | Silberhauch      | Käfer   | Speziell | 60       | 100         |
+| 319 | Metallsound      | Stahl   | Status   | ---      | 85          |
+| 320 | Grasflöte        | Pflanze | Status   | ---      | 55          |
+| 321 | Spaßkanone       | Normal  | Status   | ---      | 100         |
+| 322 | Kosmik-Kraft     | Psycho  | Status   | ---      | ---         |
+| 323 | Fontränen        | Wasser  | Speziell | Variiert | 100         |
+| 324 | Ampelleuchte     | Käfer   | Speziell | 75       | 100         |
+| 325 | Finsterfaust     | Geist   | Physisch | 60       | ---         |
+| 326 | Sondersensor     | Psycho  | Speziell | 80       | 100         |
+| 327 | Himmelhieb       | Kampf   | Physisch | 85       | 90          |
 | 328 | Sandgrab         | Boden   | Physisch | 35       | 85          |
 | 329 | Eiseskälte       | Eis     | Speziell | K.O.     | 30          |
-| 330 | Lehmbrühe        |         |          |          |             |
-| 331 | Kugelsaat        |         |          |          |             |
-| 332 | Aero-Ass         |         |          |          |             |
+| 330 | Lehmbrühe        | Wasser  | Speziell | 90       | 85          |
+| 331 | Kugelsaat        | Pflanze | Physisch | 25       | 100         |
+| 332 | Aero-Ass         | Flug    | Physisch | 60       | ---         |
 | 333 | Eisspeer         | Eis     | Physisch | 25       | 100         |
-| 334 | Eisenabwehr      |         |          |          |             |
-| 335 | Rückentzug       |         |          |          |             |
-| 336 | Jauler           |         |          |          |             |
+| 334 | Eisenabwehr      | Stahl   | Status   | ---      | ---         |
+| 335 | Rückentzug       | Normal  | Status   | ---      | ---         |
+| 336 | Jauler           | Normal  | Status   | ---      | ---         |
 | 337 | Drachenklaue     | Drache  | Physisch | 80       | 100         |
-| 338 | Flora-Statue     |         |          |          |             |
-| 339 | Protzer          |         |          |          |             |
-| 340 | Sprungfeder      |         |          |          |             |
+| 338 | Flora-Statue     | Pflanze | Speziell | 150      | 90          |
+| 339 | Protzer          | Kampf   | Status   | ---      | ---         |
+| 340 | Sprungfeder      | Flug    | Physisch | 85       | 85          |
 | 341 | Lehmschuss       | Boden   | Speziell | 55       | 95          |
-| 342 | Giftschweif      |         |          |          |             |
-| 343 | Bezirzer         |         |          |          |             |
+| 342 | Giftschweif      | Gift    | Physisch | 50       | 100         |
+| 343 | Bezirzer         | Normal  | Physisch | 60       | 100         |
 | 344 | Volttackle       | Elektro | Physisch | 120      | 100         |
-| 345 | Zauberblatt      |         |          |          |             |
-| 346 | Nassmacher       |         |          |          |             |
-| 347 | Gedankengut      |         |          |          |             |
-| 348 | Laubklinge       |         |          |          |             |
-| 349 | Drachentanz      |         |          |          |             |
-| 350 | Felswurf         |         |          |          |             |
+| 345 | Zauberblatt      | Pflanze | Speziell | 60       | ---         |
+| 346 | Nassmacher       | Wasser  | Status   | ---      | ---         |
+| 347 | Gedankengut      | Psycho  | Status   | ---      | ---         |
+| 348 | Laubklinge       | Pflanze | Physisch | 90       | 100         |
+| 349 | Drachentanz      | Drache  | Status   | ---      | ---         |
+| 350 | Felswurf         | Gestein | Physisch | 25       | 90          |
 | 351 | Schockwelle      | Elektro | Speziell | 60       | ---         |
-| 352 | Aquawelle        |         |          |          |             |
-| 353 | Kismetwunsch     |         |          |          |             |
-| 354 | Psyschub         |         |          |          |             |
-| 355 | Ruheort          |         |          |          |             |
-| 356 | Erdanziehung     |         |          |          |             |
-| 357 | Wunderauge       |         |          |          |             |
-| 358 | Weckruf          |         |          |          |             |
-| 359 | Hammerarm        |         |          |          |             |
-| 360 | Gyroball         |         |          |          |             |
-| 361 | Heilopfer        |         |          |          |             |
-| 362 | Lake             |         |          |          |             |
-| 363 | Beerenkräfte     |         |          |          |             |
-| 364 | Offenlegung      |         |          |          |             |
-| 365 | Pflücker         |         |          |          |             |
-| 366 | Rückenwind       |         |          |          |             |
-| 367 | Akupressur       |         |          |          |             |
-| 368 | Metallstoß       |         |          |          |             |
-| 369 | Kehrtwende       |         |          |          |             |
-| 370 | Nahkampf         |         |          |          |             |
-| 371 | Gegenstoß        |         |          |          |             |
-| 372 | Gewissheit       |         |          |          |             |
-| 373 | Itemsperre       |         |          |          |             |
-| 374 | Schleuder        |         |          |          |             |
-| 375 | Psybann          |         |          |          |             |
-| 376 | Trumpfkarte      |         |          |          |             |
-| 377 | Heilblockade     |         |          |          |             |
-| 378 | Auswringen       |         |          |          |             |
-| 379 | Krafttrick       |         |          |          |             |
-| 380 | Magensäfte       |         |          |          |             |
-| 381 | Beschwörung      |         |          |          |             |
-| 382 | Egotrip          |         |          |          |             |
-| 383 | Imitator         |         |          |          |             |
-| 384 | Krafttausch      |         |          |          |             |
-| 385 | Schutztausch     |         |          |          |             |
-| 386 | Strafattacke     |         |          |          |             |
-| 387 | Zuflucht         |         |          |          |             |
-| 388 | Sorgensamen      |         |          |          |             |
-| 389 | Tiefschlag       |         |          |          |             |
-| 390 | Giftspitzen      |         |          |          |             |
-| 391 | Statustausch     |         |          |          |             |
-| 392 | Wasserring       |         |          |          |             |
+| 352 | Aquawelle        | Wasser  | Speziell | 60       | 100         |
+| 353 | Kismetwunsch     | Stahl   | Speziell | 140      | 100         |
+| 354 | Psyschub         | Psycho  | Speziell | 140      | 90          |
+| 355 | Ruheort          | Flug    | Status   | ---      | ---         |
+| 356 | Erdanziehung     | Psycho  | Status   | ---      | ---         |
+| 357 | Wunderauge       | Psycho  | Status   | ---      | ---         |
+| 358 | Weckruf          | Kampf   | Physisch | 70       | 100         |
+| 359 | Hammerarm        | Kampf   | Physisch | 100      |             |
+| 360 | Gyroball         | Stahl   | Physisch | Variiert | 100         |
+| 361 | Heilopfer        | Psycho  | Status   | ---      | ---         |
+| 362 | Lake             | Wasser  | Speziell | 65       | 100         |
+| 363 | Beerenkräfte     | Normal  | Physisch | Variiert | 100         |
+| 364 | Offenlegung      | Normal  | Physisch | 30       | 100         |
+| 365 | Pflücker         | Flug    | Physisch | 60       | 100         |
+| 366 | Rückenwind       | Flug    | Status   | ---      | ---         |
+| 367 | Akupressur       | Normal  | Status   | ---      | ---         |
+| 368 | Metallstoß       | Stahl   | Physisch | Variiert | 100         |
+| 369 | Kehrtwende       | Käfer   | Physisch | 70       | 100         |
+| 370 | Nahkampf         | Kampf   | Physisch | 120      | 100         |
+| 371 | Gegenstoß        | Unlicht | Physisch | 50       | 100         |
+| 372 | Gewissheit       | Unlicht | Physisch | 60       | 100         |
+| 373 | Itemsperre       | Unlicht | Status   | ---      | 100         |
+| 374 | Schleuder        | Unlicht | Physisch | Variiert | 100         |
+| 375 | Psybann          | Psycho  | Status   | ---      | 100         |
+| 376 | Trumpfkarte      | Normal  | Speziell | Variiert | ---         |
+| 377 | Heilblockade     | Psycho  | Status   | ---      | 100         |
+| 378 | Auswringen       | Normal  | Speziell | Variiert | 100         |
+| 379 | Krafttrick       | Psycho  | Status   | ---      | ---         |
+| 380 | Magensäfte       | Gift    | Status   | ---      | 100         |
+| 381 | Beschwörung      | Normal  | Status   | ---      | ---         |
+| 382 | Egotrip          | Normal  | Status   | ---      | ---         |
+| 383 | Imitator         | Normal  | Status   | ---      | ---         |
+| 384 | Krafttausch      | Psycho  | Status   | ---      | ---         |
+| 385 | Schutztausch     | Psycho  | Status   | ---      | ---         |
+| 386 | Strafattacke     | Unlicht | Physisch | Variiert | 100         |
+| 387 | Zuflucht         | Normal  | Physisch | 140      | 100         |
+| 388 | Sorgensamen      | Pflanze | Status   | ---      | 100         |
+| 389 | Tiefschlag       | Unlicht | Physisch | 70       | 100         |
+| 390 | Giftspitzen      | Gift    | Status   | ---      | ---         |
+| 391 | Statustausch     | Psycho  | Status   | ---      | ---         |
+| 392 | Wasserring       | Wasser  | Status   | ---      | ---         |
 | 393 | Magnetflug       | Elektro | Status   | ---      | ---         |
-| 394 | Flammenblitz     |         |          |          |             |
-| 395 | Kraftwelle       |         |          |          |             |
-| 396 | Aurasphäre       |         |          |          |             |
-| 397 | Steinpolitur     |         |          |          |             |
-| 398 | Gifthieb         |         |          |          |             |
-| 399 | Finsteraura      |         |          |          |             |
-| 400 | Nachthieb        |         |          |          |             |
-| 401 | Nassschweif      |         |          |          |             |
-| 402 | Samenbomben      |         |          |          |             |
-| 403 | Luftschnitt      |         |          |          |             |
-| 404 | Kreuzschere      |         |          |          |             |
-| 405 | Käfergebrumm     |         |          |          |             |
+| 394 | Flammenblitz     | Feuer   | Physisch | 120      | 100         |
+| 395 | Kraftwelle       | Kraft   | Physisch | 60       | 100         |
+| 396 | Aurasphäre       | Kraft   | Speziell | 80       | ---         |
+| 397 | Steinpolitur     | Festein | Status   | ---      | ---         |
+| 398 | Gifthieb         | Gift    | Physisch | 80       | 100         |
+| 399 | Finsteraura      | Unlicht | Speziell | 80       | 100         |
+| 400 | Nachthieb        | Unlicht | Physisch | 70       | 100         |
+| 401 | Nassschweif      | Wasser  | Physisch | 90       | 90          |
+| 402 | Samenbomben      | Pflanze | Physisch | 80       | 100         |
+| 403 | Luftschnitt      | Flug    | Speziell | 75       | 95          |
+| 404 | Kreuzschere      | Käfer   | Physisch | 80       | 100         |
+| 405 | Käfergebrumm     | Käfer   | Speziell | 90       | 100         |
 | 406 | Drachenpuls      | Drache  | Speziell | 85       | 100         |
 | 407 | Drachenstoß      | Drache  | Physisch | 100      | 75          |
-| 408 | Juwelenkraft     |         |          |          |             |
-| 409 | Ableithieb       |         |          |          |             |
-| 410 | Vakuumwelle      |         |          |          |             |
-| 411 | Fokusstoß        |         |          |          |             |
-| 412 | Energieball      |         |          |          |             |
-| 413 | Sturzflug        |         |          |          |             |
+| 408 | Juwelenkraft     | Gestein | Speziell |          |             |
+| 409 | Ableithieb       | Kampf   | Physisch |          |             |
+| 410 | Vakuumwelle      | Kampf   | Speziell |          |             |
+| 411 | Fokusstoß        | Kampf   | Speziell |          |             |
+| 412 | Energieball      | Pflanze | Speziell |          |             |
+| 413 | Sturzflug        | Flug    | Physisch |          |             |
 | 414 | Erdkräfte        | Boden   | Speziell | 90       | 100         |
-| 415 | Wechseldich      |         |          |          |             |
-| 416 | Gigastoß         |         |          |          |             |
-| 417 | Ränkeschmied     |         |          |          |             |
-| 418 | Patronenhieb     |         |          |          |             |
+| 415 | Wechseldich      | Unlicht | Status   |          |             |
+| 416 | Gigastoß         | Normal  | Physisch |          |             |
+| 417 | Ränkeschmied     | Unlicht | Status   |          |             |
+| 418 | Patronenhieb     | Stahl   | Physisch |          |             |
 | 419 | Lawine           | Eis     | Physisch | 60       | 100         |
 | 420 | Eissplitter      | Eis     | Physisch | 40       | 100         |
-| 421 | Dunkelklaue      |         |          |          |             |
+| 421 | Dunkelklaue      | Geist   | Physisch |          |             |
 | 422 | Donnerzahn       | Elektro | Speziell | 65       | 95          |
 | 423 | Eiszahn          | Eis     | Physisch | 65       | 95          |
-| 424 | Feuerzahn        |         |          |          |             |
-| 425 | Schattenstoß     |         |          |          |             |
+| 424 | Feuerzahn        | Feuer   | Physisch |          |             |
+| 425 | Schattenstoß     | Geist   | Physisch |          |             |
 | 426 | Schlammbombe     | Boden   | Speziell | 65       | 85          |
-| 427 | Psychoklinge     |         |          |          |             |
-| 428 | Zen-Kopfstoß     |         |          |          |             |
-| 429 | Spiegelsalve     |         |          |          |             |
-| 430 | Lichtkanone      |         |          |          |             |
-| 431 | Kraxler          |         |          |          |             |
-| 432 | Auflockern       |         |          |          |             |
-| 433 | Bizarroraum      |         |          |          |             |
+| 427 | Psychoklinge     | Psycho  | Physisch |          |             |
+| 428 | Zen-Kopfstoß     | Psycho  | Physisch |          |             |
+| 429 | Spiegelsalve     | Stahl   | Speziell |          |             |
+| 430 | Lichtkanone      | Stahl   | Speziell |          |             |
+| 431 | Kraxler          | Normal  | Physisch |          |             |
+| 432 | Auflockern       | Flug    | Status   |          |             |
+| 433 | Bizarroraum      | Psycho  | Status   |          |             |
 | 434 | Draco Meteor     | Drache  | Speziell | 130      | 90          |
 | 435 | Ladungsstoß      | Elektro | Speziell | 80       | 100         |
-| 436 | Flammensturm     |         |          |          |             |
-| 437 | Blättersturm     |         |          |          |             |
-| 438 | Blattgeißel      |         |          |          |             |
-| 439 | Felswerfer       |         |          |          |             |
-| 440 | Giftstreich      |         |          |          |             |
-| 441 | Mülltreffer      |         |          |          |             |
-| 442 | Eisenschädel     |         |          |          |             |
-| 443 | Magnetbombe      |         |          |          |             |
-| 444 | Steinkante       |         |          |          |             |
-| 445 | Liebreiz         |         |          |          |             |
-| 446 | Tarnsteine       |         |          |          |             |
-| 447 | Strauchler       |         |          |          |             |
-| 448 | Geschwätz        |         |          |          |             |
-| 449 | Urteilskraft     |         |          |          |             |
-| 450 | Käferbiss        |         |          |          |             |
+| 436 | Flammensturm     | Feuer   | Speziell |          |             |
+| 437 | Blättersturm     | Pflanze | Speziell |          |             |
+| 438 | Blattgeißel      | Pflanze | Physisch |          |             |
+| 439 | Felswerfer       | Gestein | Physisch |          |             |
+| 440 | Giftstreich      | Gift    | Physisch |          |             |
+| 441 | Mülltreffer      | Gift    | Physisch |          |             |
+| 442 | Eisenschädel     | Stahl   | Physisch |          |             |
+| 443 | Magnetbombe      | Stahl   | Physisch |          |             |
+| 444 | Steinkante       | Gestein | Physisch |          |             |
+| 445 | Liebreiz         | Normal  | Status   |          |             |
+| 446 | Tarnsteine       | Gestein | Status   |          |             |
+| 447 | Strauchler       | Pflanze | Speziell |          |             |
+| 448 | Geschwätz        | Flug    | Speziell |          |             |
+| 449 | Urteilskraft     | Normal  | Speziell |          |             |
+| 450 | Käferbiss        | Käfer   | Physisch |          |             |
 | 451 | Ladestrahl       | Elektro | Speziell | 50       | 90          |
-| 452 | Holzhammer       |         |          |          |             |
-| 453 | Wasserdüse       |         |          |          |             |
-| 454 | Schlagbefehl     |         |          |          |             |
-| 455 | Blockbefehl      |         |          |          |             |
-| 456 | Heilbefehl       |         |          |          |             |
-| 457 | Kopfstoß         |         |          |          |             |
-| 458 | Doppelschlag     |         |          |          |             |
+| 452 | Holzhammer       | Pflanze | Physisch |          |             |
+| 453 | Wasserdüse       | Wasser  | Physisch |          |             |
+| 454 | Schlagbefehl     | Käfer   | Physisch |          |             |
+| 455 | Blockbefehl      | Käfer   | Status   |          |             |
+| 456 | Heilbefehl       | Käfer   | Status   |          |             |
+| 457 | Kopfstoß         | Gestein | Physisch |          |             |
+| 458 | Doppelschlag     | Normal  | Physisch |          |             |
 | 459 | Zeitenlärm       | Drache  | Speziell | 150      | 90          |
 | 460 | Raumschlag       | Drache  | Speziell | 100      | 90          |
-| 461 | Lunartanz        |         |          |          |             |
-| 462 | Quetschgriff     |         |          |          |             |
-| 463 | Lavasturm        |         |          |          |             |
-| 464 | Schlummerort     |         |          |          |             |
-| 465 | Schocksamen      |         |          |          |             |
-| 466 | Unheilböen       |         |          |          |             |
-| 467 | Schemenkraft     |         |          |          |             |
+| 461 | Lunartanz        | Psycho  | Status   |          |             |
+| 462 | Quetschgriff     | Normal  | Physisch |          |             |
+| 463 | Lavasturm        | Feuer   | Speziell |          |             |
+| 464 | Schlummerort     | Unlicht | Status   |          |             |
+| 465 | Schocksamen      | Pflanze | Speziell |          |             |
+| 466 | Unheilböen       | Geist   | Speziell |          |             |
+| 467 | Schemenkraft     | Geist   | Physisch |          |             |
 | 468 | Klauenwetzer     |         |          |          |             |
 | 469 | Rundumschutz     |         |          |          |             |
 | 470 | Schutzteiler     |         |          |          |             |
