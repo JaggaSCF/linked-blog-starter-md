@@ -6,3 +6,6 @@
 - Sephiron Insider
 - Level Caps
 - Für Nuzlockes gemacht
+- Spiel ist auf Blind Nuzlockes ohne Sheets ausgerichtet
+- NPCs haben nur Dialoge mit Insidern/Infos zu starken Trainern oder geben einen Items
+- Keine EVs !!!

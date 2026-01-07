@@ -27,8 +27,6 @@
 - Kurt war gerade im Begriff, sie selbst zur Rede zu stellen, als du vorbeigekommen bist.
 - Entschlossen eilt er davon, um die Pokémon zu retten.
 
-*Steineichenwald (Optional):*
-
 **Flegmon-Brunnen:**
 - Kurt befindet sich direkt im Inneren des Flegmon-Brunnens.
 - Der Team-Rocket-Rüpel, der zuvor den Eingang blockiert hatte, erschrickt so sehr über Kurts Zuruf, dass er in den Brunnen stürzt.

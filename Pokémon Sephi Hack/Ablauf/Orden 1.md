@@ -3,8 +3,6 @@
 
 **Route 29:**
 
-*Route 46 (Optional):*
-
 **Rosalia City:**
 - Stadtrundführung und Turbotreter vom alten Mann
 - Beim Verlassen der Stadt hält uns nochmal der alte Mann auf und gibt uns das Kartenmodul für das Pokégear
@@ -37,17 +35,8 @@
 **Route 31:**
 - Beim Betreten des Durchgangs zu Viola City wird man von Lyra/Ethan aufgehalten, die einem die Kampfkamera schenkt
 
-*Dunkelhöhle (Optional):*
-
 **Viola City:**
 - Man betritt Arena, es wird uns aber gesagt, dass wir zuerst zum Knofensa-Turm gehen sollen
-
-*Route 32 (Optional):*
-
-*Route 36 (Optional):*
-- VM Zertrümmerer
-
-*Alph-Ruinen (Optional):*
 
 **Knofensa-Turm:**
 - Man kämpft sich durch alle Trainer durch
