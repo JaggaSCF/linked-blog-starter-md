@@ -30,11 +30,11 @@
 | 0011 | Safcon  |       |
 | 0012 | Smettbo |       |
 
-| Nr.  | Name       | Makel |
-| ---- | ---------- | ----- |
-| 0013 | Hornliu    |       |
-| 0014 | Kokuna     |       |
-| 0015 | Bibor      |       |
+| Nr.    | Name         | Makel |
+| ------ | ------------ | ----- |
+| 0013   | Hornliu      |       |
+| 0014   | Kokuna       |       |
+| 0015   | Bibor        |       |
 | *0015* | *Mega-Bibor* |       |
 
 | Nr.  | Name         | Makel |
