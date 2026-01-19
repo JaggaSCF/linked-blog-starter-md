@@ -62,7 +62,7 @@
 | 0519 | Dusselgurr          |       |
 | 0520 | Navitaub            |       |
 | 0521 | Fasasnob (Männlich) |       |
-| 0522 | Fasasnob (Weiblich) |       |
+| 0521 | Fasasnob (Weiblich) |       |
 
 | Nr.  | Name    | Makel |
 | ---- | ------- | ----- |
