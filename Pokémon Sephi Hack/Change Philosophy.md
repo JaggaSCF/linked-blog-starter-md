@@ -1,4 +1,0 @@
-- Wenn die Basiswert-Summe einer Endentwicklung unter 450 ist, wird sie auf 450 angehoben
-- Typen-Änderungen müssen durch Aussehen oder Namen gerechtfertigt werden
-- Werte immer auf oder abrunden, so dass diese durch 5 teilbar sind
-- Fähigkeiten werden nur dann geändert, wenn sie nicht gut ist

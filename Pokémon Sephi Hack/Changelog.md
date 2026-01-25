@@ -1,2 +1,0 @@
-- Menu Icons immediately available after starting the game
-- First dialogue with Mom cut short
