@@ -1,0 +1,20 @@
+- Spielt im Cosmic Currents Universum
+- Es geht um zwei rivalisierende Städte/Dörfer, die schon seit Ewigkeiten im Konflikt stehen, der scheinbar nie endet
+- Eines Tages werden in beiden Dörfern Kinder geboren, die spezielle Fähigkeiten besitzen
+- Schnell stellt sich heraus, dass die beiden Jungen sogenannte Domini sind
+- Ein Dominus gilt als Zeichen dafür, dass eine höhere Existenz Kontakt aufgenommen hat und man ihren Segen hat
+- Die beiden Dörfer denken, dass sie nun endlich ein Mittel gefunden haben, mit dem sie ihre Rivalen besiegen können
+- Der eine Junge wird zu einem Genie erzogen, das Strategien und Schlachtpläne entwickeln soll, der andere zu dem besten Krieger und Ein-Mann-Armee
+- Die Jahre vergehen und unzählige von Plänen das andere Dorf auszuschalten, scheitern an der Brillanz der jeweiligen Domini
+- Es ist als ob die beiden dafür geboren wurde, so unterschiedlich wie möglich zu sein und zu hassen, sich aber nie zerstören zu können
+- Über die Jahre hinweg bügeln die beiden weiter ihre Schwächen aus, bis sie sowohl mental als auch körperlich ebenbürtig sind
+- Die einst so verschiedenen Jungen wirken quasi identisch
+- Außer, dass der Hass zwischen den beiden immer größer wird
+- Dieser Hass färbt zusätzlich noch auf die Dorfbewohner ab und alles bewegt sich auf eine riesige Schlacht zu
+- In dem ganzen Chaos befindet sich jedoch eine Frau, die Skepsis entwickelt 
+- Die beiden Dörfer, mit den Domini an der Front, wappnen sich um es ein für alle Mal zu beenden
+- Der Regen strömt und der Kampf ist unerbittlich, jedoch ist sich jeder Kämpfer ebenbürtig mit seinem Gegenüber
+- Die skeptische Dorfbewohnerin steht mitten im Schlachtfeld, niemand kämpft gegen sie, während um sie herum Schreie ertönen, Schwerter aneinanderschlagen, niemand aber fällt
+- Die Schlacht nimmt natürlich eine Spiralform an und wirkt wie ein Kunstwerk
+- Die Frau erkennt langsam, dass die beiden Dörfer zu einem einzigen Organismus zusammengewachsen sind
+- Auch erkennt sie, dass jeder einzelne essentieller Bestandteil dieses Systems ist

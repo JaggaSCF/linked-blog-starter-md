@@ -1,0 +1,7 @@
+- Geschichte beginnt mit den Geschwistern Yiaren und Islaya
+- Sie leben auf Yonaguma, einer riesigen Insel, die vom Rest der Welt abgeschottet ist
+- Yiaren ist 12 Jahre alt und hat schwarze Haare und grüne Augen
+- Er ist aktuell in der vierten Jahrgangsstufe der Kriegsakademie von Yonaguma
+- Yonaguma war vor 14 Jahren in einem großen Krieg mit dem Festland verwickelt
+- Obwohl die Streitkraft von Yonaguma deutlich kleiner, als die des Festlands war, endete der Krieg mit einem vorläufigen Sieg für Yonaguma
+- Dieser kam zustande als die Kinderarmee von Yonaguma auf die des Festlands losgelassen wurde und sich dessen Soldaten zu lange weigerten Kinder zu töten
