@@ -1,0 +1,11 @@
+- Urknall -> Anfang des Universums
+- Über Millionen von Jahren formen sich Sterne
+- Extrem wenige von ihnen beginnen sich noch weiterentwickeln und nehmen wie ein Embryo durch Zellteilung eine Form und ein Bewusstsein an
+- Der Resultat sind extrem mächtige Wesen von kosmischer Größe und Macht
+- Sie werden Izmea (*Kind der Sterne*) genannt
+- Sengukia (*Die fühlende Sonne*) ist eine solche Izmea
+- Eine Ewigkeit vergeht bis Sengukia ausgereift ist 
+- Sie sendet instinktiv viele Signale aus, in der Hoffnung, dass sie eine Antwort bekommt, dies ist jedoch leider vergebens
+- Sengukia spürt so viel Macht und Energie in sich, jedoch ohne jemanden der dies mitbekommen kann
+- Traurig und verzweifelt spielt sie mit ihrer Umgebung in der nur Gas und Staub ist und formt diese zu größeren Brocken, bis schließlich nach einiger Zeit ein Planet entsteht
+- Sie arbeitete weiter an diesem Planeten bis er ihr gefiel

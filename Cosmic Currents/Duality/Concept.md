@@ -1,5 +1,8 @@
 - Spielt im Cosmic Currents Universum
-- Es geht um zwei rivalisierende Städte/Dörfer, die schon seit Ewigkeiten im Konflikt stehen, der scheinbar nie endet
+- In den Weiten des Universums gibt es höhere Existenzen, die von den Menschen nicht greifbar sind
+- Der Planet der Menschen ist der einzige Ort an dem intelligentes Leben existiert, dass den Einfluss dieser Existenz spüren kann, und danach sehen die Wesen sich
+- Sie haben einzigartige Charakteristiken und repräsentieren häufig Konzepte, die für die Menschen meist nur schwer greifbar sind
+- Es geht um zwei rivalisierende Städte/Dörfer, die schon seit Ewigkeiten im Konflikt stehen
 - Eines Tages werden in beiden Dörfern Kinder geboren, die spezielle Fähigkeiten besitzen
 - Schnell stellt sich heraus, dass die beiden Jungen sogenannte Domini sind
 - Ein Dominus gilt als Zeichen dafür, dass eine höhere Existenz Kontakt aufgenommen hat und man ihren Segen hat
@@ -18,3 +21,4 @@
 - Die Schlacht nimmt natürlich eine Spiralform an und wirkt wie ein Kunstwerk
 - Die Frau erkennt langsam, dass die beiden Dörfer zu einem einzigen Organismus zusammengewachsen sind
 - Auch erkennt sie, dass jeder einzelne essentieller Bestandteil dieses Systems ist
+- Sie nimmt eine Axt
