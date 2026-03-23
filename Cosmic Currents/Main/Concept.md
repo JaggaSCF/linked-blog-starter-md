@@ -1,11 +1,27 @@
 - Urknall -> Anfang des Universums
 - Über Millionen von Jahren formen sich Sterne
-- Extrem wenige von ihnen beginnen sich noch weiterentwickeln und nehmen wie ein Embryo durch Zellteilung eine Form und ein Bewusstsein an
+- Extrem wenige von ihnen beginnen (durch Kosmischen Zufall) sich weiterzuentwickeln und nehmen wie ein Embryo durch Zellteilung eine Form und ein Bewusstsein an
 - Der Resultat sind extrem mächtige Wesen von kosmischer Größe und Macht
 - Sie werden Izmea (*Kind der Sterne*) genannt
 - Sengukia (*Die fühlende Sonne*) ist eine solche Izmea
 - Eine Ewigkeit vergeht bis Sengukia ausgereift ist 
 - Sie sendet instinktiv viele Signale aus, in der Hoffnung, dass sie eine Antwort bekommt, dies ist jedoch leider vergebens
-- Sengukia spürt so viel Macht und Energie in sich, jedoch ohne jemanden der dies mitbekommen kann
-- Traurig und verzweifelt spielt sie mit ihrer Umgebung in der nur Gas und Staub ist und formt diese zu größeren Brocken, bis schließlich nach einiger Zeit ein Planet entsteht
-- Sie arbeitete weiter an diesem Planeten bis er ihr gefiel
+- Sengukia spürte so viel Macht und Energie in sich, jedoch ohne jemanden der dies mitbekommen kann
+- Traurig und verzweifelt spielte sie mit ihrer Umgebung in der nur Gas und Staub ist und formte diese zu größeren Brocken, bis schließlich nach einiger Zeit ein Planet entsteht
+- Sie arbeitete weiter an dem Planeten bis dieser sich abkühlte und ein stabiles Gleichgewicht aus Land und Ozeanen entstand
+- Jedoch war sie immer noch einsam
+- Bis sie auf einmal etwas in den von ihr erschaffenen Ozeanen wahrnahm
+- Überall in Weltmeeren bilden sich kleine Punkte, die sich anders verhalten als alles was Sengukia zuvor gesehen hat
+- Zudem sind diese Punkte dazu in der Lage sich zu teilen und zu vermehren
+- Viele Jahre vergehen und Sengukias Planet hat sich zu einem Ort entwickelt wo Pflanzen und Tiere sich breit gemacht haben
+- Insbesondere eine Spezies der Tiere hat das Interesse von Sengukia auf sich gezogen, die Menschen
+- Sie scheinen besonders sozial in ihren Strukturen zu sein, was mit Sengukia resoniert und erweiterte Intelligenz zu zeigen
+- Izmea haben einen festgelegten Wirkungsbereich der auch als ihre Domäne bezeichnet wird
+- Sengukias Domäne umschloss den ganzen von ihr erschaffenen Planeten, was ihr Einfluss auf die Lebewesen gab, die dort lebten
+- Jedoch bedeutet diese nicht, dass sie jeder Existenz einfach befehlen konnte ihr zu gehorchen, sondern garantierte nur eine Art Kontaktaufnahme und Beeinflussung
+- Bei allen anderen Tieren scheiterten die Versuche mit ihnen Kontakt aufzunehmen da diese nur Angst hatten
+- Die Menschen jedoch waren anders
+- Sie hatten zwar am Anfang auch Angst
+- Doch die simple Angst vor etwas unbekanntem entwickelte sich zu Ehrfurcht
+- Sie begannen den gelb leuchtenden Kreis am Himmel zu vergöttern und nannten sie "Sengukia"
+
