@@ -1,3 +1,4 @@
+## Akt 1
 - Urknall -> Anfang des Universums
 - Über Millionen von Jahren formen sich Sterne
 - Extrem wenige von ihnen beginnen (durch Kosmischen Zufall) sich weiterzuentwickeln und nehmen wie ein Embryo durch Zellteilung eine Form und ein Bewusstsein an
@@ -25,3 +26,17 @@
 - Doch die simple Angst vor etwas unbekanntem entwickelte sich zu Ehrfurcht
 - Sie begannen den gelb leuchtenden Kreis am Himmel zu vergöttern und nannten sie "Sengukia"
 
+## Akt 2
+- Viele Jahre vergingen und die Menschen entwickelten eine Gesellschaft und Glauben zentristisch um Sengukia
+- Durch die Sesshaftigkeit der Menschen und das Bauen von Dörfern wurden indirekt Machtverhältnisse kreiert 
+- Zwischen den einzelnen Siedlungen begannen Rivalitäten und Streits um Nahrung, Felder und Wasser
+- Zwar waren die Leute alle in ihrem obersten Glauben zu Sengukia vereint, jedoch konnte sie nicht direkt mit ihnen kommunizieren und ihren Willen äußern
+- Die Bewohner des größten Dorfes waren besorgt, dass es weiter eskalieren könnte und beteten zu Sengukia um Hilfe
+- Die Antwort die folgen sollte, war der endgültige Beginn der Korruption der Menschen und der größte Fehler Sengukias
+- Die Menschen waren mittlerweile nicht nur willig Sengukias Kommunikationsversuche auf sich wirken zu lassen, sondern diese auch zu erwidern in Form von Gebeten
+- Und so war es für Sengukia möglich den ersten Kosmischen Strom zwischen einem Izmea und einem Menschen aufzumachen, die Geburt des ersten Zeraboa (*Sklave des Himmels*) namens Gero
+- Der Kosmische Strom zwischen einem Izmea und einem Zeraboa unterliegt bestimmten Regeln.
+- Die erste Regel ist, dass die Verbindung nur dann aufgehoben werden kann, wenn beide Mitglieder den Willen dazu haben
+- Die zweite Regel ist, dass der Zeraboa immer einen ständigen Fluss an Energie vom Izmea bekommt, im Gegenzug kann der Izmea seinen Willen direkt und verständlich dem Zeraboa vermitteln.
+- Die dritte Regel ist, dass der Zeraboa im normalen Zustand kein Sklave seines Izmeas ist und einen eigenen Willen hat. Wenn jedoch ein Zeraboa mehr Energie verlangt, bekommt er diese nur im Gegenzug zur Willensübernahme des Izmeas bis die Extra-Reserve verbraucht ist
+- Das Verhältnis ist somit eins, was nicht ohne Kosten kommt
