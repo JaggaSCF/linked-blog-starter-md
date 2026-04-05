@@ -39,4 +39,14 @@
 - Die erste Regel ist, dass die Verbindung nur dann aufgehoben werden kann, wenn beide Mitglieder den Willen dazu haben
 - Die zweite Regel ist, dass der Zeraboa immer einen ständigen Fluss an Energie vom Izmea bekommt, im Gegenzug kann der Izmea seinen Willen direkt und verständlich dem Zeraboa vermitteln.
 - Die dritte Regel ist, dass der Zeraboa im normalen Zustand kein Sklave seines Izmeas ist und einen eigenen Willen hat. Wenn jedoch ein Zeraboa mehr Energie verlangt, bekommt er diese nur im Gegenzug zur Willensübernahme des Izmeas bis die Extra-Reserve verbraucht ist
-- Das Verhältnis ist somit eins, was nicht ohne Kosten kommt
+- Das Verhältnis ist somit eins, was nicht ohne Kosten kommt, vor allem weil die Menschlichkeit des Zeraboas auch in Richtung des Izmeas fließt und diesen langfristig verändert
+- Gero brachte die gewünschte Veränderung und konnte mithilfe seiner übernatürlichen Kräfte die Menschen davon überzeugen, dass er von Sengukia auserwählt wurde über sie zu regieren
+- Die Menschen liebten Gero, da er ein guter Herrscher war und er das Interesse von Sengukia völlig vertrat, zudem wurde er als Halbgott gesehen der etwas Göttliches in sich trug
+- Er baute das erste Imperium auf und vereinigte die ganzen einzelnen Dörfer mit friedlichen Mitteln
+- Das Imperium von Gero wuchs weiter und weiter, bis die ganze bekannte Welt (die zu Fuß erreichbar war) unter seiner Obhut stand
+- Es folgten Hunderte Jahre von Frieden und stetigem Wachstum in denen das Imperium unter Gero zu einem Paradies wurde
+- Und da er nicht alterte, dank Sengukias Verbindung zu ihm, sollte sich dies auch nicht ändern
+- Alle waren glücklich und zufrieden, bis...
+
+## Akt 3
+- Lichtjahre weit weg wurden die ursprünglich von Sengukia versendeten Signale von einem anderen Izmea wahrgenommen, der auch dachte, dass er alleine in dieser extremen Weite wäre (Signale durch Lichtgeschwindigkeit begrenzt)
