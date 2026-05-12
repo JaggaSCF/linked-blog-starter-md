@@ -50,3 +50,15 @@
 
 ## Akt 3
 - Lichtjahre weit weg wurden die ursprünglich von Sengukia versendeten Signale von einem anderen Izmea wahrgenommen, der auch dachte, dass er alleine in dieser extremen Weite wäre (Signale durch Lichtgeschwindigkeit begrenzt)
+- Da die ersten Signale, die Sengukia hinausschickte ihr zu schwach schienen, entschloss sie sich, ihre nächsten zu Bündeln, um ein paar wenige sehr starke Strahlimpulse loszusenden
+- Diese entzogen ihr jedoch viel Kraft, weshalb sie daraufhin keine mehr entsandte
+- Als einer dieser gebündelte Strahlen plötzlich auf den anderen Izmea hinzukam versuchte sich dieser reflexartig verteidigen, er war jedoch zu langsam
+- Der Strahl schoss mit Lichtgeschwindigkeit in ihn rein
+- Merkwürdigerweise konnte er jedoch in diesem kurzen Moment eine kosmische Verbindung herstellen, die ihm zeigte was Sengukia fühlte und denkt
+- Sengukia spürte nur einen kurzen Moment einer primitiven Angst, welcher ihr jedoch noch länger im Gedächtnis bleiben sollte
+- Auch wenn Materie an die Lichtgeschwindigkeit gebunden ist, ist es seltsamerweise ein Kosmischer Strom nicht
+- Der Izmea war noch sehr primitiv und konnte die ganzen Informationen nicht deuten, jedoch wurde er süchtig nach dem Gefühl der Anbetung und Wertschätzung, die Sengukia von den Menschen erfuhr
+- Denn der einzige Wunsch einer gottgleichen Existenz ist es angebetet zu werden
+- Voll Neid sendete der andere Izmea seinen eigenen Komischen Strom in Richtung Sengukia
+- Jedoch dauerte es noch mehr als 10.000 Jahre bis dieser ankam
+- 
